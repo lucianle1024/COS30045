@@ -1,6 +1,6 @@
 # COS30045 Project Plan
 
-Updated: 13 November 2026
+Updated: 13 November 2026 (Phase 2.2 draft)
 
 ## Goal
 
@@ -10,12 +10,17 @@ Develop an evidence-based D3.js data story about hospitalised injuries from road
 
 - [x] Repo structure and original source files collected.
 - [x] Initial raw-data inspection documented in `docs/DATA_AUDIT.md`.
-- [ ] Confirm research questions and audience after examining the data.
+- [x] Draft intended audience, research questions and Design Book Sections 1.1, 1.2 and 2.1 in `docs/design_book/01_introduction_and_data_source.md`.
+- [ ] Team review of research scope and audience before KNIME EDA.
 - [ ] Produce and validate KNIME workflow with all input and exported data.
 - [ ] Complete Stand Up 1 presentation and Design Book draft.
 - [ ] Create wireframe, storyboard and D3.js website.
 - [ ] Conduct real usability testing, refine website and complete Design Book.
 - [ ] Validate final submission against all official rubric criteria.
+
+## Next step
+
+Build and verify a KNIME workflow starting from the Excel `raw` sheet, filtering `Traffic` and grouping `Hospitalisations` by year and road user. Compare output with tables T1 and T2 before writing Data Processing and EDA results.
 
 ## Milestones
 
