@@ -1,0 +1,29 @@
+{
+  "status": "PASS",
+  "source_rows": 117919,
+  "traffic_rows": 86140,
+  "duplicate_traffic_keys": 0,
+  "matched_annual_controls": 11,
+  "export_rows": {
+    "annual_totals.csv": 11,
+    "road_user_by_year.csv": 132,
+    "age_sex_by_road_user.csv": 1683
+  },
+  "unknown_age_hospitalisations_retained": 1,
+  "other_or_not_stated_sex_hospitalisations_retained": 15,
+  "annual_totals": {
+    "2011": 34033,
+    "2012": 34024,
+    "2013": 35001,
+    "2014": 35515,
+    "2015": 37082,
+    "2016": 38963,
+    "2017": 39339,
+    "2018": 39590,
+    "2019": 39866,
+    "2020": 37966,
+    "2021": 39505
+  },
+  "metric": "Sum of Hospitalisations for Cause of injury = Traffic",
+  "notes": "Counts are not population-adjusted risk. The source has recording breaks in 2012 and 2017."
+}

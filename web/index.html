@@ -1,0 +1,129 @@
+<!doctype html>
+<!-- AI assistance: structure a three-part data story with labelled controls, source notes and accessible chart alternatives. -->
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Explore hospitalised road injuries in Australia from 2011 to 2021, by road user, age and sex." />
+    <title>Who is being hospitalised on Australia's roads?</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#explore">Skip to the visualisations</a>
+    <header class="masthead wrap">
+      <a class="wordmark" href="#top">ROAD INJURY <span>/ AUSTRALIA</span></a>
+      <nav aria-label="Story chapters">
+        <a href="#trend">The trend</a>
+        <a href="#road-users">Road users</a>
+        <a href="#demographics">Age &amp; sex</a>
+      </nav>
+    </header>
+    <main id="top">
+      <section class="hero wrap" aria-labelledby="page-title">
+        <div>
+          <p class="eyebrow">A national view / 2011-2021</p>
+          <h1 id="page-title">Who is being hospitalised on Australia's roads?</h1>
+          <p class="standfirst">Look beyond the national total. Follow the trend, compare road users, and explore the age and sex profile of each group.</p>
+        </div>
+        <aside class="headline-number" aria-label="National hospitalisations in 2021">
+          <span class="eyebrow">Australia in 2021</span>
+          <strong id="headline-count">Loading...</strong>
+          <span>hospitalised road injuries</span>
+          <p>The source measure subtracts cases ending in death within 30 days of admission. It does not cover every road-crash injury.</p>
+        </aside>
+      </section>
+      <section id="explore" class="controls-shell" aria-label="Explore the data">
+        <div class="controls wrap">
+          <div class="control">
+            <label for="year">Year</label>
+            <select id="year" disabled><option>Loading...</option></select>
+          </div>
+          <div class="control control-road">
+            <label for="road-user">Road user</label>
+            <select id="road-user" disabled><option>Loading...</option></select>
+          </div>
+          <button id="reset" type="button" disabled>Reset view</button>
+          <p id="selection-status" role="status" aria-live="polite">Loading the verified datasets...</p>
+        </div>
+      </section>
+      <div id="load-error" class="wrap error" role="alert" hidden>
+        <h2>The data could not be loaded.</h2>
+        <p id="error-detail"></p>
+        <button type="button" id="reload">Try again</button>
+      </div>
+      <div id="story" class="wrap" hidden>
+        <section class="chapter" id="trend" aria-labelledby="trend-title">
+          <div class="chapter-copy">
+            <p class="eyebrow"><span class="chapter-number">01</span> The national picture</p>
+            <h2 id="trend-title">Start with the trend.</h2>
+            <p id="trend-insight"></p>
+            <p class="muted">Choose a point to change the year. Selecting a road user shows that group's trend.</p>
+          </div>
+          <figure class="chart-frame">
+            <figcaption><span id="trend-caption">Annual hospitalisations</span><span class="unit">Hospitalisations</span></figcaption>
+            <div id="trend-chart" class="chart-host"></div>
+            <p class="chart-note">Reporting breaks: Victoria changed admission rules in 2012; NSW changed its rules in 2017. Changes in these years need careful interpretation.</p>
+          </figure>
+        </section>
+        <section class="chapter" id="road-users" aria-labelledby="road-title">
+          <div class="chapter-copy">
+            <p class="eyebrow"><span class="chapter-number">02</span> Who makes up the total?</p>
+            <h2 id="road-title">Compare road users.</h2>
+            <p id="road-insight"></p>
+            <p class="muted">Select a bar to follow that group across the story. Select it again to return to all road users.</p>
+          </div>
+          <figure class="chart-frame">
+            <figcaption><span id="road-caption"></span><span class="unit">Hospitalisations</span></figcaption>
+            <div id="road-chart" class="chart-host"></div>
+            <p class="chart-note">All 12 source road-user categories are retained, including other or unknown categories.</p>
+          </figure>
+        </section>
+        <section class="chapter" id="demographics" aria-labelledby="age-title">
+          <div class="chapter-copy">
+            <p class="eyebrow"><span class="chapter-number">03</span> A closer look</p>
+            <h2 id="age-title">Explore age and sex.</h2>
+            <p id="age-insight"></p>
+            <p class="muted">Age groups have different widths. Larger counts do not establish a higher individual risk.</p>
+          </div>
+          <figure class="chart-frame">
+            <figcaption><span id="age-caption"></span><span class="unit">Hospitalisations</span></figcaption>
+            <ul class="legend" aria-label="Sex categories">
+              <li><i class="swatch male" aria-hidden="true"></i>Male</li>
+              <li><i class="swatch female" aria-hidden="true"></i>Female</li>
+              <li><i class="swatch other" aria-hidden="true"></i>Other / not stated</li>
+            </ul>
+            <div id="age-chart" class="chart-host"></div>
+            <p class="chart-note">The source combines “intersex or indeterminate or missing” into one sex category, labelled Other / not stated here. Unknown age is retained.</p>
+          </figure>
+        </section>
+        <details class="data-disclosure">
+          <summary>View the selected data as a table</summary>
+          <div class="table-scroll">
+            <table id="selected-data">
+              <caption id="table-caption"></caption>
+              <thead><tr><th scope="col">Age group</th><th scope="col">Male</th><th scope="col">Female</th><th scope="col">Other / not stated</th><th scope="col">Total</th></tr></thead>
+              <tbody></tbody>
+              <tfoot></tfoot>
+            </table>
+          </div>
+        </details>
+        <section class="method" aria-labelledby="method-title">
+          <div>
+            <p class="eyebrow">Read the numbers carefully</p>
+            <h2 id="method-title">What these figures can tell us.</h2>
+          </div>
+          <div>
+            <p>These are hospitalisation counts, not unique people, population-adjusted rates, or a measure of how dangerous a mode of transport is. Exposure, population size and reporting practices can affect comparisons.</p>
+            <p>The original workbook contains six cause categories. This story uses only <strong>Traffic</strong> and sums the <strong>Hospitalisations</strong> field. The raw rows are aggregated records, so counting rows would give the wrong result.</p>
+            <p>Source: <a href="https://www.bitre.gov.au/publications/ongoing/hospitalised-injury">BITRE Hospitalised Injury Data</a>, September 2023 publication, using AIHW National Hospital Morbidity Database data. The source dictionary describes definitions, exclusions and the 2012 and 2017 reporting changes.</p>
+          </div>
+        </section>
+      </div>
+      <noscript><p class="wrap error">JavaScript is required to load the interactive visualisations.</p></noscript>
+    </main>
+    <footer class="wrap footer"><span>COS30045 / Individual project</span><span>Nguyen Huyen Minh Nhat</span></footer>
+    <div id="chart-tooltip" class="tooltip" role="tooltip" hidden></div>
+    <script src="vendor/d3.v7.min.js"></script>
+    <script type="module" src="app.js"></script>
+  </body>
+</html>

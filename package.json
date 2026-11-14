@@ -1,0 +1,8 @@
+{
+  "name": "cos30045-individual-road-injuries",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tools/data.test.js"
+  }
+}

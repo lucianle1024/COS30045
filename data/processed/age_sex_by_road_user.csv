@@ -1,0 +1,1684 @@
+"year","road_user","age_group","sex","hospitalisations"
+2011,"Bus occupant","0-7","Female",2
+2011,"Bus occupant","0-7","Male",5
+2011,"Bus occupant","17-25","Female",14
+2011,"Bus occupant","17-25","Male",7
+2011,"Bus occupant","26-39","Female",14
+2011,"Bus occupant","26-39","Male",10
+2011,"Bus occupant","40-64","Female",34
+2011,"Bus occupant","40-64","Male",24
+2011,"Bus occupant","65-74","Female",21
+2011,"Bus occupant","65-74","Male",10
+2011,"Bus occupant","75+","Female",49
+2011,"Bus occupant","75+","Male",12
+2011,"Bus occupant","8-16","Female",6
+2011,"Bus occupant","8-16","Male",6
+2011,"Car driver","17-25","Female",1296
+2011,"Car driver","17-25","Male",1621
+2011,"Car driver","26-39","Female",1248
+2011,"Car driver","26-39","Male",1542
+2011,"Car driver","40-64","Female",1718
+2011,"Car driver","40-64","Male",1754
+2011,"Car driver","65-74","Female",381
+2011,"Car driver","65-74","Male",432
+2011,"Car driver","75+","Female",397
+2011,"Car driver","75+","Male",486
+2011,"Car driver","8-16","Female",28
+2011,"Car driver","8-16","Male",45
+2011,"Car passenger","0-7","Female",133
+2011,"Car passenger","0-7","Male",140
+2011,"Car passenger","17-25","Female",694
+2011,"Car passenger","17-25","Male",761
+2011,"Car passenger","26-39","Female",462
+2011,"Car passenger","26-39","Male",379
+2011,"Car passenger","40-64","Female",639
+2011,"Car passenger","40-64","Male",323
+2011,"Car passenger","65-74","Female",245
+2011,"Car passenger","65-74","Male",69
+2011,"Car passenger","75+","Female",281
+2011,"Car passenger","75+","Male",91
+2011,"Car passenger","8-16","Female",354
+2011,"Car passenger","8-16","Male",282
+2011,"Car unknown position","0-7","Female",10
+2011,"Car unknown position","0-7","Male",10
+2011,"Car unknown position","17-25","Female",89
+2011,"Car unknown position","17-25","Male",127
+2011,"Car unknown position","26-39","Female",90
+2011,"Car unknown position","26-39","Male",134
+2011,"Car unknown position","40-64","Female",122
+2011,"Car unknown position","40-64","Male",151
+2011,"Car unknown position","65-74","Female",28
+2011,"Car unknown position","65-74","Male",31
+2011,"Car unknown position","75+","Female",29
+2011,"Car unknown position","75+","Male",26
+2011,"Car unknown position","8-16","Female",19
+2011,"Car unknown position","8-16","Male",23
+2011,"Heavy transport driver","17-25","Male",33
+2011,"Heavy transport driver","26-39","Female",3
+2011,"Heavy transport driver","26-39","Male",122
+2011,"Heavy transport driver","40-64","Female",8
+2011,"Heavy transport driver","40-64","Male",271
+2011,"Heavy transport driver","65-74","Male",17
+2011,"Heavy transport driver","75+","Male",1
+2011,"Heavy transport passenger","0-7","Female",1
+2011,"Heavy transport passenger","17-25","Female",2
+2011,"Heavy transport passenger","17-25","Male",8
+2011,"Heavy transport passenger","26-39","Female",4
+2011,"Heavy transport passenger","26-39","Male",8
+2011,"Heavy transport passenger","40-64","Female",7
+2011,"Heavy transport passenger","40-64","Male",12
+2011,"Heavy transport passenger","65-74","Female",4
+2011,"Heavy transport passenger","65-74","Male",3
+2011,"Heavy transport passenger","8-16","Male",3
+2011,"Heavy transport unknown position","17-25","Male",2
+2011,"Heavy transport unknown position","26-39","Female",2
+2011,"Heavy transport unknown position","26-39","Male",7
+2011,"Heavy transport unknown position","40-64","Female",1
+2011,"Heavy transport unknown position","40-64","Male",37
+2011,"Heavy transport unknown position","65-74","Male",4
+2011,"Heavy transport unknown position","8-16","Female",2
+2011,"Motorcyclist","0-7","Female",6
+2011,"Motorcyclist","0-7","Male",21
+2011,"Motorcyclist","17-25","Female",163
+2011,"Motorcyclist","17-25","Male",1879
+2011,"Motorcyclist","26-39","Female",203
+2011,"Motorcyclist","26-39","Male",1971
+2011,"Motorcyclist","40-64","Female",296
+2011,"Motorcyclist","40-64","Male",2349
+2011,"Motorcyclist","65-74","Female",17
+2011,"Motorcyclist","65-74","Male",144
+2011,"Motorcyclist","75+","Female",8
+2011,"Motorcyclist","75+","Male",34
+2011,"Motorcyclist","8-16","Female",44
+2011,"Motorcyclist","8-16","Male",430
+2011,"Other or unknown","0-7","Female",6
+2011,"Other or unknown","0-7","Male",14
+2011,"Other or unknown","17-25","Female",36
+2011,"Other or unknown","17-25","Male",87
+2011,"Other or unknown","26-39","Female",39
+2011,"Other or unknown","26-39","Male",81
+2011,"Other or unknown","40-64","Female",58
+2011,"Other or unknown","40-64","Male",129
+2011,"Other or unknown","65-74","Female",19
+2011,"Other or unknown","65-74","Male",60
+2011,"Other or unknown","75+","Female",22
+2011,"Other or unknown","75+","Male",24
+2011,"Other or unknown","8-16","Female",8
+2011,"Other or unknown","8-16","Male",27
+2011,"Pedal cyclist","0-7","Female",64
+2011,"Pedal cyclist","0-7","Male",140
+2011,"Pedal cyclist","17-25","Female",112
+2011,"Pedal cyclist","17-25","Male",556
+2011,"Pedal cyclist","26-39","Female",269
+2011,"Pedal cyclist","26-39","Male",1045
+2011,"Pedal cyclist","40-64","Female",459
+2011,"Pedal cyclist","40-64","Male",1558
+2011,"Pedal cyclist","65-74","Female",49
+2011,"Pedal cyclist","65-74","Male",191
+2011,"Pedal cyclist","75+","Female",9
+2011,"Pedal cyclist","75+","Male",78
+2011,"Pedal cyclist","8-16","Female",163
+2011,"Pedal cyclist","8-16","Male",698
+2011,"Pedestrian","0-7","Female",55
+2011,"Pedestrian","0-7","Male",108
+2011,"Pedestrian","17-25","Female",194
+2011,"Pedestrian","17-25","Male",338
+2011,"Pedestrian","26-39","Female",151
+2011,"Pedestrian","26-39","Male",315
+2011,"Pedestrian","40-64","Female",285
+2011,"Pedestrian","40-64","Male",348
+2011,"Pedestrian","65-74","Female",134
+2011,"Pedestrian","65-74","Male",98
+2011,"Pedestrian","75+","Female",204
+2011,"Pedestrian","75+","Male",151
+2011,"Pedestrian","8-16","Female",150
+2011,"Pedestrian","8-16","Male",223
+2011,"Pick-up truck or van occupant","0-7","Female",1
+2011,"Pick-up truck or van occupant","0-7","Male",3
+2011,"Pick-up truck or van occupant","17-25","Female",16
+2011,"Pick-up truck or van occupant","17-25","Male",59
+2011,"Pick-up truck or van occupant","26-39","Female",16
+2011,"Pick-up truck or van occupant","26-39","Male",51
+2011,"Pick-up truck or van occupant","40-64","Female",11
+2011,"Pick-up truck or van occupant","40-64","Male",66
+2011,"Pick-up truck or van occupant","65-74","Female",1
+2011,"Pick-up truck or van occupant","65-74","Male",10
+2011,"Pick-up truck or van occupant","75+","Female",2
+2011,"Pick-up truck or van occupant","75+","Male",2
+2011,"Pick-up truck or van occupant","8-16","Female",5
+2011,"Pick-up truck or van occupant","8-16","Male",4
+2012,"Bus occupant","0-7","Female",4
+2012,"Bus occupant","0-7","Male",5
+2012,"Bus occupant","17-25","Female",6
+2012,"Bus occupant","17-25","Male",5
+2012,"Bus occupant","26-39","Female",15
+2012,"Bus occupant","26-39","Male",14
+2012,"Bus occupant","40-64","Female",33
+2012,"Bus occupant","40-64","Male",35
+2012,"Bus occupant","65-74","Female",16
+2012,"Bus occupant","65-74","Male",6
+2012,"Bus occupant","75+","Female",50
+2012,"Bus occupant","75+","Male",19
+2012,"Bus occupant","8-16","Female",5
+2012,"Bus occupant","8-16","Male",4
+2012,"Car driver","0-7","Female",2
+2012,"Car driver","0-7","Male",0
+2012,"Car driver","17-25","Female",1292
+2012,"Car driver","17-25","Male",1538
+2012,"Car driver","26-39","Female",1219
+2012,"Car driver","26-39","Male",1517
+2012,"Car driver","40-64","Female",1646
+2012,"Car driver","40-64","Male",1745
+2012,"Car driver","65-74","Female",399
+2012,"Car driver","65-74","Male",447
+2012,"Car driver","75+","Female",435
+2012,"Car driver","75+","Male",507
+2012,"Car driver","8-16","Female",24
+2012,"Car driver","8-16","Male",35
+2012,"Car passenger","0-7","Female",152
+2012,"Car passenger","0-7","Male",156
+2012,"Car passenger","17-25","Female",645
+2012,"Car passenger","17-25","Male",739
+2012,"Car passenger","26-39","Female",473
+2012,"Car passenger","26-39","Male",411
+2012,"Car passenger","40-64","Female",597
+2012,"Car passenger","40-64","Male",308
+2012,"Car passenger","65-74","Female",222
+2012,"Car passenger","65-74","Male",61
+2012,"Car passenger","75+","Female",310
+2012,"Car passenger","75+","Male",96
+2012,"Car passenger","8-16","Female",295
+2012,"Car passenger","8-16","Male",273
+2012,"Car unknown position","0-7","Female",8
+2012,"Car unknown position","0-7","Male",6
+2012,"Car unknown position","17-25","Female",97
+2012,"Car unknown position","17-25","Male",164
+2012,"Car unknown position","26-39","Female",86
+2012,"Car unknown position","26-39","Male",116
+2012,"Car unknown position","40-64","Female",117
+2012,"Car unknown position","40-64","Male",140
+2012,"Car unknown position","65-74","Female",42
+2012,"Car unknown position","65-74","Male",22
+2012,"Car unknown position","75+","Female",39
+2012,"Car unknown position","75+","Male",27
+2012,"Car unknown position","8-16","Female",17
+2012,"Car unknown position","8-16","Male",14
+2012,"Heavy transport driver","17-25","Female",1
+2012,"Heavy transport driver","17-25","Male",28
+2012,"Heavy transport driver","26-39","Female",4
+2012,"Heavy transport driver","26-39","Male",126
+2012,"Heavy transport driver","40-64","Female",8
+2012,"Heavy transport driver","40-64","Male",228
+2012,"Heavy transport driver","65-74","Male",19
+2012,"Heavy transport driver","75+","Male",2
+2012,"Heavy transport passenger","0-7","Female",1
+2012,"Heavy transport passenger","0-7","Male",1
+2012,"Heavy transport passenger","17-25","Female",1
+2012,"Heavy transport passenger","17-25","Male",13
+2012,"Heavy transport passenger","26-39","Female",2
+2012,"Heavy transport passenger","26-39","Male",10
+2012,"Heavy transport passenger","40-64","Female",5
+2012,"Heavy transport passenger","40-64","Male",10
+2012,"Heavy transport passenger","65-74","Male",1
+2012,"Heavy transport passenger","75+","Female",2
+2012,"Heavy transport passenger","8-16","Male",1
+2012,"Heavy transport unknown position","17-25","Male",4
+2012,"Heavy transport unknown position","26-39","Male",14
+2012,"Heavy transport unknown position","40-64","Female",5
+2012,"Heavy transport unknown position","40-64","Male",23
+2012,"Heavy transport unknown position","65-74","Male",1
+2012,"Heavy transport unknown position","8-16","Male",1
+2012,"Motorcyclist","0-7","Female",9
+2012,"Motorcyclist","0-7","Male",38
+2012,"Motorcyclist","17-25","Female",179
+2012,"Motorcyclist","17-25","Male",1898
+2012,"Motorcyclist","26-39","Female",197
+2012,"Motorcyclist","26-39","Male",2043
+2012,"Motorcyclist","40-64","Female",308
+2012,"Motorcyclist","40-64","Male",2371
+2012,"Motorcyclist","65-74","Female",13
+2012,"Motorcyclist","65-74","Male",153
+2012,"Motorcyclist","75+","Female",5
+2012,"Motorcyclist","75+","Male",36
+2012,"Motorcyclist","8-16","Female",63
+2012,"Motorcyclist","8-16","Male",415
+2012,"Other or unknown","0-7","Female",5
+2012,"Other or unknown","0-7","Male",13
+2012,"Other or unknown","17-25","Female",42
+2012,"Other or unknown","17-25","Male",77
+2012,"Other or unknown","26-39","Female",35
+2012,"Other or unknown","26-39","Male",79
+2012,"Other or unknown","40-64","Female",72
+2012,"Other or unknown","40-64","Male",114
+2012,"Other or unknown","65-74","Female",8
+2012,"Other or unknown","65-74","Male",22
+2012,"Other or unknown","75+","Female",25
+2012,"Other or unknown","75+","Male",42
+2012,"Other or unknown","8-16","Female",7
+2012,"Other or unknown","8-16","Male",22
+2012,"Pedal cyclist","0-7","Female",61
+2012,"Pedal cyclist","0-7","Male",141
+2012,"Pedal cyclist","17-25","Female",128
+2012,"Pedal cyclist","17-25","Male",603
+2012,"Pedal cyclist","26-39","Female",292
+2012,"Pedal cyclist","26-39","Male",1025
+2012,"Pedal cyclist","40-64","Female",451
+2012,"Pedal cyclist","40-64","Male",1706
+2012,"Pedal cyclist","65-74","Female",73
+2012,"Pedal cyclist","65-74","Male",209
+2012,"Pedal cyclist","75+","Female",14
+2012,"Pedal cyclist","75+","Male",90
+2012,"Pedal cyclist","8-16","Female",163
+2012,"Pedal cyclist","8-16","Male",665
+2012,"Pedestrian","0-7","Female",49
+2012,"Pedestrian","0-7","Male",95
+2012,"Pedestrian","17-25","Female",188
+2012,"Pedestrian","17-25","Male",314
+2012,"Pedestrian","26-39","Female",197
+2012,"Pedestrian","26-39","Male",316
+2012,"Pedestrian","40-64","Female",279
+2012,"Pedestrian","40-64","Male",362
+2012,"Pedestrian","65-74","Female",109
+2012,"Pedestrian","65-74","Male",99
+2012,"Pedestrian","75+","Female",185
+2012,"Pedestrian","75+","Male",166
+2012,"Pedestrian","8-16","Female",106
+2012,"Pedestrian","8-16","Male",207
+2012,"Pick-up truck or van occupant","0-7","Female",2
+2012,"Pick-up truck or van occupant","0-7","Male",2
+2012,"Pick-up truck or van occupant","17-25","Female",10
+2012,"Pick-up truck or van occupant","17-25","Male",63
+2012,"Pick-up truck or van occupant","26-39","Female",15
+2012,"Pick-up truck or van occupant","26-39","Male",45
+2012,"Pick-up truck or van occupant","40-64","Female",18
+2012,"Pick-up truck or van occupant","40-64","Male",81
+2012,"Pick-up truck or van occupant","65-74","Female",5
+2012,"Pick-up truck or van occupant","65-74","Male",14
+2012,"Pick-up truck or van occupant","75+","Female",3
+2012,"Pick-up truck or van occupant","75+","Male",5
+2012,"Pick-up truck or van occupant","8-16","Female",2
+2012,"Pick-up truck or van occupant","8-16","Male",8
+2013,"Bus occupant","0-7","Female",4
+2013,"Bus occupant","0-7","Male",3
+2013,"Bus occupant","17-25","Female",5
+2013,"Bus occupant","17-25","Male",11
+2013,"Bus occupant","26-39","Female",13
+2013,"Bus occupant","26-39","Male",11
+2013,"Bus occupant","40-64","Female",33
+2013,"Bus occupant","40-64","Male",33
+2013,"Bus occupant","65-74","Female",22
+2013,"Bus occupant","65-74","Male",16
+2013,"Bus occupant","75+","Female",54
+2013,"Bus occupant","75+","Male",15
+2013,"Bus occupant","8-16","Female",3
+2013,"Bus occupant","8-16","Male",3
+2013,"Car driver","0-7","Female",2
+2013,"Car driver","0-7","Male",2
+2013,"Car driver","17-25","Female",1264
+2013,"Car driver","17-25","Male",1492
+2013,"Car driver","26-39","Female",1287
+2013,"Car driver","26-39","Male",1543
+2013,"Car driver","40-64","Female",1750
+2013,"Car driver","40-64","Male",1706
+2013,"Car driver","40-64","intersex or indeterminate or missing",1
+2013,"Car driver","65-74","Female",428
+2013,"Car driver","65-74","Male",461
+2013,"Car driver","75+","Female",423
+2013,"Car driver","75+","Male",520
+2013,"Car driver","8-16","Female",24
+2013,"Car driver","8-16","Male",39
+2013,"Car passenger","0-7","Female",150
+2013,"Car passenger","0-7","Male",152
+2013,"Car passenger","17-25","Female",652
+2013,"Car passenger","17-25","Male",679
+2013,"Car passenger","26-39","Female",480
+2013,"Car passenger","26-39","Male",411
+2013,"Car passenger","40-64","Female",660
+2013,"Car passenger","40-64","Male",311
+2013,"Car passenger","65-74","Female",262
+2013,"Car passenger","65-74","Male",74
+2013,"Car passenger","75+","Female",300
+2013,"Car passenger","75+","Male",87
+2013,"Car passenger","8-16","Female",343
+2013,"Car passenger","8-16","Male",267
+2013,"Car unknown position","0-7","Female",5
+2013,"Car unknown position","0-7","Male",7
+2013,"Car unknown position","17-25","Female",92
+2013,"Car unknown position","17-25","Male",94
+2013,"Car unknown position","26-39","Female",89
+2013,"Car unknown position","26-39","Male",119
+2013,"Car unknown position","40-64","Female",119
+2013,"Car unknown position","40-64","Male",133
+2013,"Car unknown position","65-74","Female",32
+2013,"Car unknown position","65-74","Male",21
+2013,"Car unknown position","75+","Female",46
+2013,"Car unknown position","75+","Male",23
+2013,"Car unknown position","8-16","Female",18
+2013,"Car unknown position","8-16","Male",20
+2013,"Heavy transport driver","17-25","Male",35
+2013,"Heavy transport driver","26-39","Female",1
+2013,"Heavy transport driver","26-39","Male",112
+2013,"Heavy transport driver","40-64","Female",7
+2013,"Heavy transport driver","40-64","Male",240
+2013,"Heavy transport driver","65-74","Male",19
+2013,"Heavy transport driver","75+","Male",1
+2013,"Heavy transport passenger","17-25","Female",1
+2013,"Heavy transport passenger","17-25","Male",5
+2013,"Heavy transport passenger","26-39","Female",1
+2013,"Heavy transport passenger","26-39","Male",4
+2013,"Heavy transport passenger","40-64","Female",8
+2013,"Heavy transport passenger","40-64","Male",17
+2013,"Heavy transport passenger","8-16","Male",4
+2013,"Heavy transport unknown position","17-25","Male",1
+2013,"Heavy transport unknown position","26-39","Male",4
+2013,"Heavy transport unknown position","40-64","Male",19
+2013,"Heavy transport unknown position","65-74","Male",4
+2013,"Heavy transport unknown position","75+","Female",1
+2013,"Heavy transport unknown position","8-16","Male",0
+2013,"Motorcyclist","0-7","Female",7
+2013,"Motorcyclist","0-7","Male",30
+2013,"Motorcyclist","17-25","Female",180
+2013,"Motorcyclist","17-25","Male",1904
+2013,"Motorcyclist","26-39","Female",228
+2013,"Motorcyclist","26-39","Male",2040
+2013,"Motorcyclist","26-39","intersex or indeterminate or missing",1
+2013,"Motorcyclist","40-64","Female",337
+2013,"Motorcyclist","40-64","Male",2542
+2013,"Motorcyclist","65-74","Female",12
+2013,"Motorcyclist","65-74","Male",193
+2013,"Motorcyclist","75+","Female",7
+2013,"Motorcyclist","75+","Male",66
+2013,"Motorcyclist","8-16","Female",56
+2013,"Motorcyclist","8-16","Male",415
+2013,"Other or unknown","0-7","Female",13
+2013,"Other or unknown","0-7","Male",11
+2013,"Other or unknown","17-25","Female",30
+2013,"Other or unknown","17-25","Male",68
+2013,"Other or unknown","26-39","Female",26
+2013,"Other or unknown","26-39","Male",80
+2013,"Other or unknown","40-64","Female",61
+2013,"Other or unknown","40-64","Male",123
+2013,"Other or unknown","65-74","Female",13
+2013,"Other or unknown","65-74","Male",24
+2013,"Other or unknown","75+","Female",26
+2013,"Other or unknown","75+","Male",26
+2013,"Other or unknown","8-16","Female",7
+2013,"Other or unknown","8-16","Male",28
+2013,"Pedal cyclist","0-7","Female",57
+2013,"Pedal cyclist","0-7","Male",137
+2013,"Pedal cyclist","17-25","Female",138
+2013,"Pedal cyclist","17-25","Male",640
+2013,"Pedal cyclist","26-39","Female",322
+2013,"Pedal cyclist","26-39","Male",1154
+2013,"Pedal cyclist","40-64","Female",562
+2013,"Pedal cyclist","40-64","Male",1955
+2013,"Pedal cyclist","65-74","Female",71
+2013,"Pedal cyclist","65-74","Male",250
+2013,"Pedal cyclist","75+","Female",12
+2013,"Pedal cyclist","75+","Male",93
+2013,"Pedal cyclist","8-16","Female",155
+2013,"Pedal cyclist","8-16","Male",716
+2013,"Pedestrian","0-7","Female",54
+2013,"Pedestrian","0-7","Male",96
+2013,"Pedestrian","17-25","Female",190
+2013,"Pedestrian","17-25","Male",305
+2013,"Pedestrian","26-39","Female",156
+2013,"Pedestrian","26-39","Male",326
+2013,"Pedestrian","40-64","Female",288
+2013,"Pedestrian","40-64","Male",368
+2013,"Pedestrian","65-74","Female",122
+2013,"Pedestrian","65-74","Male",122
+2013,"Pedestrian","75+","Female",189
+2013,"Pedestrian","75+","Male",162
+2013,"Pedestrian","8-16","Female",105
+2013,"Pedestrian","8-16","Male",174
+2013,"Pick-up truck or van occupant","0-7","Female",1
+2013,"Pick-up truck or van occupant","0-7","Male",1
+2013,"Pick-up truck or van occupant","17-25","Female",11
+2013,"Pick-up truck or van occupant","17-25","Male",55
+2013,"Pick-up truck or van occupant","26-39","Female",7
+2013,"Pick-up truck or van occupant","26-39","Male",57
+2013,"Pick-up truck or van occupant","40-64","Female",14
+2013,"Pick-up truck or van occupant","40-64","Male",58
+2013,"Pick-up truck or van occupant","65-74","Male",11
+2013,"Pick-up truck or van occupant","75+","Female",4
+2013,"Pick-up truck or van occupant","75+","Male",5
+2013,"Pick-up truck or van occupant","8-16","Female",2
+2013,"Pick-up truck or van occupant","8-16","Male",4
+2014,"Bus occupant","0-7","Female",1
+2014,"Bus occupant","0-7","Male",2
+2014,"Bus occupant","17-25","Female",17
+2014,"Bus occupant","17-25","Male",11
+2014,"Bus occupant","26-39","Female",17
+2014,"Bus occupant","26-39","Male",17
+2014,"Bus occupant","40-64","Female",66
+2014,"Bus occupant","40-64","Male",25
+2014,"Bus occupant","65-74","Female",24
+2014,"Bus occupant","65-74","Male",13
+2014,"Bus occupant","75+","Female",63
+2014,"Bus occupant","75+","Male",12
+2014,"Bus occupant","8-16","Female",16
+2014,"Bus occupant","8-16","Male",5
+2014,"Car driver","0-7","Female",2
+2014,"Car driver","0-7","Male",3
+2014,"Car driver","17-25","Female",1279
+2014,"Car driver","17-25","Male",1421
+2014,"Car driver","26-39","Female",1347
+2014,"Car driver","26-39","Male",1483
+2014,"Car driver","40-64","Female",1784
+2014,"Car driver","40-64","Male",1812
+2014,"Car driver","65-74","Female",437
+2014,"Car driver","65-74","Male",495
+2014,"Car driver","75+","Female",450
+2014,"Car driver","75+","Male",562
+2014,"Car driver","8-16","Female",17
+2014,"Car driver","8-16","Male",30
+2014,"Car passenger","0-7","Female",143
+2014,"Car passenger","0-7","Male",152
+2014,"Car passenger","17-25","Female",706
+2014,"Car passenger","17-25","Male",611
+2014,"Car passenger","26-39","Female",442
+2014,"Car passenger","26-39","Male",380
+2014,"Car passenger","40-64","Female",635
+2014,"Car passenger","40-64","Male",303
+2014,"Car passenger","65-74","Female",276
+2014,"Car passenger","65-74","Male",79
+2014,"Car passenger","75+","Female",300
+2014,"Car passenger","75+","Male",95
+2014,"Car passenger","8-16","Female",288
+2014,"Car passenger","8-16","Male",215
+2014,"Car unknown position","0-7","Female",8
+2014,"Car unknown position","0-7","Male",8
+2014,"Car unknown position","17-25","Female",80
+2014,"Car unknown position","17-25","Male",104
+2014,"Car unknown position","26-39","Female",91
+2014,"Car unknown position","26-39","Male",102
+2014,"Car unknown position","40-64","Female",109
+2014,"Car unknown position","40-64","Male",98
+2014,"Car unknown position","65-74","Female",24
+2014,"Car unknown position","65-74","Male",21
+2014,"Car unknown position","75+","Female",34
+2014,"Car unknown position","75+","Male",24
+2014,"Car unknown position","8-16","Female",11
+2014,"Car unknown position","8-16","Male",14
+2014,"Heavy transport driver","17-25","Female",1
+2014,"Heavy transport driver","17-25","Male",27
+2014,"Heavy transport driver","26-39","Female",4
+2014,"Heavy transport driver","26-39","Male",83
+2014,"Heavy transport driver","40-64","Female",5
+2014,"Heavy transport driver","40-64","Male",232
+2014,"Heavy transport driver","65-74","Male",23
+2014,"Heavy transport driver","75+","Male",2
+2014,"Heavy transport passenger","17-25","Female",3
+2014,"Heavy transport passenger","17-25","Male",8
+2014,"Heavy transport passenger","26-39","Female",4
+2014,"Heavy transport passenger","26-39","Male",10
+2014,"Heavy transport passenger","40-64","Female",11
+2014,"Heavy transport passenger","40-64","Male",10
+2014,"Heavy transport passenger","65-74","Female",2
+2014,"Heavy transport passenger","65-74","Male",1
+2014,"Heavy transport passenger","75+","Female",2
+2014,"Heavy transport passenger","75+","Male",1
+2014,"Heavy transport passenger","8-16","Male",3
+2014,"Heavy transport unknown position","17-25","Female",1
+2014,"Heavy transport unknown position","17-25","Male",4
+2014,"Heavy transport unknown position","26-39","Female",1
+2014,"Heavy transport unknown position","26-39","Male",5
+2014,"Heavy transport unknown position","40-64","Female",2
+2014,"Heavy transport unknown position","40-64","Male",25
+2014,"Heavy transport unknown position","65-74","Female",2
+2014,"Heavy transport unknown position","65-74","Male",5
+2014,"Heavy transport unknown position","75+","Female",1
+2014,"Heavy transport unknown position","8-16","Female",1
+2014,"Heavy transport unknown position","8-16","Male",1
+2014,"Motorcyclist","0-7","Female",12
+2014,"Motorcyclist","0-7","Male",24
+2014,"Motorcyclist","17-25","Female",178
+2014,"Motorcyclist","17-25","Male",1926
+2014,"Motorcyclist","26-39","Female",234
+2014,"Motorcyclist","26-39","Male",2179
+2014,"Motorcyclist","40-64","Female",333
+2014,"Motorcyclist","40-64","Male",2698
+2014,"Motorcyclist","65-74","Female",12
+2014,"Motorcyclist","65-74","Male",216
+2014,"Motorcyclist","75+","Female",14
+2014,"Motorcyclist","75+","Male",57
+2014,"Motorcyclist","8-16","Female",55
+2014,"Motorcyclist","8-16","Male",396
+2014,"Other or unknown","0-7","Female",10
+2014,"Other or unknown","0-7","Male",8
+2014,"Other or unknown","17-25","Female",29
+2014,"Other or unknown","17-25","Male",62
+2014,"Other or unknown","26-39","Female",28
+2014,"Other or unknown","26-39","Male",76
+2014,"Other or unknown","40-64","Female",55
+2014,"Other or unknown","40-64","Male",138
+2014,"Other or unknown","65-74","Female",10
+2014,"Other or unknown","65-74","Male",23
+2014,"Other or unknown","75+","Female",22
+2014,"Other or unknown","75+","Male",25
+2014,"Other or unknown","8-16","Female",7
+2014,"Other or unknown","8-16","Male",14
+2014,"Other or unknown","Missing","Male",1
+2014,"Pedal cyclist","0-7","Female",63
+2014,"Pedal cyclist","0-7","Male",160
+2014,"Pedal cyclist","17-25","Female",146
+2014,"Pedal cyclist","17-25","Male",617
+2014,"Pedal cyclist","26-39","Female",370
+2014,"Pedal cyclist","26-39","Male",1256
+2014,"Pedal cyclist","40-64","Female",570
+2014,"Pedal cyclist","40-64","Male",2059
+2014,"Pedal cyclist","65-74","Female",86
+2014,"Pedal cyclist","65-74","Male",303
+2014,"Pedal cyclist","75+","Female",15
+2014,"Pedal cyclist","75+","Male",114
+2014,"Pedal cyclist","8-16","Female",168
+2014,"Pedal cyclist","8-16","Male",709
+2014,"Pedestrian","0-7","Female",30
+2014,"Pedestrian","0-7","Male",102
+2014,"Pedestrian","17-25","Female",188
+2014,"Pedestrian","17-25","Male",244
+2014,"Pedestrian","26-39","Female",174
+2014,"Pedestrian","26-39","Male",302
+2014,"Pedestrian","40-64","Female",293
+2014,"Pedestrian","40-64","Male",325
+2014,"Pedestrian","65-74","Female",164
+2014,"Pedestrian","65-74","Male",117
+2014,"Pedestrian","75+","Female",170
+2014,"Pedestrian","75+","Male",179
+2014,"Pedestrian","8-16","Female",105
+2014,"Pedestrian","8-16","Male",161
+2014,"Pick-up truck or van occupant","0-7","Female",1
+2014,"Pick-up truck or van occupant","17-25","Female",18
+2014,"Pick-up truck or van occupant","17-25","Male",47
+2014,"Pick-up truck or van occupant","26-39","Female",6
+2014,"Pick-up truck or van occupant","26-39","Male",57
+2014,"Pick-up truck or van occupant","40-64","Female",11
+2014,"Pick-up truck or van occupant","40-64","Male",67
+2014,"Pick-up truck or van occupant","65-74","Female",5
+2014,"Pick-up truck or van occupant","65-74","Male",7
+2014,"Pick-up truck or van occupant","75+","Female",1
+2014,"Pick-up truck or van occupant","75+","Male",4
+2014,"Pick-up truck or van occupant","8-16","Female",4
+2014,"Pick-up truck or van occupant","8-16","Male",11
+2015,"Bus occupant","17-25","Female",6
+2015,"Bus occupant","17-25","Male",15
+2015,"Bus occupant","26-39","Female",13
+2015,"Bus occupant","26-39","Male",14
+2015,"Bus occupant","40-64","Female",39
+2015,"Bus occupant","40-64","Male",30
+2015,"Bus occupant","65-74","Female",30
+2015,"Bus occupant","65-74","Male",14
+2015,"Bus occupant","75+","Female",52
+2015,"Bus occupant","75+","Male",21
+2015,"Bus occupant","8-16","Female",5
+2015,"Bus occupant","8-16","Male",7
+2015,"Car driver","0-7","Female",2
+2015,"Car driver","0-7","Male",1
+2015,"Car driver","17-25","Female",1386
+2015,"Car driver","17-25","Male",1532
+2015,"Car driver","26-39","Female",1505
+2015,"Car driver","26-39","Male",1681
+2015,"Car driver","40-64","Female",1936
+2015,"Car driver","40-64","Male",1917
+2015,"Car driver","65-74","Female",509
+2015,"Car driver","65-74","Male",513
+2015,"Car driver","75+","Female",550
+2015,"Car driver","75+","Male",572
+2015,"Car driver","8-16","Female",19
+2015,"Car driver","8-16","Male",40
+2015,"Car passenger","0-7","Female",183
+2015,"Car passenger","0-7","Male",160
+2015,"Car passenger","17-25","Female",657
+2015,"Car passenger","17-25","Male",639
+2015,"Car passenger","26-39","Female",511
+2015,"Car passenger","26-39","Male",393
+2015,"Car passenger","40-64","Female",664
+2015,"Car passenger","40-64","Male",323
+2015,"Car passenger","40-64","intersex or indeterminate or missing",1
+2015,"Car passenger","65-74","Female",301
+2015,"Car passenger","65-74","Male",77
+2015,"Car passenger","75+","Female",310
+2015,"Car passenger","75+","Male",113
+2015,"Car passenger","8-16","Female",346
+2015,"Car passenger","8-16","Male",280
+2015,"Car unknown position","0-7","Female",7
+2015,"Car unknown position","0-7","Male",5
+2015,"Car unknown position","17-25","Female",99
+2015,"Car unknown position","17-25","Male",95
+2015,"Car unknown position","26-39","Female",103
+2015,"Car unknown position","26-39","Male",103
+2015,"Car unknown position","40-64","Female",88
+2015,"Car unknown position","40-64","Male",128
+2015,"Car unknown position","65-74","Female",41
+2015,"Car unknown position","65-74","Male",25
+2015,"Car unknown position","75+","Female",49
+2015,"Car unknown position","75+","Male",34
+2015,"Car unknown position","8-16","Female",21
+2015,"Car unknown position","8-16","Male",14
+2015,"Heavy transport driver","17-25","Female",2
+2015,"Heavy transport driver","17-25","Male",25
+2015,"Heavy transport driver","26-39","Female",1
+2015,"Heavy transport driver","26-39","Male",117
+2015,"Heavy transport driver","40-64","Female",4
+2015,"Heavy transport driver","40-64","Male",269
+2015,"Heavy transport driver","65-74","Male",22
+2015,"Heavy transport driver","75+","Male",3
+2015,"Heavy transport driver","8-16","Male",1
+2015,"Heavy transport passenger","0-7","Female",1
+2015,"Heavy transport passenger","0-7","Male",1
+2015,"Heavy transport passenger","17-25","Female",2
+2015,"Heavy transport passenger","17-25","Male",8
+2015,"Heavy transport passenger","26-39","Female",2
+2015,"Heavy transport passenger","26-39","Male",9
+2015,"Heavy transport passenger","40-64","Female",1
+2015,"Heavy transport passenger","40-64","Male",8
+2015,"Heavy transport passenger","65-74","Female",0
+2015,"Heavy transport passenger","65-74","Male",3
+2015,"Heavy transport passenger","75+","Male",1
+2015,"Heavy transport passenger","8-16","Female",2
+2015,"Heavy transport passenger","8-16","Male",5
+2015,"Heavy transport unknown position","17-25","Male",3
+2015,"Heavy transport unknown position","26-39","Female",0
+2015,"Heavy transport unknown position","26-39","Male",3
+2015,"Heavy transport unknown position","40-64","Female",1
+2015,"Heavy transport unknown position","40-64","Male",15
+2015,"Heavy transport unknown position","65-74","Male",1
+2015,"Motorcyclist","0-7","Female",12
+2015,"Motorcyclist","0-7","Male",25
+2015,"Motorcyclist","17-25","Female",200
+2015,"Motorcyclist","17-25","Male",1864
+2015,"Motorcyclist","26-39","Female",237
+2015,"Motorcyclist","26-39","Male",2085
+2015,"Motorcyclist","40-64","Female",327
+2015,"Motorcyclist","40-64","Male",2770
+2015,"Motorcyclist","65-74","Female",20
+2015,"Motorcyclist","65-74","Male",206
+2015,"Motorcyclist","75+","Female",28
+2015,"Motorcyclist","75+","Male",58
+2015,"Motorcyclist","8-16","Female",57
+2015,"Motorcyclist","8-16","Male",409
+2015,"Other or unknown","0-7","Female",5
+2015,"Other or unknown","0-7","Male",4
+2015,"Other or unknown","17-25","Female",39
+2015,"Other or unknown","17-25","Male",65
+2015,"Other or unknown","26-39","Female",38
+2015,"Other or unknown","26-39","Male",69
+2015,"Other or unknown","40-64","Female",56
+2015,"Other or unknown","40-64","Male",126
+2015,"Other or unknown","65-74","Female",16
+2015,"Other or unknown","65-74","Male",17
+2015,"Other or unknown","75+","Female",27
+2015,"Other or unknown","75+","Male",14
+2015,"Other or unknown","8-16","Female",4
+2015,"Other or unknown","8-16","Male",23
+2015,"Pedal cyclist","0-7","Female",65
+2015,"Pedal cyclist","0-7","Male",155
+2015,"Pedal cyclist","17-25","Female",170
+2015,"Pedal cyclist","17-25","Male",578
+2015,"Pedal cyclist","26-39","Female",358
+2015,"Pedal cyclist","26-39","Male",1181
+2015,"Pedal cyclist","40-64","Female",564
+2015,"Pedal cyclist","40-64","Male",2166
+2015,"Pedal cyclist","65-74","Female",96
+2015,"Pedal cyclist","65-74","Male",304
+2015,"Pedal cyclist","75+","Female",16
+2015,"Pedal cyclist","75+","Male",128
+2015,"Pedal cyclist","8-16","Female",156
+2015,"Pedal cyclist","8-16","Male",779
+2015,"Pedestrian","0-7","Female",48
+2015,"Pedestrian","0-7","Male",73
+2015,"Pedestrian","17-25","Female",200
+2015,"Pedestrian","17-25","Male",247
+2015,"Pedestrian","26-39","Female",186
+2015,"Pedestrian","26-39","Male",306
+2015,"Pedestrian","40-64","Female",299
+2015,"Pedestrian","40-64","Male",365
+2015,"Pedestrian","65-74","Female",136
+2015,"Pedestrian","65-74","Male",119
+2015,"Pedestrian","75+","Female",201
+2015,"Pedestrian","75+","Male",178
+2015,"Pedestrian","8-16","Female",107
+2015,"Pedestrian","8-16","Male",162
+2015,"Pick-up truck or van occupant","0-7","Female",3
+2015,"Pick-up truck or van occupant","0-7","Male",0
+2015,"Pick-up truck or van occupant","17-25","Female",13
+2015,"Pick-up truck or van occupant","17-25","Male",37
+2015,"Pick-up truck or van occupant","26-39","Female",11
+2015,"Pick-up truck or van occupant","26-39","Male",51
+2015,"Pick-up truck or van occupant","40-64","Female",12
+2015,"Pick-up truck or van occupant","40-64","Male",90
+2015,"Pick-up truck or van occupant","65-74","Female",3
+2015,"Pick-up truck or van occupant","65-74","Male",12
+2015,"Pick-up truck or van occupant","75+","Female",2
+2015,"Pick-up truck or van occupant","75+","Male",13
+2015,"Pick-up truck or van occupant","8-16","Female",1
+2015,"Pick-up truck or van occupant","8-16","Male",1
+2016,"Bus occupant","0-7","Female",1
+2016,"Bus occupant","0-7","Male",3
+2016,"Bus occupant","17-25","Female",13
+2016,"Bus occupant","17-25","Male",8
+2016,"Bus occupant","26-39","Female",21
+2016,"Bus occupant","26-39","Male",11
+2016,"Bus occupant","40-64","Female",60
+2016,"Bus occupant","40-64","Male",40
+2016,"Bus occupant","65-74","Female",25
+2016,"Bus occupant","65-74","Male",16
+2016,"Bus occupant","75+","Female",47
+2016,"Bus occupant","75+","Male",25
+2016,"Bus occupant","8-16","Female",8
+2016,"Bus occupant","8-16","Male",5
+2016,"Car driver","0-7","Female",4
+2016,"Car driver","17-25","Female",1498
+2016,"Car driver","17-25","Male",1706
+2016,"Car driver","26-39","Female",1688
+2016,"Car driver","26-39","Male",1808
+2016,"Car driver","40-64","Female",2071
+2016,"Car driver","40-64","Male",2085
+2016,"Car driver","65-74","Female",582
+2016,"Car driver","65-74","Male",538
+2016,"Car driver","75+","Female",525
+2016,"Car driver","75+","Male",639
+2016,"Car driver","8-16","Female",22
+2016,"Car driver","8-16","Male",28
+2016,"Car passenger","0-7","Female",158
+2016,"Car passenger","0-7","Male",156
+2016,"Car passenger","17-25","Female",761
+2016,"Car passenger","17-25","Male",705
+2016,"Car passenger","26-39","Female",523
+2016,"Car passenger","26-39","Male",409
+2016,"Car passenger","40-64","Female",665
+2016,"Car passenger","40-64","Male",325
+2016,"Car passenger","65-74","Female",262
+2016,"Car passenger","65-74","Male",88
+2016,"Car passenger","75+","Female",340
+2016,"Car passenger","75+","Male",106
+2016,"Car passenger","8-16","Female",307
+2016,"Car passenger","8-16","Male",298
+2016,"Car unknown position","0-7","Female",16
+2016,"Car unknown position","0-7","Male",9
+2016,"Car unknown position","17-25","Female",95
+2016,"Car unknown position","17-25","Male",95
+2016,"Car unknown position","26-39","Female",97
+2016,"Car unknown position","26-39","Male",100
+2016,"Car unknown position","40-64","Female",102
+2016,"Car unknown position","40-64","Male",137
+2016,"Car unknown position","65-74","Female",37
+2016,"Car unknown position","65-74","Male",28
+2016,"Car unknown position","75+","Female",32
+2016,"Car unknown position","75+","Male",32
+2016,"Car unknown position","8-16","Female",14
+2016,"Car unknown position","8-16","Male",14
+2016,"Heavy transport driver","17-25","Female",3
+2016,"Heavy transport driver","17-25","Male",30
+2016,"Heavy transport driver","26-39","Female",2
+2016,"Heavy transport driver","26-39","Male",78
+2016,"Heavy transport driver","40-64","Female",4
+2016,"Heavy transport driver","40-64","Male",252
+2016,"Heavy transport driver","65-74","Male",28
+2016,"Heavy transport driver","75+","Male",5
+2016,"Heavy transport driver","8-16","Male",1
+2016,"Heavy transport passenger","0-7","Female",1
+2016,"Heavy transport passenger","0-7","Male",1
+2016,"Heavy transport passenger","17-25","Female",2
+2016,"Heavy transport passenger","17-25","Male",3
+2016,"Heavy transport passenger","26-39","Female",2
+2016,"Heavy transport passenger","26-39","Male",7
+2016,"Heavy transport passenger","40-64","Female",4
+2016,"Heavy transport passenger","40-64","Male",12
+2016,"Heavy transport passenger","65-74","Female",2
+2016,"Heavy transport passenger","65-74","Male",4
+2016,"Heavy transport passenger","75+","Female",2
+2016,"Heavy transport passenger","75+","Male",2
+2016,"Heavy transport unknown position","17-25","Female",1
+2016,"Heavy transport unknown position","17-25","Male",6
+2016,"Heavy transport unknown position","26-39","Male",10
+2016,"Heavy transport unknown position","40-64","Female",2
+2016,"Heavy transport unknown position","40-64","Male",17
+2016,"Heavy transport unknown position","65-74","Male",2
+2016,"Heavy transport unknown position","8-16","Male",1
+2016,"Motorcyclist","0-7","Female",10
+2016,"Motorcyclist","0-7","Male",17
+2016,"Motorcyclist","17-25","Female",214
+2016,"Motorcyclist","17-25","Male",1985
+2016,"Motorcyclist","26-39","Female",239
+2016,"Motorcyclist","26-39","Male",2185
+2016,"Motorcyclist","40-64","Female",354
+2016,"Motorcyclist","40-64","Male",2747
+2016,"Motorcyclist","65-74","Female",26
+2016,"Motorcyclist","65-74","Male",237
+2016,"Motorcyclist","75+","Female",7
+2016,"Motorcyclist","75+","Male",77
+2016,"Motorcyclist","8-16","Female",54
+2016,"Motorcyclist","8-16","Male",374
+2016,"Other or unknown","0-7","Female",6
+2016,"Other or unknown","0-7","Male",15
+2016,"Other or unknown","17-25","Female",36
+2016,"Other or unknown","17-25","Male",80
+2016,"Other or unknown","26-39","Female",54
+2016,"Other or unknown","26-39","Male",85
+2016,"Other or unknown","40-64","Female",88
+2016,"Other or unknown","40-64","Male",134
+2016,"Other or unknown","65-74","Female",22
+2016,"Other or unknown","65-74","Male",23
+2016,"Other or unknown","75+","Female",28
+2016,"Other or unknown","75+","Male",18
+2016,"Other or unknown","8-16","Female",10
+2016,"Other or unknown","8-16","Male",21
+2016,"Pedal cyclist","0-7","Female",59
+2016,"Pedal cyclist","0-7","Male",143
+2016,"Pedal cyclist","17-25","Female",153
+2016,"Pedal cyclist","17-25","Male",560
+2016,"Pedal cyclist","26-39","Female",351
+2016,"Pedal cyclist","26-39","Male",1189
+2016,"Pedal cyclist","40-64","Female",659
+2016,"Pedal cyclist","40-64","Male",2167
+2016,"Pedal cyclist","65-74","Female",86
+2016,"Pedal cyclist","65-74","Male",394
+2016,"Pedal cyclist","75+","Female",28
+2016,"Pedal cyclist","75+","Male",122
+2016,"Pedal cyclist","8-16","Female",183
+2016,"Pedal cyclist","8-16","Male",810
+2016,"Pedestrian","0-7","Female",55
+2016,"Pedestrian","0-7","Male",75
+2016,"Pedestrian","17-25","Female",192
+2016,"Pedestrian","17-25","Male",262
+2016,"Pedestrian","26-39","Female",209
+2016,"Pedestrian","26-39","Male",310
+2016,"Pedestrian","40-64","Female",332
+2016,"Pedestrian","40-64","Male",387
+2016,"Pedestrian","65-74","Female",136
+2016,"Pedestrian","65-74","Male",116
+2016,"Pedestrian","75+","Female",185
+2016,"Pedestrian","75+","Male",170
+2016,"Pedestrian","8-16","Female",113
+2016,"Pedestrian","8-16","Male",201
+2016,"Pick-up truck or van occupant","0-7","Female",2
+2016,"Pick-up truck or van occupant","0-7","Male",5
+2016,"Pick-up truck or van occupant","17-25","Female",18
+2016,"Pick-up truck or van occupant","17-25","Male",48
+2016,"Pick-up truck or van occupant","26-39","Female",16
+2016,"Pick-up truck or van occupant","26-39","Male",57
+2016,"Pick-up truck or van occupant","40-64","Female",19
+2016,"Pick-up truck or van occupant","40-64","Male",86
+2016,"Pick-up truck or van occupant","65-74","Female",5
+2016,"Pick-up truck or van occupant","65-74","Male",20
+2016,"Pick-up truck or van occupant","75+","Female",2
+2016,"Pick-up truck or van occupant","75+","Male",8
+2016,"Pick-up truck or van occupant","8-16","Female",2
+2016,"Pick-up truck or van occupant","8-16","Male",10
+2017,"Bus occupant","0-7","Female",2
+2017,"Bus occupant","0-7","Male",1
+2017,"Bus occupant","17-25","Female",16
+2017,"Bus occupant","17-25","Male",7
+2017,"Bus occupant","26-39","Female",17
+2017,"Bus occupant","26-39","Male",12
+2017,"Bus occupant","40-64","Female",47
+2017,"Bus occupant","40-64","Male",27
+2017,"Bus occupant","65-74","Female",25
+2017,"Bus occupant","65-74","Male",13
+2017,"Bus occupant","75+","Female",64
+2017,"Bus occupant","75+","Male",25
+2017,"Bus occupant","8-16","Female",5
+2017,"Bus occupant","8-16","Male",4
+2017,"Car driver","0-7","Female",2
+2017,"Car driver","0-7","Male",1
+2017,"Car driver","17-25","Female",1561
+2017,"Car driver","17-25","Male",1678
+2017,"Car driver","26-39","Female",1599
+2017,"Car driver","26-39","Male",1861
+2017,"Car driver","40-64","Female",2120
+2017,"Car driver","40-64","Male",2101
+2017,"Car driver","65-74","Female",551
+2017,"Car driver","65-74","Male",545
+2017,"Car driver","75+","Female",549
+2017,"Car driver","75+","Male",637
+2017,"Car driver","8-16","Female",28
+2017,"Car driver","8-16","Male",34
+2017,"Car passenger","0-7","Female",179
+2017,"Car passenger","0-7","Male",165
+2017,"Car passenger","17-25","Female",777
+2017,"Car passenger","17-25","Male",625
+2017,"Car passenger","26-39","Female",572
+2017,"Car passenger","26-39","Male",362
+2017,"Car passenger","40-64","Female",656
+2017,"Car passenger","40-64","Male",310
+2017,"Car passenger","65-74","Female",303
+2017,"Car passenger","65-74","Male",78
+2017,"Car passenger","75+","Female",349
+2017,"Car passenger","75+","Male",103
+2017,"Car passenger","8-16","Female",349
+2017,"Car passenger","8-16","Male",274
+2017,"Car unknown position","0-7","Female",8
+2017,"Car unknown position","0-7","Male",7
+2017,"Car unknown position","17-25","Female",62
+2017,"Car unknown position","17-25","Male",118
+2017,"Car unknown position","26-39","Female",99
+2017,"Car unknown position","26-39","Male",103
+2017,"Car unknown position","40-64","Female",129
+2017,"Car unknown position","40-64","Male",114
+2017,"Car unknown position","65-74","Female",41
+2017,"Car unknown position","65-74","Male",20
+2017,"Car unknown position","75+","Female",36
+2017,"Car unknown position","75+","Male",18
+2017,"Car unknown position","8-16","Female",11
+2017,"Car unknown position","8-16","Male",11
+2017,"Heavy transport driver","17-25","Female",2
+2017,"Heavy transport driver","17-25","Male",39
+2017,"Heavy transport driver","26-39","Male",108
+2017,"Heavy transport driver","40-64","Female",9
+2017,"Heavy transport driver","40-64","Male",254
+2017,"Heavy transport driver","65-74","Female",1
+2017,"Heavy transport driver","65-74","Male",34
+2017,"Heavy transport driver","75+","Male",0
+2017,"Heavy transport passenger","0-7","Female",1
+2017,"Heavy transport passenger","17-25","Female",3
+2017,"Heavy transport passenger","17-25","Male",12
+2017,"Heavy transport passenger","26-39","Female",2
+2017,"Heavy transport passenger","26-39","Male",5
+2017,"Heavy transport passenger","40-64","Female",6
+2017,"Heavy transport passenger","40-64","Male",9
+2017,"Heavy transport passenger","65-74","Female",2
+2017,"Heavy transport passenger","65-74","Male",1
+2017,"Heavy transport passenger","75+","Female",6
+2017,"Heavy transport passenger","75+","Male",0
+2017,"Heavy transport passenger","8-16","Female",1
+2017,"Heavy transport passenger","8-16","Male",1
+2017,"Heavy transport unknown position","17-25","Male",6
+2017,"Heavy transport unknown position","26-39","Male",4
+2017,"Heavy transport unknown position","40-64","Male",18
+2017,"Heavy transport unknown position","65-74","Male",2
+2017,"Heavy transport unknown position","75+","Female",1
+2017,"Heavy transport unknown position","8-16","Male",1
+2017,"Motorcyclist","0-7","Female",11
+2017,"Motorcyclist","0-7","Male",24
+2017,"Motorcyclist","17-25","Female",190
+2017,"Motorcyclist","17-25","Male",1973
+2017,"Motorcyclist","26-39","Female",227
+2017,"Motorcyclist","26-39","Male",2251
+2017,"Motorcyclist","40-64","Female",344
+2017,"Motorcyclist","40-64","Male",2858
+2017,"Motorcyclist","65-74","Female",34
+2017,"Motorcyclist","65-74","Male",302
+2017,"Motorcyclist","75+","Female",9
+2017,"Motorcyclist","75+","Male",74
+2017,"Motorcyclist","8-16","Female",56
+2017,"Motorcyclist","8-16","Male",386
+2017,"Other or unknown","0-7","Female",7
+2017,"Other or unknown","0-7","Male",4
+2017,"Other or unknown","17-25","Female",40
+2017,"Other or unknown","17-25","Male",78
+2017,"Other or unknown","26-39","Female",49
+2017,"Other or unknown","26-39","Male",94
+2017,"Other or unknown","40-64","Female",64
+2017,"Other or unknown","40-64","Male",132
+2017,"Other or unknown","65-74","Female",21
+2017,"Other or unknown","65-74","Male",25
+2017,"Other or unknown","75+","Female",28
+2017,"Other or unknown","75+","Male",22
+2017,"Other or unknown","8-16","Female",13
+2017,"Other or unknown","8-16","Male",23
+2017,"Pedal cyclist","0-7","Female",58
+2017,"Pedal cyclist","0-7","Male",132
+2017,"Pedal cyclist","17-25","Female",181
+2017,"Pedal cyclist","17-25","Male",607
+2017,"Pedal cyclist","26-39","Female",351
+2017,"Pedal cyclist","26-39","Male",1219
+2017,"Pedal cyclist","40-64","Female",629
+2017,"Pedal cyclist","40-64","Male",2268
+2017,"Pedal cyclist","65-74","Female",124
+2017,"Pedal cyclist","65-74","Male",362
+2017,"Pedal cyclist","75+","Female",20
+2017,"Pedal cyclist","75+","Male",134
+2017,"Pedal cyclist","8-16","Female",146
+2017,"Pedal cyclist","8-16","Male",845
+2017,"Pedestrian","0-7","Female",52
+2017,"Pedestrian","0-7","Male",82
+2017,"Pedestrian","17-25","Female",177
+2017,"Pedestrian","17-25","Male",243
+2017,"Pedestrian","26-39","Female",215
+2017,"Pedestrian","26-39","Male",298
+2017,"Pedestrian","40-64","Female",342
+2017,"Pedestrian","40-64","Male",404
+2017,"Pedestrian","65-74","Female",154
+2017,"Pedestrian","65-74","Male",121
+2017,"Pedestrian","75+","Female",167
+2017,"Pedestrian","75+","Male",159
+2017,"Pedestrian","8-16","Female",121
+2017,"Pedestrian","8-16","Male",179
+2017,"Pick-up truck or van occupant","0-7","Female",2
+2017,"Pick-up truck or van occupant","0-7","Male",2
+2017,"Pick-up truck or van occupant","17-25","Female",15
+2017,"Pick-up truck or van occupant","17-25","Male",58
+2017,"Pick-up truck or van occupant","26-39","Female",14
+2017,"Pick-up truck or van occupant","26-39","Male",46
+2017,"Pick-up truck or van occupant","40-64","Female",19
+2017,"Pick-up truck or van occupant","40-64","Male",77
+2017,"Pick-up truck or van occupant","65-74","Female",2
+2017,"Pick-up truck or van occupant","65-74","Male",16
+2017,"Pick-up truck or van occupant","75+","Female",4
+2017,"Pick-up truck or van occupant","75+","Male",6
+2017,"Pick-up truck or van occupant","8-16","Female",6
+2017,"Pick-up truck or van occupant","8-16","Male",4
+2018,"Bus occupant","0-7","Female",2
+2018,"Bus occupant","17-25","Female",13
+2018,"Bus occupant","17-25","Male",12
+2018,"Bus occupant","26-39","Female",20
+2018,"Bus occupant","26-39","Male",12
+2018,"Bus occupant","40-64","Female",34
+2018,"Bus occupant","40-64","Male",23
+2018,"Bus occupant","65-74","Female",22
+2018,"Bus occupant","65-74","Male",23
+2018,"Bus occupant","75+","Female",54
+2018,"Bus occupant","75+","Male",20
+2018,"Bus occupant","8-16","Female",4
+2018,"Bus occupant","8-16","Male",8
+2018,"Car driver","0-7","Male",3
+2018,"Car driver","17-25","Female",1605
+2018,"Car driver","17-25","Male",1723
+2018,"Car driver","26-39","Female",1719
+2018,"Car driver","26-39","Male",1896
+2018,"Car driver","40-64","Female",2078
+2018,"Car driver","40-64","Male",2107
+2018,"Car driver","65-74","Female",616
+2018,"Car driver","65-74","Male",556
+2018,"Car driver","75+","Female",584
+2018,"Car driver","75+","Male",648
+2018,"Car driver","8-16","Female",27
+2018,"Car driver","8-16","Male",33
+2018,"Car passenger","0-7","Female",166
+2018,"Car passenger","0-7","Male",182
+2018,"Car passenger","17-25","Female",734
+2018,"Car passenger","17-25","Male",653
+2018,"Car passenger","26-39","Female",546
+2018,"Car passenger","26-39","Male",386
+2018,"Car passenger","40-64","Female",666
+2018,"Car passenger","40-64","Male",312
+2018,"Car passenger","65-74","Female",301
+2018,"Car passenger","65-74","Male",89
+2018,"Car passenger","75+","Female",385
+2018,"Car passenger","75+","Male",106
+2018,"Car passenger","8-16","Female",351
+2018,"Car passenger","8-16","Male",329
+2018,"Car unknown position","0-7","Female",6
+2018,"Car unknown position","0-7","Male",5
+2018,"Car unknown position","17-25","Female",83
+2018,"Car unknown position","17-25","Male",100
+2018,"Car unknown position","26-39","Female",105
+2018,"Car unknown position","26-39","Male",129
+2018,"Car unknown position","40-64","Female",139
+2018,"Car unknown position","40-64","Male",148
+2018,"Car unknown position","65-74","Female",25
+2018,"Car unknown position","65-74","Male",25
+2018,"Car unknown position","75+","Female",43
+2018,"Car unknown position","75+","Male",30
+2018,"Car unknown position","8-16","Female",16
+2018,"Car unknown position","8-16","Male",10
+2018,"Heavy transport driver","17-25","Female",5
+2018,"Heavy transport driver","17-25","Male",43
+2018,"Heavy transport driver","26-39","Female",6
+2018,"Heavy transport driver","26-39","Male",100
+2018,"Heavy transport driver","40-64","Female",3
+2018,"Heavy transport driver","40-64","Male",248
+2018,"Heavy transport driver","65-74","Male",25
+2018,"Heavy transport driver","75+","Male",7
+2018,"Heavy transport passenger","0-7","Female",1
+2018,"Heavy transport passenger","0-7","Male",3
+2018,"Heavy transport passenger","17-25","Female",2
+2018,"Heavy transport passenger","17-25","Male",7
+2018,"Heavy transport passenger","26-39","Female",7
+2018,"Heavy transport passenger","26-39","Male",12
+2018,"Heavy transport passenger","40-64","Female",4
+2018,"Heavy transport passenger","40-64","Male",22
+2018,"Heavy transport passenger","65-74","Female",0
+2018,"Heavy transport passenger","65-74","Male",2
+2018,"Heavy transport passenger","75+","Female",2
+2018,"Heavy transport passenger","75+","Male",1
+2018,"Heavy transport passenger","8-16","Male",6
+2018,"Heavy transport unknown position","17-25","Male",7
+2018,"Heavy transport unknown position","26-39","Female",2
+2018,"Heavy transport unknown position","26-39","Male",7
+2018,"Heavy transport unknown position","40-64","Female",2
+2018,"Heavy transport unknown position","40-64","Male",25
+2018,"Heavy transport unknown position","65-74","Female",1
+2018,"Heavy transport unknown position","65-74","Male",2
+2018,"Heavy transport unknown position","75+","Male",1
+2018,"Motorcyclist","0-7","Female",7
+2018,"Motorcyclist","0-7","Male",27
+2018,"Motorcyclist","17-25","Female",184
+2018,"Motorcyclist","17-25","Male",1808
+2018,"Motorcyclist","26-39","Female",257
+2018,"Motorcyclist","26-39","Male",2279
+2018,"Motorcyclist","40-64","Female",366
+2018,"Motorcyclist","40-64","Male",2880
+2018,"Motorcyclist","65-74","Female",25
+2018,"Motorcyclist","65-74","Male",327
+2018,"Motorcyclist","75+","Female",4
+2018,"Motorcyclist","75+","Male",82
+2018,"Motorcyclist","8-16","Female",51
+2018,"Motorcyclist","8-16","Male",326
+2018,"Other or unknown","0-7","Female",2
+2018,"Other or unknown","0-7","Male",5
+2018,"Other or unknown","17-25","Female",41
+2018,"Other or unknown","17-25","Male",74
+2018,"Other or unknown","26-39","Female",45
+2018,"Other or unknown","26-39","Male",96
+2018,"Other or unknown","40-64","Female",83
+2018,"Other or unknown","40-64","Male",135
+2018,"Other or unknown","65-74","Female",21
+2018,"Other or unknown","65-74","Male",27
+2018,"Other or unknown","75+","Female",27
+2018,"Other or unknown","75+","Male",22
+2018,"Other or unknown","8-16","Female",11
+2018,"Other or unknown","8-16","Male",14
+2018,"Pedal cyclist","0-7","Female",63
+2018,"Pedal cyclist","0-7","Male",121
+2018,"Pedal cyclist","17-25","Female",153
+2018,"Pedal cyclist","17-25","Male",558
+2018,"Pedal cyclist","17-25","intersex or indeterminate or missing",1
+2018,"Pedal cyclist","26-39","Female",399
+2018,"Pedal cyclist","26-39","Male",1142
+2018,"Pedal cyclist","40-64","Female",637
+2018,"Pedal cyclist","40-64","Male",2234
+2018,"Pedal cyclist","40-64","intersex or indeterminate or missing",1
+2018,"Pedal cyclist","65-74","Female",101
+2018,"Pedal cyclist","65-74","Male",409
+2018,"Pedal cyclist","75+","Female",26
+2018,"Pedal cyclist","75+","Male",169
+2018,"Pedal cyclist","8-16","Female",144
+2018,"Pedal cyclist","8-16","Male",801
+2018,"Pedestrian","0-7","Female",46
+2018,"Pedestrian","0-7","Male",84
+2018,"Pedestrian","17-25","Female",176
+2018,"Pedestrian","17-25","Male",250
+2018,"Pedestrian","26-39","Female",211
+2018,"Pedestrian","26-39","Male",289
+2018,"Pedestrian","40-64","Female",331
+2018,"Pedestrian","40-64","Male",396
+2018,"Pedestrian","65-74","Female",140
+2018,"Pedestrian","65-74","Male",125
+2018,"Pedestrian","75+","Female",173
+2018,"Pedestrian","75+","Male",154
+2018,"Pedestrian","8-16","Female",117
+2018,"Pedestrian","8-16","Male",169
+2018,"Pick-up truck or van occupant","0-7","Female",0
+2018,"Pick-up truck or van occupant","0-7","Male",1
+2018,"Pick-up truck or van occupant","17-25","Female",15
+2018,"Pick-up truck or van occupant","17-25","Male",62
+2018,"Pick-up truck or van occupant","26-39","Female",7
+2018,"Pick-up truck or van occupant","26-39","Male",64
+2018,"Pick-up truck or van occupant","40-64","Female",19
+2018,"Pick-up truck or van occupant","40-64","Male",80
+2018,"Pick-up truck or van occupant","65-74","Female",6
+2018,"Pick-up truck or van occupant","65-74","Male",8
+2018,"Pick-up truck or van occupant","75+","Female",3
+2018,"Pick-up truck or van occupant","75+","Male",9
+2018,"Pick-up truck or van occupant","8-16","Female",3
+2018,"Pick-up truck or van occupant","8-16","Male",2
+2019,"Bus occupant","0-7","Female",1
+2019,"Bus occupant","0-7","Male",2
+2019,"Bus occupant","17-25","Female",13
+2019,"Bus occupant","17-25","Male",8
+2019,"Bus occupant","26-39","Female",14
+2019,"Bus occupant","26-39","Male",19
+2019,"Bus occupant","40-64","Female",53
+2019,"Bus occupant","40-64","Male",29
+2019,"Bus occupant","40-64","intersex or indeterminate or missing",1
+2019,"Bus occupant","65-74","Female",29
+2019,"Bus occupant","65-74","Male",21
+2019,"Bus occupant","75+","Female",43
+2019,"Bus occupant","75+","Male",18
+2019,"Bus occupant","8-16","Female",3
+2019,"Bus occupant","8-16","Male",1
+2019,"Car driver","0-7","Female",3
+2019,"Car driver","0-7","Male",2
+2019,"Car driver","17-25","Female",1480
+2019,"Car driver","17-25","Male",1583
+2019,"Car driver","26-39","Female",1776
+2019,"Car driver","26-39","Male",1712
+2019,"Car driver","40-64","Female",2244
+2019,"Car driver","40-64","Male",2053
+2019,"Car driver","40-64","intersex or indeterminate or missing",1
+2019,"Car driver","65-74","Female",652
+2019,"Car driver","65-74","Male",574
+2019,"Car driver","75+","Female",647
+2019,"Car driver","75+","Male",703
+2019,"Car driver","8-16","Female",21
+2019,"Car driver","8-16","Male",31
+2019,"Car passenger","0-7","Female",151
+2019,"Car passenger","0-7","Male",165
+2019,"Car passenger","17-25","Female",707
+2019,"Car passenger","17-25","Male",587
+2019,"Car passenger","26-39","Female",542
+2019,"Car passenger","26-39","Male",382
+2019,"Car passenger","40-64","Female",697
+2019,"Car passenger","40-64","Male",282
+2019,"Car passenger","65-74","Female",304
+2019,"Car passenger","65-74","Male",87
+2019,"Car passenger","75+","Female",369
+2019,"Car passenger","75+","Male",113
+2019,"Car passenger","8-16","Female",348
+2019,"Car passenger","8-16","Male",255
+2019,"Car unknown position","0-7","Female",3
+2019,"Car unknown position","0-7","Male",2
+2019,"Car unknown position","17-25","Female",84
+2019,"Car unknown position","17-25","Male",93
+2019,"Car unknown position","26-39","Female",121
+2019,"Car unknown position","26-39","Male",122
+2019,"Car unknown position","40-64","Female",117
+2019,"Car unknown position","40-64","Male",119
+2019,"Car unknown position","65-74","Female",32
+2019,"Car unknown position","65-74","Male",31
+2019,"Car unknown position","75+","Female",29
+2019,"Car unknown position","75+","Male",28
+2019,"Car unknown position","8-16","Female",7
+2019,"Car unknown position","8-16","Male",9
+2019,"Heavy transport driver","17-25","Female",4
+2019,"Heavy transport driver","17-25","Male",24
+2019,"Heavy transport driver","26-39","Female",3
+2019,"Heavy transport driver","26-39","Male",105
+2019,"Heavy transport driver","40-64","Female",9
+2019,"Heavy transport driver","40-64","Male",252
+2019,"Heavy transport driver","65-74","Female",2
+2019,"Heavy transport driver","65-74","Male",20
+2019,"Heavy transport driver","75+","Female",1
+2019,"Heavy transport driver","75+","Male",5
+2019,"Heavy transport passenger","17-25","Female",2
+2019,"Heavy transport passenger","17-25","Male",11
+2019,"Heavy transport passenger","26-39","Female",4
+2019,"Heavy transport passenger","26-39","Male",9
+2019,"Heavy transport passenger","40-64","Female",3
+2019,"Heavy transport passenger","40-64","Male",10
+2019,"Heavy transport passenger","65-74","Female",2
+2019,"Heavy transport passenger","65-74","Male",4
+2019,"Heavy transport passenger","75+","Female",1
+2019,"Heavy transport passenger","75+","Male",3
+2019,"Heavy transport passenger","8-16","Male",3
+2019,"Heavy transport unknown position","17-25","Female",1
+2019,"Heavy transport unknown position","17-25","Male",3
+2019,"Heavy transport unknown position","26-39","Female",2
+2019,"Heavy transport unknown position","26-39","Male",10
+2019,"Heavy transport unknown position","40-64","Female",4
+2019,"Heavy transport unknown position","40-64","Male",23
+2019,"Heavy transport unknown position","65-74","Male",4
+2019,"Heavy transport unknown position","75+","Male",0
+2019,"Motorcyclist","0-7","Female",8
+2019,"Motorcyclist","0-7","Male",26
+2019,"Motorcyclist","17-25","Female",209
+2019,"Motorcyclist","17-25","Male",1949
+2019,"Motorcyclist","26-39","Female",271
+2019,"Motorcyclist","26-39","Male",2205
+2019,"Motorcyclist","40-64","Female",391
+2019,"Motorcyclist","40-64","Male",2887
+2019,"Motorcyclist","65-74","Female",32
+2019,"Motorcyclist","65-74","Male",352
+2019,"Motorcyclist","75+","Female",11
+2019,"Motorcyclist","75+","Male",121
+2019,"Motorcyclist","8-16","Female",58
+2019,"Motorcyclist","8-16","Male",404
+2019,"Other or unknown","0-7","Female",3
+2019,"Other or unknown","0-7","Male",9
+2019,"Other or unknown","17-25","Female",43
+2019,"Other or unknown","17-25","Male",84
+2019,"Other or unknown","26-39","Female",59
+2019,"Other or unknown","26-39","Male",94
+2019,"Other or unknown","40-64","Female",74
+2019,"Other or unknown","40-64","Male",115
+2019,"Other or unknown","65-74","Female",18
+2019,"Other or unknown","65-74","Male",38
+2019,"Other or unknown","75+","Female",31
+2019,"Other or unknown","75+","Male",31
+2019,"Other or unknown","8-16","Female",9
+2019,"Other or unknown","8-16","Male",12
+2019,"Pedal cyclist","0-7","Female",70
+2019,"Pedal cyclist","0-7","Male",133
+2019,"Pedal cyclist","17-25","Female",141
+2019,"Pedal cyclist","17-25","Male",590
+2019,"Pedal cyclist","26-39","Female",382
+2019,"Pedal cyclist","26-39","Male",1207
+2019,"Pedal cyclist","40-64","Female",611
+2019,"Pedal cyclist","40-64","Male",2384
+2019,"Pedal cyclist","65-74","Female",128
+2019,"Pedal cyclist","65-74","Male",437
+2019,"Pedal cyclist","75+","Female",28
+2019,"Pedal cyclist","75+","Male",150
+2019,"Pedal cyclist","8-16","Female",157
+2019,"Pedal cyclist","8-16","Male",884
+2019,"Pedestrian","0-7","Female",43
+2019,"Pedestrian","0-7","Male",80
+2019,"Pedestrian","17-25","Female",162
+2019,"Pedestrian","17-25","Male",266
+2019,"Pedestrian","26-39","Female",204
+2019,"Pedestrian","26-39","Male",327
+2019,"Pedestrian","40-64","Female",330
+2019,"Pedestrian","40-64","Male",384
+2019,"Pedestrian","65-74","Female",167
+2019,"Pedestrian","65-74","Male",119
+2019,"Pedestrian","75+","Female",176
+2019,"Pedestrian","75+","Male",170
+2019,"Pedestrian","8-16","Female",107
+2019,"Pedestrian","8-16","Male",178
+2019,"Pick-up truck or van occupant","0-7","Male",3
+2019,"Pick-up truck or van occupant","17-25","Female",11
+2019,"Pick-up truck or van occupant","17-25","Male",47
+2019,"Pick-up truck or van occupant","26-39","Female",10
+2019,"Pick-up truck or van occupant","26-39","Male",61
+2019,"Pick-up truck or van occupant","40-64","Female",20
+2019,"Pick-up truck or van occupant","40-64","Male",77
+2019,"Pick-up truck or van occupant","65-74","Female",3
+2019,"Pick-up truck or van occupant","65-74","Male",12
+2019,"Pick-up truck or van occupant","75+","Female",3
+2019,"Pick-up truck or van occupant","75+","Male",5
+2019,"Pick-up truck or van occupant","8-16","Female",1
+2019,"Pick-up truck or van occupant","8-16","Male",7
+2020,"Bus occupant","17-25","Female",12
+2020,"Bus occupant","17-25","Male",9
+2020,"Bus occupant","26-39","Female",9
+2020,"Bus occupant","26-39","Male",10
+2020,"Bus occupant","40-64","Female",25
+2020,"Bus occupant","40-64","Male",25
+2020,"Bus occupant","65-74","Female",9
+2020,"Bus occupant","65-74","Male",13
+2020,"Bus occupant","75+","Female",35
+2020,"Bus occupant","75+","Male",10
+2020,"Bus occupant","8-16","Female",11
+2020,"Bus occupant","8-16","Male",5
+2020,"Car driver","0-7","Female",3
+2020,"Car driver","0-7","Male",3
+2020,"Car driver","17-25","Female",1379
+2020,"Car driver","17-25","Male",1690
+2020,"Car driver","17-25","intersex or indeterminate or missing",1
+2020,"Car driver","26-39","Female",1468
+2020,"Car driver","26-39","Male",1783
+2020,"Car driver","26-39","intersex or indeterminate or missing",2
+2020,"Car driver","40-64","Female",1758
+2020,"Car driver","40-64","Male",1958
+2020,"Car driver","65-74","Female",492
+2020,"Car driver","65-74","Male",492
+2020,"Car driver","75+","Female",503
+2020,"Car driver","75+","Male",619
+2020,"Car driver","8-16","Female",23
+2020,"Car driver","8-16","Male",43
+2020,"Car passenger","0-7","Female",146
+2020,"Car passenger","0-7","Male",146
+2020,"Car passenger","17-25","Female",671
+2020,"Car passenger","17-25","Male",604
+2020,"Car passenger","26-39","Female",465
+2020,"Car passenger","26-39","Male",351
+2020,"Car passenger","40-64","Female",528
+2020,"Car passenger","40-64","Male",266
+2020,"Car passenger","65-74","Female",234
+2020,"Car passenger","65-74","Male",69
+2020,"Car passenger","75+","Female",252
+2020,"Car passenger","75+","Male",83
+2020,"Car passenger","8-16","Female",291
+2020,"Car passenger","8-16","Male",238
+2020,"Car unknown position","0-7","Female",6
+2020,"Car unknown position","0-7","Male",4
+2020,"Car unknown position","17-25","Female",76
+2020,"Car unknown position","17-25","Male",77
+2020,"Car unknown position","26-39","Female",112
+2020,"Car unknown position","26-39","Male",98
+2020,"Car unknown position","26-39","intersex or indeterminate or missing",1
+2020,"Car unknown position","40-64","Female",121
+2020,"Car unknown position","40-64","Male",115
+2020,"Car unknown position","65-74","Female",29
+2020,"Car unknown position","65-74","Male",28
+2020,"Car unknown position","75+","Female",16
+2020,"Car unknown position","75+","Male",23
+2020,"Car unknown position","8-16","Female",7
+2020,"Car unknown position","8-16","Male",18
+2020,"Heavy transport driver","17-25","Female",1
+2020,"Heavy transport driver","17-25","Male",24
+2020,"Heavy transport driver","26-39","Female",2
+2020,"Heavy transport driver","26-39","Male",120
+2020,"Heavy transport driver","40-64","Female",5
+2020,"Heavy transport driver","40-64","Male",226
+2020,"Heavy transport driver","65-74","Female",2
+2020,"Heavy transport driver","65-74","Male",27
+2020,"Heavy transport driver","75+","Male",5
+2020,"Heavy transport passenger","0-7","Female",1
+2020,"Heavy transport passenger","17-25","Female",1
+2020,"Heavy transport passenger","17-25","Male",4
+2020,"Heavy transport passenger","26-39","Female",6
+2020,"Heavy transport passenger","26-39","Male",7
+2020,"Heavy transport passenger","40-64","Female",4
+2020,"Heavy transport passenger","40-64","Male",19
+2020,"Heavy transport passenger","65-74","Female",2
+2020,"Heavy transport passenger","65-74","Male",2
+2020,"Heavy transport passenger","8-16","Female",1
+2020,"Heavy transport passenger","8-16","Male",1
+2020,"Heavy transport unknown position","0-7","Female",1
+2020,"Heavy transport unknown position","17-25","Male",3
+2020,"Heavy transport unknown position","26-39","Female",2
+2020,"Heavy transport unknown position","26-39","Male",11
+2020,"Heavy transport unknown position","40-64","Female",3
+2020,"Heavy transport unknown position","40-64","Male",17
+2020,"Heavy transport unknown position","65-74","Male",3
+2020,"Heavy transport unknown position","75+","Male",0
+2020,"Motorcyclist","0-7","Female",10
+2020,"Motorcyclist","0-7","Male",22
+2020,"Motorcyclist","17-25","Female",208
+2020,"Motorcyclist","17-25","Male",1894
+2020,"Motorcyclist","26-39","Female",236
+2020,"Motorcyclist","26-39","Male",2264
+2020,"Motorcyclist","26-39","intersex or indeterminate or missing",1
+2020,"Motorcyclist","40-64","Female",367
+2020,"Motorcyclist","40-64","Male",2695
+2020,"Motorcyclist","65-74","Female",40
+2020,"Motorcyclist","65-74","Male",337
+2020,"Motorcyclist","75+","Female",5
+2020,"Motorcyclist","75+","Male",70
+2020,"Motorcyclist","8-16","Female",65
+2020,"Motorcyclist","8-16","Male",470
+2020,"Other or unknown","0-7","Female",4
+2020,"Other or unknown","0-7","Male",9
+2020,"Other or unknown","17-25","Female",47
+2020,"Other or unknown","17-25","Male",84
+2020,"Other or unknown","26-39","Female",38
+2020,"Other or unknown","26-39","Male",79
+2020,"Other or unknown","40-64","Female",75
+2020,"Other or unknown","40-64","Male",123
+2020,"Other or unknown","65-74","Female",27
+2020,"Other or unknown","65-74","Male",26
+2020,"Other or unknown","75+","Female",17
+2020,"Other or unknown","75+","Male",20
+2020,"Other or unknown","8-16","Female",12
+2020,"Other or unknown","8-16","Male",21
+2020,"Pedal cyclist","0-7","Female",97
+2020,"Pedal cyclist","0-7","Male",161
+2020,"Pedal cyclist","17-25","Female",174
+2020,"Pedal cyclist","17-25","Male",593
+2020,"Pedal cyclist","17-25","intersex or indeterminate or missing",1
+2020,"Pedal cyclist","26-39","Female",421
+2020,"Pedal cyclist","26-39","Male",1260
+2020,"Pedal cyclist","40-64","Female",796
+2020,"Pedal cyclist","40-64","Male",2535
+2020,"Pedal cyclist","65-74","Female",194
+2020,"Pedal cyclist","65-74","Male",499
+2020,"Pedal cyclist","75+","Female",35
+2020,"Pedal cyclist","75+","Male",218
+2020,"Pedal cyclist","8-16","Female",229
+2020,"Pedal cyclist","8-16","Male",1119
+2020,"Pedestrian","0-7","Female",34
+2020,"Pedestrian","0-7","Male",66
+2020,"Pedestrian","17-25","Female",133
+2020,"Pedestrian","17-25","Male",200
+2020,"Pedestrian","26-39","Female",155
+2020,"Pedestrian","26-39","Male",241
+2020,"Pedestrian","40-64","Female",250
+2020,"Pedestrian","40-64","Male",317
+2020,"Pedestrian","65-74","Female",124
+2020,"Pedestrian","65-74","Male",109
+2020,"Pedestrian","65-74","intersex or indeterminate or missing",1
+2020,"Pedestrian","75+","Female",119
+2020,"Pedestrian","75+","Male",120
+2020,"Pedestrian","8-16","Female",98
+2020,"Pedestrian","8-16","Male",136
+2020,"Pick-up truck or van occupant","0-7","Male",1
+2020,"Pick-up truck or van occupant","17-25","Female",18
+2020,"Pick-up truck or van occupant","17-25","Male",67
+2020,"Pick-up truck or van occupant","26-39","Female",10
+2020,"Pick-up truck or van occupant","26-39","Male",50
+2020,"Pick-up truck or van occupant","40-64","Female",19
+2020,"Pick-up truck or van occupant","40-64","Male",95
+2020,"Pick-up truck or van occupant","65-74","Female",5
+2020,"Pick-up truck or van occupant","65-74","Male",15
+2020,"Pick-up truck or van occupant","75+","Male",9
+2020,"Pick-up truck or van occupant","8-16","Female",7
+2020,"Pick-up truck or van occupant","8-16","Male",4
+2021,"Bus occupant","0-7","Male",1
+2021,"Bus occupant","17-25","Female",8
+2021,"Bus occupant","17-25","Male",2
+2021,"Bus occupant","26-39","Female",12
+2021,"Bus occupant","26-39","Male",8
+2021,"Bus occupant","40-64","Female",35
+2021,"Bus occupant","40-64","Male",23
+2021,"Bus occupant","65-74","Female",19
+2021,"Bus occupant","65-74","Male",9
+2021,"Bus occupant","75+","Female",30
+2021,"Bus occupant","75+","Male",14
+2021,"Bus occupant","8-16","Female",5
+2021,"Bus occupant","8-16","Male",3
+2021,"Car driver","0-7","Female",2
+2021,"Car driver","0-7","Male",7
+2021,"Car driver","17-25","Female",1565
+2021,"Car driver","17-25","Male",1707
+2021,"Car driver","26-39","Female",1780
+2021,"Car driver","26-39","Male",1791
+2021,"Car driver","40-64","Female",2025
+2021,"Car driver","40-64","Male",2011
+2021,"Car driver","65-74","Female",583
+2021,"Car driver","65-74","Male",536
+2021,"Car driver","75+","Female",628
+2021,"Car driver","75+","Male",626
+2021,"Car driver","8-16","Female",19
+2021,"Car driver","8-16","Male",47
+2021,"Car passenger","0-7","Female",155
+2021,"Car passenger","0-7","Male",133
+2021,"Car passenger","17-25","Female",636
+2021,"Car passenger","17-25","Male",567
+2021,"Car passenger","26-39","Female",481
+2021,"Car passenger","26-39","Male",332
+2021,"Car passenger","40-64","Female",620
+2021,"Car passenger","40-64","Male",304
+2021,"Car passenger","65-74","Female",218
+2021,"Car passenger","65-74","Male",69
+2021,"Car passenger","75+","Female",274
+2021,"Car passenger","75+","Male",103
+2021,"Car passenger","8-16","Female",314
+2021,"Car passenger","8-16","Male",289
+2021,"Car unknown position","0-7","Female",4
+2021,"Car unknown position","0-7","Male",9
+2021,"Car unknown position","17-25","Female",83
+2021,"Car unknown position","17-25","Male",96
+2021,"Car unknown position","26-39","Female",84
+2021,"Car unknown position","26-39","Male",108
+2021,"Car unknown position","40-64","Female",102
+2021,"Car unknown position","40-64","Male",112
+2021,"Car unknown position","65-74","Female",32
+2021,"Car unknown position","65-74","Male",25
+2021,"Car unknown position","75+","Female",21
+2021,"Car unknown position","75+","Male",23
+2021,"Car unknown position","8-16","Female",10
+2021,"Car unknown position","8-16","Male",8
+2021,"Heavy transport driver","17-25","Female",1
+2021,"Heavy transport driver","17-25","Male",29
+2021,"Heavy transport driver","26-39","Female",3
+2021,"Heavy transport driver","26-39","Male",106
+2021,"Heavy transport driver","40-64","Female",7
+2021,"Heavy transport driver","40-64","Male",200
+2021,"Heavy transport driver","65-74","Male",31
+2021,"Heavy transport driver","75+","Male",6
+2021,"Heavy transport passenger","0-7","Female",1
+2021,"Heavy transport passenger","17-25","Female",5
+2021,"Heavy transport passenger","17-25","Male",10
+2021,"Heavy transport passenger","26-39","Female",2
+2021,"Heavy transport passenger","26-39","Male",11
+2021,"Heavy transport passenger","40-64","Female",6
+2021,"Heavy transport passenger","40-64","Male",9
+2021,"Heavy transport passenger","65-74","Female",2
+2021,"Heavy transport passenger","65-74","Male",3
+2021,"Heavy transport passenger","75+","Female",1
+2021,"Heavy transport passenger","75+","Male",3
+2021,"Heavy transport passenger","8-16","Female",1
+2021,"Heavy transport passenger","8-16","Male",2
+2021,"Heavy transport unknown position","17-25","Male",2
+2021,"Heavy transport unknown position","26-39","Female",1
+2021,"Heavy transport unknown position","26-39","Male",11
+2021,"Heavy transport unknown position","40-64","Female",0
+2021,"Heavy transport unknown position","40-64","Male",18
+2021,"Heavy transport unknown position","65-74","Female",1
+2021,"Heavy transport unknown position","65-74","Male",3
+2021,"Heavy transport unknown position","75+","Male",0
+2021,"Motorcyclist","0-7","Female",6
+2021,"Motorcyclist","0-7","Male",30
+2021,"Motorcyclist","17-25","Female",177
+2021,"Motorcyclist","17-25","Male",1843
+2021,"Motorcyclist","26-39","Female",282
+2021,"Motorcyclist","26-39","Male",2197
+2021,"Motorcyclist","40-64","Female",417
+2021,"Motorcyclist","40-64","Male",2842
+2021,"Motorcyclist","65-74","Female",32
+2021,"Motorcyclist","65-74","Male",370
+2021,"Motorcyclist","75+","Female",10
+2021,"Motorcyclist","75+","Male",102
+2021,"Motorcyclist","8-16","Female",68
+2021,"Motorcyclist","8-16","Male",507
+2021,"Other or unknown","0-7","Female",4
+2021,"Other or unknown","0-7","Male",10
+2021,"Other or unknown","17-25","Female",36
+2021,"Other or unknown","17-25","Male",69
+2021,"Other or unknown","26-39","Female",40
+2021,"Other or unknown","26-39","Male",97
+2021,"Other or unknown","40-64","Female",50
+2021,"Other or unknown","40-64","Male",144
+2021,"Other or unknown","65-74","Female",32
+2021,"Other or unknown","65-74","Male",30
+2021,"Other or unknown","75+","Female",18
+2021,"Other or unknown","75+","Male",26
+2021,"Other or unknown","8-16","Female",14
+2021,"Other or unknown","8-16","Male",31
+2021,"Pedal cyclist","0-7","Female",80
+2021,"Pedal cyclist","0-7","Male",137
+2021,"Pedal cyclist","17-25","Female",140
+2021,"Pedal cyclist","17-25","Male",586
+2021,"Pedal cyclist","17-25","intersex or indeterminate or missing",1
+2021,"Pedal cyclist","26-39","Female",361
+2021,"Pedal cyclist","26-39","Male",1181
+2021,"Pedal cyclist","40-64","Female",783
+2021,"Pedal cyclist","40-64","Male",2610
+2021,"Pedal cyclist","65-74","Female",168
+2021,"Pedal cyclist","65-74","Male",581
+2021,"Pedal cyclist","75+","Female",31
+2021,"Pedal cyclist","75+","Male",254
+2021,"Pedal cyclist","8-16","Female",174
+2021,"Pedal cyclist","8-16","Male",1076
+2021,"Pedestrian","0-7","Female",37
+2021,"Pedestrian","0-7","Male",86
+2021,"Pedestrian","17-25","Female",110
+2021,"Pedestrian","17-25","Male",228
+2021,"Pedestrian","26-39","Female",174
+2021,"Pedestrian","26-39","Male",276
+2021,"Pedestrian","40-64","Female",261
+2021,"Pedestrian","40-64","Male",361
+2021,"Pedestrian","65-74","Female",130
+2021,"Pedestrian","65-74","Male",110
+2021,"Pedestrian","75+","Female",129
+2021,"Pedestrian","75+","Male",149
+2021,"Pedestrian","8-16","Female",104
+2021,"Pedestrian","8-16","Male",179
+2021,"Pick-up truck or van occupant","0-7","Female",2
+2021,"Pick-up truck or van occupant","0-7","Male",3
+2021,"Pick-up truck or van occupant","17-25","Female",22
+2021,"Pick-up truck or van occupant","17-25","Male",87
+2021,"Pick-up truck or van occupant","26-39","Female",17
+2021,"Pick-up truck or van occupant","26-39","Male",68
+2021,"Pick-up truck or van occupant","40-64","Female",18
+2021,"Pick-up truck or van occupant","40-64","Male",68
+2021,"Pick-up truck or van occupant","65-74","Female",6
+2021,"Pick-up truck or van occupant","65-74","Male",28
+2021,"Pick-up truck or van occupant","75+","Female",3
+2021,"Pick-up truck or van occupant","75+","Male",7
+2021,"Pick-up truck or van occupant","8-16","Female",4
+2021,"Pick-up truck or van occupant","8-16","Male",8

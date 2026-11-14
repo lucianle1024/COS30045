@@ -1,0 +1,22 @@
+{
+  "version" : "5.12.0.v202606180846",
+  "projects" : [ {
+    "name" : "COS30045_Project",
+    "active" : true,
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "relativePath" : "COS30045_Project"
+    }
+  } ],
+  "mostRecentlyUsedProjects" : [ {
+    "name" : "COS30045_Project",
+    "timeUsed" : "2026-11-13T21:58:42.554306+07:00",
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "projectType" : "WORKFLOW",
+      "relativePath" : "COS30045_Project"
+    }
+  } ]
+}

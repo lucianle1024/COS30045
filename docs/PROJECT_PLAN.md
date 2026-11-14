@@ -1,66 +1,40 @@
-# COS30045 Project Plan
+# Individual project checkpoints
 
-Updated: 13 November 2026 (Phase 2.2 draft)
+Updated: 13/11/2026
 
-## Goal
+Scope: Australian hospitalised road injuries, 2011-2021. Three linked D3 visualisations answer questions about time trends, road users and demographics.
 
-Develop an evidence-based D3.js data story about hospitalised injuries from road crashes in Australia (2011-2021), using BITRE data, KNIME for processing and EDA, and a Design Book explaining the decisions. The project is not an unrestricted dashboard.
+| Work | Implemented | Verified | Accepted by student |
+| --- | --- | --- | --- |
+| KNIME processing and three CSV exports | Yes | All 10 nodes executed in KNIME 5.12.0 LTS; independent raw-data reconciliation passed | Pending |
+| D3 website | Yes | Default data, year selection, road-user selection, bar click, Enter toggle, Reset and data table checked in Chromium | Pending |
+| Narrow layout | Yes | 340 CSS-pixel viewport checked using browser zoom; no page overflow or clipped SVG labels | Pending |
+| Loading-error state | Yes | Missing CSV produced a visible error; recovery checked before packaging | Pending |
+| Submission documents and hosting | Pending | Not yet verified | Pending |
 
-## Progress
+## Completed data checks
 
-- [x] Repo structure and original source files collected.
-- [x] Initial raw-data inspection documented in `docs/DATA_AUDIT.md`.
-- [x] Draft intended audience, research questions and Design Book Sections 1.1, 1.2 and 2.1 in `docs/design_book/01_introduction_and_data_source.md`.
-- [ ] Team review of research scope and audience before KNIME EDA.
-- [ ] Produce and validate KNIME workflow with all input and exported data.
-- [ ] Complete Stand Up 1 presentation and Design Book draft.
-- [ ] Create wireframe, storyboard and D3.js website.
-- [ ] Conduct real usability testing, refine website and complete Design Book.
-- [ ] Validate final submission against all official rubric criteria.
+- 117,919 meaningful raw records; 86,140 records retained after filtering Traffic.
+- No duplicate Traffic keys across the eight source dimensions.
+- All 11 annual totals match the source T1 table.
+- All three CSVs reconcile with the raw data, including zeros and unknown categories.
+- Counts for unknown age and the combined other/not-stated sex category are retained.
 
-## Next step
+## Next work
 
-Build and verify a KNIME workflow starting from the Excel `raw` sheet, filtering `Traffic` and grouping `Hospitalisations` by year and road user. Compare output with tables T1 and T2 before writing Data Processing and EDA results.
+1. Review the actual workflow and website in KNIME and a local browser.
+2. Finalise the data story, wireframe and storyboard, recording the reasons for chart and interaction choices.
+3. Prepare the draft Design Book and a Stand Up presentation of no more than five minutes.
+4. Run a usability evaluation with real participants and record the resulting changes.
+5. Complete the final PDF, KNIME export, required hosting and submission links.
 
-## Milestones
+## Submission checkpoints from the supplied PDFs
 
-| Target | Deliverable | Acceptance evidence |
-|---|---|---|
-| 14 Nov | Data understanding and questions | Reviewed `DATA_AUDIT.md`, audience and focused questions |
-| 17 Nov | KNIME / EDA | Working `.knwf`, source and output data, summary statistics and charts |
-| 21 Nov | Stand Up 1 ready | 5-minute slides, Design Book draft and reproducible KNIME demo |
-| 22 Nov | Stand Up 1 submission | Canvas files and links required by the course |
-| 27 Nov | D3 prototype | Interactive charts backed by verified processed CSV |
-| 30 Nov | Website / design evidence | Responsive website, storyboard, interactions and design rationale |
-| 3 Dec | Testing / documentation | Real usability feedback, documented refinements, APA 7 and GenAI declaration |
-| 4 Dec | Final submission | Design Book PDF, KNIME `.knwf`, hosted site and repository link |
+| Deliverable | Date shown in PDF | Required material |
+| --- | --- | --- |
+| Stand Up 1 | 22/11, 23:59 | PPTX, draft Design Book, KNIME with data and individual/team name, GitHub Classroom link in comments |
+| Final project | 04/12, 23:59 | Design Book PDF, KNIME with all used data and exported files, Mercury and GitHub links in comments |
 
-## Provisional research direction
+The Stand Up instructions also require submission two nights before the class presentation. Check the live class schedule and Canvas deadlines. ZIP files are not accepted for Stand Up 1.
 
-How have hospitalisations associated with road crashes changed among road-user groups in Australia from 2011 to 2021?
-
-- What changed in the total national annual counts?
-- Which road-user groups account for the largest counts?
-- Which groups show distinct changes over time?
-
-These are research questions, not pre-verified conclusions. Check the dataset's comparability notes and measure definitions before settling the narrative.
-
-## Rubric quality checks
-
-- Introduction: audience, motivation, tasks and questions.
-- Data source and governance: provenance, structure, data quality, privacy and limitations.
-- Processing and EDA: verified KNIME workflow with complete data and evidence of analytical decisions.
-- Website and visuals: wireframe, storyboard, justified choices of charts, encodings and labels.
-- Interaction: purposeful D3.js-driven interaction and appropriate technical complexity.
-- Iteration and validation: genuine usability participants, notes, refinements and accessibility evidence.
-- Coding: readable, appropriately commented source and AI-prompt summary.
-- Storytelling, references and reflection: connected narrative, APA 7, honest GenAI declaration.
-
-Both team members must contribute to and understand both design and programming. Assign responsibilities together; do not invent contribution records.
-
-## Constraints and submission risks
-
-- Keep the existing structure; use plain HTML, CSS, JavaScript, D3.js and KNIME unless a rubric requirement justifies another tool.
-- Preserve the original workbook; do not invent missing values or results.
-- Stand Up 1 is listed as due 22 November 2026 at 23:59; check the tutorial's earlier-submission requirement.
-- The official materials specify GitHub Classroom and Mercury hosting. If the team intends alternatives, confirm acceptance with the tutor before submitting.
+This is an implementation checkpoint, not evidence of completed usability testing, lecturer acceptance or deployment. Mobile hardware, screen readers and the Mercury environment have not been tested.
