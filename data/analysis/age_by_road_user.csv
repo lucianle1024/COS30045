@@ -1,0 +1,876 @@
+year,road_user,age_group,hospitalisations,within_road_user_pct
+2011,Bus occupant,0-7,7,3.271028
+2011,Bus occupant,17-25,21,9.813084
+2011,Bus occupant,26-39,24,11.214953
+2011,Bus occupant,40-64,58,27.102804
+2011,Bus occupant,65-74,31,14.485981
+2011,Bus occupant,75+,61,28.504673
+2011,Bus occupant,8-16,12,5.607477
+2011,Car driver,17-25,2917,26.644136
+2011,Car driver,26-39,2790,25.484107
+2011,Car driver,40-64,3472,31.713555
+2011,Car driver,65-74,813,7.426014
+2011,Car driver,75+,883,8.0654
+2011,Car driver,8-16,73,0.666788
+2011,Car passenger,0-7,273,5.625386
+2011,Car passenger,17-25,1455,29.981455
+2011,Car passenger,26-39,841,17.329487
+2011,Car passenger,40-64,962,19.82279
+2011,Car passenger,65-74,314,6.470225
+2011,Car passenger,75+,372,7.665362
+2011,Car passenger,8-16,636,13.105296
+2011,Car unknown position,0-7,20,2.249719
+2011,Car unknown position,17-25,216,24.296963
+2011,Car unknown position,26-39,224,25.19685
+2011,Car unknown position,40-64,273,30.708661
+2011,Car unknown position,65-74,59,6.63667
+2011,Car unknown position,75+,55,6.186727
+2011,Car unknown position,8-16,42,4.724409
+2011,Heavy transport driver,17-25,33,7.252747
+2011,Heavy transport driver,26-39,125,27.472527
+2011,Heavy transport driver,40-64,279,61.318681
+2011,Heavy transport driver,65-74,17,3.736264
+2011,Heavy transport driver,75+,1,0.21978
+2011,Heavy transport passenger,0-7,1,1.923077
+2011,Heavy transport passenger,17-25,10,19.230769
+2011,Heavy transport passenger,26-39,12,23.076923
+2011,Heavy transport passenger,40-64,19,36.538462
+2011,Heavy transport passenger,65-74,7,13.461538
+2011,Heavy transport passenger,8-16,3,5.769231
+2011,Heavy transport unknown position,17-25,2,3.636364
+2011,Heavy transport unknown position,26-39,9,16.363636
+2011,Heavy transport unknown position,40-64,38,69.090909
+2011,Heavy transport unknown position,65-74,4,7.272727
+2011,Heavy transport unknown position,8-16,2,3.636364
+2011,Motorcyclist,0-7,27,0.356907
+2011,Motorcyclist,17-25,2042,26.99273
+2011,Motorcyclist,26-39,2174,28.737607
+2011,Motorcyclist,40-64,2645,34.963648
+2011,Motorcyclist,65-74,161,2.128222
+2011,Motorcyclist,75+,42,0.555188
+2011,Motorcyclist,8-16,474,6.265697
+2011,Other or unknown,0-7,20,3.278689
+2011,Other or unknown,17-25,123,20.163934
+2011,Other or unknown,26-39,120,19.672131
+2011,Other or unknown,40-64,187,30.655738
+2011,Other or unknown,65-74,79,12.95082
+2011,Other or unknown,75+,46,7.540984
+2011,Other or unknown,8-16,35,5.737705
+2011,Pedal cyclist,0-7,204,3.784085
+2011,Pedal cyclist,17-25,668,12.391022
+2011,Pedal cyclist,26-39,1314,24.373957
+2011,Pedal cyclist,40-64,2017,37.414209
+2011,Pedal cyclist,65-74,240,4.451864
+2011,Pedal cyclist,75+,87,1.613801
+2011,Pedal cyclist,8-16,861,15.971063
+2011,Pedestrian,0-7,163,5.918664
+2011,Pedestrian,17-25,532,19.317357
+2011,Pedestrian,26-39,466,16.920842
+2011,Pedestrian,40-64,633,22.984749
+2011,Pedestrian,65-74,232,8.42411
+2011,Pedestrian,75+,355,12.890341
+2011,Pedestrian,8-16,373,13.543936
+2011,Pick-up truck or van occupant,0-7,4,1.619433
+2011,Pick-up truck or van occupant,17-25,75,30.364372
+2011,Pick-up truck or van occupant,26-39,67,27.125506
+2011,Pick-up truck or van occupant,40-64,77,31.174089
+2011,Pick-up truck or van occupant,65-74,11,4.453441
+2011,Pick-up truck or van occupant,75+,4,1.619433
+2011,Pick-up truck or van occupant,8-16,9,3.643725
+2012,Bus occupant,0-7,9,4.147465
+2012,Bus occupant,17-25,11,5.069124
+2012,Bus occupant,26-39,29,13.364055
+2012,Bus occupant,40-64,68,31.336406
+2012,Bus occupant,65-74,22,10.138249
+2012,Bus occupant,75+,69,31.797235
+2012,Bus occupant,8-16,9,4.147465
+2012,Car driver,0-7,2,0.018508
+2012,Car driver,17-25,2830,26.189154
+2012,Car driver,26-39,2736,25.319267
+2012,Car driver,40-64,3391,31.380714
+2012,Car driver,65-74,846,7.828984
+2012,Car driver,75+,942,8.717379
+2012,Car driver,8-16,59,0.545993
+2012,Car passenger,0-7,308,6.500633
+2012,Car passenger,17-25,1384,29.210637
+2012,Car passenger,26-39,884,18.657661
+2012,Car passenger,40-64,905,19.100886
+2012,Car passenger,65-74,283,5.972984
+2012,Car passenger,75+,406,8.569016
+2012,Car passenger,8-16,568,11.988181
+2012,Car unknown position,0-7,14,1.564246
+2012,Car unknown position,17-25,261,29.162011
+2012,Car unknown position,26-39,202,22.569832
+2012,Car unknown position,40-64,257,28.715084
+2012,Car unknown position,65-74,64,7.150838
+2012,Car unknown position,75+,66,7.374302
+2012,Car unknown position,8-16,31,3.463687
+2012,Heavy transport driver,17-25,29,6.971154
+2012,Heavy transport driver,26-39,130,31.25
+2012,Heavy transport driver,40-64,236,56.730769
+2012,Heavy transport driver,65-74,19,4.567308
+2012,Heavy transport driver,75+,2,0.480769
+2012,Heavy transport passenger,0-7,2,4.255319
+2012,Heavy transport passenger,17-25,14,29.787234
+2012,Heavy transport passenger,26-39,12,25.531915
+2012,Heavy transport passenger,40-64,15,31.914894
+2012,Heavy transport passenger,65-74,1,2.12766
+2012,Heavy transport passenger,75+,2,4.255319
+2012,Heavy transport passenger,8-16,1,2.12766
+2012,Heavy transport unknown position,17-25,4,8.333333
+2012,Heavy transport unknown position,26-39,14,29.166667
+2012,Heavy transport unknown position,40-64,28,58.333333
+2012,Heavy transport unknown position,65-74,1,2.083333
+2012,Heavy transport unknown position,8-16,1,2.083333
+2012,Motorcyclist,0-7,47,0.608178
+2012,Motorcyclist,17-25,2077,26.876294
+2012,Motorcyclist,26-39,2240,28.985507
+2012,Motorcyclist,40-64,2679,34.666149
+2012,Motorcyclist,65-74,166,2.148033
+2012,Motorcyclist,75+,41,0.530538
+2012,Motorcyclist,8-16,478,6.1853
+2012,Other or unknown,0-7,18,3.197158
+2012,Other or unknown,17-25,119,21.136767
+2012,Other or unknown,26-39,114,20.248668
+2012,Other or unknown,40-64,186,33.0373
+2012,Other or unknown,65-74,30,5.328597
+2012,Other or unknown,75+,67,11.900533
+2012,Other or unknown,8-16,29,5.150977
+2012,Pedal cyclist,0-7,202,3.593667
+2012,Pedal cyclist,17-25,731,13.004803
+2012,Pedal cyclist,26-39,1317,23.429995
+2012,Pedal cyclist,40-64,2157,38.373955
+2012,Pedal cyclist,65-74,282,5.016901
+2012,Pedal cyclist,75+,104,1.850205
+2012,Pedal cyclist,8-16,828,14.730475
+2012,Pedestrian,0-7,144,5.389222
+2012,Pedestrian,17-25,502,18.787425
+2012,Pedestrian,26-39,513,19.199102
+2012,Pedestrian,40-64,641,23.989521
+2012,Pedestrian,65-74,208,7.784431
+2012,Pedestrian,75+,351,13.136228
+2012,Pedestrian,8-16,313,11.714072
+2012,Pick-up truck or van occupant,0-7,4,1.465201
+2012,Pick-up truck or van occupant,17-25,73,26.739927
+2012,Pick-up truck or van occupant,26-39,60,21.978022
+2012,Pick-up truck or van occupant,40-64,99,36.263736
+2012,Pick-up truck or van occupant,65-74,19,6.959707
+2012,Pick-up truck or van occupant,75+,8,2.930403
+2012,Pick-up truck or van occupant,8-16,10,3.663004
+2013,Bus occupant,0-7,7,3.097345
+2013,Bus occupant,17-25,16,7.079646
+2013,Bus occupant,26-39,24,10.619469
+2013,Bus occupant,40-64,66,29.20354
+2013,Bus occupant,65-74,38,16.814159
+2013,Bus occupant,75+,69,30.530973
+2013,Bus occupant,8-16,6,2.654867
+2013,Car driver,0-7,4,0.036556
+2013,Car driver,17-25,2756,25.187351
+2013,Car driver,26-39,2830,25.863645
+2013,Car driver,40-64,3457,31.593859
+2013,Car driver,65-74,889,8.124657
+2013,Car driver,75+,943,8.618169
+2013,Car driver,8-16,63,0.575763
+2013,Car passenger,0-7,302,6.255178
+2013,Car passenger,17-25,1331,27.568351
+2013,Car passenger,26-39,891,18.454847
+2013,Car passenger,40-64,971,20.111848
+2013,Car passenger,65-74,336,6.959403
+2013,Car passenger,75+,387,8.015742
+2013,Car passenger,8-16,610,12.634631
+2013,Car unknown position,0-7,12,1.466993
+2013,Car unknown position,17-25,186,22.738386
+2013,Car unknown position,26-39,208,25.427873
+2013,Car unknown position,40-64,252,30.806846
+2013,Car unknown position,65-74,53,6.479218
+2013,Car unknown position,75+,69,8.435208
+2013,Car unknown position,8-16,38,4.645477
+2013,Heavy transport driver,17-25,35,8.433735
+2013,Heavy transport driver,26-39,113,27.228916
+2013,Heavy transport driver,40-64,247,59.518072
+2013,Heavy transport driver,65-74,19,4.578313
+2013,Heavy transport driver,75+,1,0.240964
+2013,Heavy transport passenger,17-25,6,15.0
+2013,Heavy transport passenger,26-39,5,12.5
+2013,Heavy transport passenger,40-64,25,62.5
+2013,Heavy transport passenger,8-16,4,10.0
+2013,Heavy transport unknown position,17-25,1,3.448276
+2013,Heavy transport unknown position,26-39,4,13.793103
+2013,Heavy transport unknown position,40-64,19,65.517241
+2013,Heavy transport unknown position,65-74,4,13.793103
+2013,Heavy transport unknown position,75+,1,3.448276
+2013,Heavy transport unknown position,8-16,0,0.0
+2013,Motorcyclist,0-7,37,0.461462
+2013,Motorcyclist,17-25,2084,25.991519
+2013,Motorcyclist,26-39,2269,28.298828
+2013,Motorcyclist,40-64,2879,35.90671
+2013,Motorcyclist,65-74,205,2.556747
+2013,Motorcyclist,75+,73,0.910451
+2013,Motorcyclist,8-16,471,5.874283
+2013,Other or unknown,0-7,24,4.477612
+2013,Other or unknown,17-25,98,18.283582
+2013,Other or unknown,26-39,106,19.776119
+2013,Other or unknown,40-64,184,34.328358
+2013,Other or unknown,65-74,37,6.902985
+2013,Other or unknown,75+,52,9.701493
+2013,Other or unknown,8-16,35,6.529851
+2013,Pedal cyclist,0-7,194,3.098052
+2013,Pedal cyclist,17-25,778,12.424146
+2013,Pedal cyclist,26-39,1476,23.570744
+2013,Pedal cyclist,40-64,2517,40.194826
+2013,Pedal cyclist,65-74,321,5.126158
+2013,Pedal cyclist,75+,105,1.676781
+2013,Pedal cyclist,8-16,871,13.909294
+2013,Pedestrian,0-7,150,5.645465
+2013,Pedestrian,17-25,495,18.630034
+2013,Pedestrian,26-39,482,18.14076
+2013,Pedestrian,40-64,656,24.689499
+2013,Pedestrian,65-74,244,9.183289
+2013,Pedestrian,75+,351,13.210388
+2013,Pedestrian,8-16,279,10.500565
+2013,Pick-up truck or van occupant,0-7,2,0.869565
+2013,Pick-up truck or van occupant,17-25,66,28.695652
+2013,Pick-up truck or van occupant,26-39,64,27.826087
+2013,Pick-up truck or van occupant,40-64,72,31.304348
+2013,Pick-up truck or van occupant,65-74,11,4.782609
+2013,Pick-up truck or van occupant,75+,9,3.913043
+2013,Pick-up truck or van occupant,8-16,6,2.608696
+2014,Bus occupant,0-7,3,1.038062
+2014,Bus occupant,17-25,28,9.688581
+2014,Bus occupant,26-39,34,11.764706
+2014,Bus occupant,40-64,91,31.487889
+2014,Bus occupant,65-74,37,12.802768
+2014,Bus occupant,75+,75,25.951557
+2014,Bus occupant,8-16,21,7.266436
+2014,Car driver,0-7,5,0.044956
+2014,Car driver,17-25,2700,24.276209
+2014,Car driver,26-39,2830,25.445064
+2014,Car driver,40-64,3596,32.332314
+2014,Car driver,65-74,932,8.379788
+2014,Car driver,75+,1012,9.099083
+2014,Car driver,8-16,47,0.422586
+2014,Car passenger,0-7,295,6.378378
+2014,Car passenger,17-25,1317,28.475676
+2014,Car passenger,26-39,822,17.772973
+2014,Car passenger,40-64,938,20.281081
+2014,Car passenger,65-74,355,7.675676
+2014,Car passenger,75+,395,8.540541
+2014,Car passenger,8-16,503,10.875676
+2014,Car unknown position,0-7,16,2.197802
+2014,Car unknown position,17-25,184,25.274725
+2014,Car unknown position,26-39,193,26.510989
+2014,Car unknown position,40-64,207,28.434066
+2014,Car unknown position,65-74,45,6.181319
+2014,Car unknown position,75+,58,7.967033
+2014,Car unknown position,8-16,25,3.434066
+2014,Heavy transport driver,17-25,28,7.427056
+2014,Heavy transport driver,26-39,87,23.076923
+2014,Heavy transport driver,40-64,237,62.864721
+2014,Heavy transport driver,65-74,23,6.100796
+2014,Heavy transport driver,75+,2,0.530504
+2014,Heavy transport passenger,17-25,11,20.0
+2014,Heavy transport passenger,26-39,14,25.454545
+2014,Heavy transport passenger,40-64,21,38.181818
+2014,Heavy transport passenger,65-74,3,5.454545
+2014,Heavy transport passenger,75+,3,5.454545
+2014,Heavy transport passenger,8-16,3,5.454545
+2014,Heavy transport unknown position,17-25,5,10.416667
+2014,Heavy transport unknown position,26-39,6,12.5
+2014,Heavy transport unknown position,40-64,27,56.25
+2014,Heavy transport unknown position,65-74,7,14.583333
+2014,Heavy transport unknown position,75+,1,2.083333
+2014,Heavy transport unknown position,8-16,2,4.166667
+2014,Motorcyclist,0-7,36,0.431965
+2014,Motorcyclist,17-25,2104,25.24598
+2014,Motorcyclist,26-39,2413,28.953684
+2014,Motorcyclist,40-64,3031,36.36909
+2014,Motorcyclist,65-74,228,2.735781
+2014,Motorcyclist,75+,71,0.851932
+2014,Motorcyclist,8-16,451,5.411567
+2014,Other or unknown,0-7,18,3.543307
+2014,Other or unknown,17-25,91,17.913386
+2014,Other or unknown,26-39,104,20.472441
+2014,Other or unknown,40-64,193,37.992126
+2014,Other or unknown,65-74,33,6.496063
+2014,Other or unknown,75+,47,9.251969
+2014,Other or unknown,8-16,21,4.133858
+2014,Other or unknown,Missing,1,0.19685
+2014,Pedal cyclist,0-7,223,3.360458
+2014,Pedal cyclist,17-25,763,11.49789
+2014,Pedal cyclist,26-39,1626,24.502712
+2014,Pedal cyclist,40-64,2629,39.617239
+2014,Pedal cyclist,65-74,389,5.861965
+2014,Pedal cyclist,75+,129,1.943942
+2014,Pedal cyclist,8-16,877,13.215793
+2014,Pedestrian,0-7,132,5.168363
+2014,Pedestrian,17-25,432,16.914644
+2014,Pedestrian,26-39,476,18.637431
+2014,Pedestrian,40-64,618,24.197338
+2014,Pedestrian,65-74,281,11.002349
+2014,Pedestrian,75+,349,13.664839
+2014,Pedestrian,8-16,266,10.415035
+2014,Pick-up truck or van occupant,0-7,1,0.41841
+2014,Pick-up truck or van occupant,17-25,65,27.196653
+2014,Pick-up truck or van occupant,26-39,63,26.359833
+2014,Pick-up truck or van occupant,40-64,78,32.635983
+2014,Pick-up truck or van occupant,65-74,12,5.020921
+2014,Pick-up truck or van occupant,75+,5,2.09205
+2014,Pick-up truck or van occupant,8-16,15,6.276151
+2015,Bus occupant,17-25,21,8.536585
+2015,Bus occupant,26-39,27,10.97561
+2015,Bus occupant,40-64,69,28.04878
+2015,Bus occupant,65-74,44,17.886179
+2015,Bus occupant,75+,73,29.674797
+2015,Bus occupant,8-16,12,4.878049
+2015,Car driver,0-7,3,0.024665
+2015,Car driver,17-25,2918,23.990792
+2015,Car driver,26-39,3186,26.194196
+2015,Car driver,40-64,3853,31.67804
+2015,Car driver,65-74,1022,8.402532
+2015,Car driver,75+,1122,9.224698
+2015,Car driver,8-16,59,0.485078
+2015,Car passenger,0-7,343,6.918112
+2015,Car passenger,17-25,1296,26.139572
+2015,Car passenger,26-39,904,18.233159
+2015,Car passenger,40-64,988,19.92739
+2015,Car passenger,65-74,378,7.624042
+2015,Car passenger,75+,423,8.531666
+2015,Car passenger,8-16,626,12.626059
+2015,Car unknown position,0-7,12,1.477833
+2015,Car unknown position,17-25,194,23.891626
+2015,Car unknown position,26-39,206,25.369458
+2015,Car unknown position,40-64,216,26.600985
+2015,Car unknown position,65-74,66,8.128079
+2015,Car unknown position,75+,83,10.221675
+2015,Car unknown position,8-16,35,4.310345
+2015,Heavy transport driver,17-25,27,6.081081
+2015,Heavy transport driver,26-39,118,26.576577
+2015,Heavy transport driver,40-64,273,61.486486
+2015,Heavy transport driver,65-74,22,4.954955
+2015,Heavy transport driver,75+,3,0.675676
+2015,Heavy transport driver,8-16,1,0.225225
+2015,Heavy transport passenger,0-7,2,4.651163
+2015,Heavy transport passenger,17-25,10,23.255814
+2015,Heavy transport passenger,26-39,11,25.581395
+2015,Heavy transport passenger,40-64,9,20.930233
+2015,Heavy transport passenger,65-74,3,6.976744
+2015,Heavy transport passenger,75+,1,2.325581
+2015,Heavy transport passenger,8-16,7,16.27907
+2015,Heavy transport unknown position,17-25,3,13.043478
+2015,Heavy transport unknown position,26-39,3,13.043478
+2015,Heavy transport unknown position,40-64,16,69.565217
+2015,Heavy transport unknown position,65-74,1,4.347826
+2015,Motorcyclist,0-7,37,0.445891
+2015,Motorcyclist,17-25,2064,24.873463
+2015,Motorcyclist,26-39,2322,27.982646
+2015,Motorcyclist,40-64,3097,37.322246
+2015,Motorcyclist,65-74,226,2.723548
+2015,Motorcyclist,75+,86,1.036394
+2015,Motorcyclist,8-16,466,5.615811
+2015,Other or unknown,0-7,9,1.789264
+2015,Other or unknown,17-25,104,20.675944
+2015,Other or unknown,26-39,107,21.272366
+2015,Other or unknown,40-64,182,36.182903
+2015,Other or unknown,65-74,33,6.560636
+2015,Other or unknown,75+,41,8.151093
+2015,Other or unknown,8-16,27,5.367793
+2015,Pedal cyclist,0-7,220,3.275759
+2015,Pedal cyclist,17-25,748,11.137582
+2015,Pedal cyclist,26-39,1539,22.915426
+2015,Pedal cyclist,40-64,2730,40.649196
+2015,Pedal cyclist,65-74,400,5.955926
+2015,Pedal cyclist,75+,144,2.144133
+2015,Pedal cyclist,8-16,935,13.921977
+2015,Pedestrian,0-7,121,4.606014
+2015,Pedestrian,17-25,447,17.015607
+2015,Pedestrian,26-39,492,18.728588
+2015,Pedestrian,40-64,664,25.27598
+2015,Pedestrian,65-74,255,9.70689
+2015,Pedestrian,75+,379,14.427103
+2015,Pedestrian,8-16,269,10.239817
+2015,Pick-up truck or van occupant,0-7,3,1.204819
+2015,Pick-up truck or van occupant,17-25,50,20.080321
+2015,Pick-up truck or van occupant,26-39,62,24.899598
+2015,Pick-up truck or van occupant,40-64,102,40.963855
+2015,Pick-up truck or van occupant,65-74,15,6.024096
+2015,Pick-up truck or van occupant,75+,15,6.024096
+2015,Pick-up truck or van occupant,8-16,2,0.803213
+2016,Bus occupant,0-7,4,1.413428
+2016,Bus occupant,17-25,21,7.420495
+2016,Bus occupant,26-39,32,11.30742
+2016,Bus occupant,40-64,100,35.335689
+2016,Bus occupant,65-74,41,14.487633
+2016,Bus occupant,75+,72,25.441696
+2016,Bus occupant,8-16,13,4.59364
+2016,Car driver,0-7,4,0.030317
+2016,Car driver,17-25,3204,24.283765
+2016,Car driver,26-39,3496,26.496893
+2016,Car driver,40-64,4156,31.499166
+2016,Car driver,65-74,1120,8.488707
+2016,Car driver,75+,1164,8.822192
+2016,Car driver,8-16,50,0.37896
+2016,Car passenger,0-7,314,6.153243
+2016,Car passenger,17-25,1466,28.728199
+2016,Car passenger,26-39,932,18.263766
+2016,Car passenger,40-64,990,19.400353
+2016,Car passenger,65-74,350,6.858711
+2016,Car passenger,75+,446,8.739957
+2016,Car passenger,8-16,605,11.855771
+2016,Car unknown position,0-7,25,3.094059
+2016,Car unknown position,17-25,190,23.514851
+2016,Car unknown position,26-39,197,24.381188
+2016,Car unknown position,40-64,239,29.579208
+2016,Car unknown position,65-74,65,8.044554
+2016,Car unknown position,75+,64,7.920792
+2016,Car unknown position,8-16,28,3.465347
+2016,Heavy transport driver,17-25,33,8.188586
+2016,Heavy transport driver,26-39,80,19.851117
+2016,Heavy transport driver,40-64,256,63.523573
+2016,Heavy transport driver,65-74,28,6.947891
+2016,Heavy transport driver,75+,5,1.240695
+2016,Heavy transport driver,8-16,1,0.248139
+2016,Heavy transport passenger,0-7,2,4.761905
+2016,Heavy transport passenger,17-25,5,11.904762
+2016,Heavy transport passenger,26-39,9,21.428571
+2016,Heavy transport passenger,40-64,16,38.095238
+2016,Heavy transport passenger,65-74,6,14.285714
+2016,Heavy transport passenger,75+,4,9.52381
+2016,Heavy transport unknown position,17-25,7,17.948718
+2016,Heavy transport unknown position,26-39,10,25.641026
+2016,Heavy transport unknown position,40-64,19,48.717949
+2016,Heavy transport unknown position,65-74,2,5.128205
+2016,Heavy transport unknown position,8-16,1,2.564103
+2016,Motorcyclist,0-7,27,0.316678
+2016,Motorcyclist,17-25,2199,25.791696
+2016,Motorcyclist,26-39,2424,28.430683
+2016,Motorcyclist,40-64,3101,36.3711
+2016,Motorcyclist,65-74,263,3.084682
+2016,Motorcyclist,75+,84,0.985222
+2016,Motorcyclist,8-16,428,5.019939
+2016,Other or unknown,0-7,21,3.387097
+2016,Other or unknown,17-25,116,18.709677
+2016,Other or unknown,26-39,139,22.419355
+2016,Other or unknown,40-64,222,35.806452
+2016,Other or unknown,65-74,45,7.258065
+2016,Other or unknown,75+,46,7.419355
+2016,Other or unknown,8-16,31,5.0
+2016,Pedal cyclist,0-7,202,2.92584
+2016,Pedal cyclist,17-25,713,10.327346
+2016,Pedal cyclist,26-39,1540,22.30591
+2016,Pedal cyclist,40-64,2826,40.932793
+2016,Pedal cyclist,65-74,480,6.952491
+2016,Pedal cyclist,75+,150,2.172654
+2016,Pedal cyclist,8-16,993,14.382966
+2016,Pedestrian,0-7,130,4.739336
+2016,Pedestrian,17-25,454,16.551221
+2016,Pedestrian,26-39,519,18.92089
+2016,Pedestrian,40-64,719,26.212176
+2016,Pedestrian,65-74,252,9.187022
+2016,Pedestrian,75+,355,12.942034
+2016,Pedestrian,8-16,314,11.44732
+2016,Pick-up truck or van occupant,0-7,7,2.348993
+2016,Pick-up truck or van occupant,17-25,66,22.147651
+2016,Pick-up truck or van occupant,26-39,73,24.496644
+2016,Pick-up truck or van occupant,40-64,105,35.234899
+2016,Pick-up truck or van occupant,65-74,25,8.389262
+2016,Pick-up truck or van occupant,75+,10,3.355705
+2016,Pick-up truck or van occupant,8-16,12,4.026846
+2017,Bus occupant,0-7,3,1.132075
+2017,Bus occupant,17-25,23,8.679245
+2017,Bus occupant,26-39,29,10.943396
+2017,Bus occupant,40-64,74,27.924528
+2017,Bus occupant,65-74,38,14.339623
+2017,Bus occupant,75+,89,33.584906
+2017,Bus occupant,8-16,9,3.396226
+2017,Car driver,0-7,3,0.022612
+2017,Car driver,17-25,3239,24.413959
+2017,Car driver,26-39,3460,26.079747
+2017,Car driver,40-64,4221,31.815784
+2017,Car driver,65-74,1096,8.261099
+2017,Car driver,75+,1186,8.939474
+2017,Car driver,8-16,62,0.467325
+2017,Car passenger,0-7,344,6.742454
+2017,Car passenger,17-25,1402,27.47942
+2017,Car passenger,26-39,934,18.306546
+2017,Car passenger,40-64,966,18.933751
+2017,Car passenger,65-74,381,7.46766
+2017,Car passenger,75+,452,8.859271
+2017,Car passenger,8-16,623,12.210898
+2017,Car unknown position,0-7,15,1.930502
+2017,Car unknown position,17-25,180,23.166023
+2017,Car unknown position,26-39,202,25.997426
+2017,Car unknown position,40-64,243,31.274131
+2017,Car unknown position,65-74,61,7.850708
+2017,Car unknown position,75+,54,6.949807
+2017,Car unknown position,8-16,22,2.831403
+2017,Heavy transport driver,17-25,41,9.17226
+2017,Heavy transport driver,26-39,108,24.161074
+2017,Heavy transport driver,40-64,263,58.836689
+2017,Heavy transport driver,65-74,35,7.829978
+2017,Heavy transport driver,75+,0,0.0
+2017,Heavy transport passenger,0-7,1,2.040816
+2017,Heavy transport passenger,17-25,15,30.612245
+2017,Heavy transport passenger,26-39,7,14.285714
+2017,Heavy transport passenger,40-64,15,30.612245
+2017,Heavy transport passenger,65-74,3,6.122449
+2017,Heavy transport passenger,75+,6,12.244898
+2017,Heavy transport passenger,8-16,2,4.081633
+2017,Heavy transport unknown position,17-25,6,18.75
+2017,Heavy transport unknown position,26-39,4,12.5
+2017,Heavy transport unknown position,40-64,18,56.25
+2017,Heavy transport unknown position,65-74,2,6.25
+2017,Heavy transport unknown position,75+,1,3.125
+2017,Heavy transport unknown position,8-16,1,3.125
+2017,Motorcyclist,0-7,35,0.400503
+2017,Motorcyclist,17-25,2163,24.751116
+2017,Motorcyclist,26-39,2478,28.355647
+2017,Motorcyclist,40-64,3202,36.640348
+2017,Motorcyclist,65-74,336,3.844834
+2017,Motorcyclist,75+,83,0.949765
+2017,Motorcyclist,8-16,442,5.057787
+2017,Other or unknown,0-7,11,1.833333
+2017,Other or unknown,17-25,118,19.666667
+2017,Other or unknown,26-39,143,23.833333
+2017,Other or unknown,40-64,196,32.666667
+2017,Other or unknown,65-74,46,7.666667
+2017,Other or unknown,75+,50,8.333333
+2017,Other or unknown,8-16,36,6.0
+2017,Pedal cyclist,0-7,190,2.685133
+2017,Pedal cyclist,17-25,788,11.136235
+2017,Pedal cyclist,26-39,1570,22.187677
+2017,Pedal cyclist,40-64,2897,40.94121
+2017,Pedal cyclist,65-74,486,6.868287
+2017,Pedal cyclist,75+,154,2.176371
+2017,Pedal cyclist,8-16,991,14.005088
+2017,Pedestrian,0-7,134,4.937362
+2017,Pedestrian,17-25,420,15.475313
+2017,Pedestrian,26-39,513,18.90199
+2017,Pedestrian,40-64,746,27.487104
+2017,Pedestrian,65-74,275,10.132646
+2017,Pedestrian,75+,326,12.011791
+2017,Pedestrian,8-16,300,11.053795
+2017,Pick-up truck or van occupant,0-7,4,1.476015
+2017,Pick-up truck or van occupant,17-25,73,26.937269
+2017,Pick-up truck or van occupant,26-39,60,22.140221
+2017,Pick-up truck or van occupant,40-64,96,35.424354
+2017,Pick-up truck or van occupant,65-74,18,6.642066
+2017,Pick-up truck or van occupant,75+,10,3.690037
+2017,Pick-up truck or van occupant,8-16,10,3.690037
+2018,Bus occupant,0-7,2,0.809717
+2018,Bus occupant,17-25,25,10.121457
+2018,Bus occupant,26-39,32,12.955466
+2018,Bus occupant,40-64,57,23.076923
+2018,Bus occupant,65-74,45,18.218623
+2018,Bus occupant,75+,74,29.959514
+2018,Bus occupant,8-16,12,4.8583
+2018,Car driver,0-7,3,0.022067
+2018,Car driver,17-25,3328,24.479588
+2018,Car driver,26-39,3615,26.590658
+2018,Car driver,40-64,4185,30.783376
+2018,Car driver,65-74,1172,8.620816
+2018,Car driver,75+,1232,9.062155
+2018,Car driver,8-16,60,0.441339
+2018,Car passenger,0-7,348,6.684595
+2018,Car passenger,17-25,1387,26.642336
+2018,Car passenger,26-39,932,17.90242
+2018,Car passenger,40-64,978,18.786016
+2018,Car passenger,65-74,390,7.491356
+2018,Car passenger,75+,491,9.431425
+2018,Car passenger,8-16,680,13.061852
+2018,Car unknown position,0-7,11,1.273148
+2018,Car unknown position,17-25,183,21.180556
+2018,Car unknown position,26-39,234,27.083333
+2018,Car unknown position,40-64,287,33.217593
+2018,Car unknown position,65-74,50,5.787037
+2018,Car unknown position,75+,73,8.449074
+2018,Car unknown position,8-16,26,3.009259
+2018,Heavy transport driver,17-25,48,10.983982
+2018,Heavy transport driver,26-39,106,24.256293
+2018,Heavy transport driver,40-64,251,57.437071
+2018,Heavy transport driver,65-74,25,5.720824
+2018,Heavy transport driver,75+,7,1.601831
+2018,Heavy transport passenger,0-7,4,5.797101
+2018,Heavy transport passenger,17-25,9,13.043478
+2018,Heavy transport passenger,26-39,19,27.536232
+2018,Heavy transport passenger,40-64,26,37.681159
+2018,Heavy transport passenger,65-74,2,2.898551
+2018,Heavy transport passenger,75+,3,4.347826
+2018,Heavy transport passenger,8-16,6,8.695652
+2018,Heavy transport unknown position,17-25,7,14.893617
+2018,Heavy transport unknown position,26-39,9,19.148936
+2018,Heavy transport unknown position,40-64,27,57.446809
+2018,Heavy transport unknown position,65-74,3,6.382979
+2018,Heavy transport unknown position,75+,1,2.12766
+2018,Motorcyclist,0-7,34,0.394294
+2018,Motorcyclist,17-25,1992,23.101009
+2018,Motorcyclist,26-39,2536,29.409718
+2018,Motorcyclist,40-64,3246,37.643512
+2018,Motorcyclist,65-74,352,4.082106
+2018,Motorcyclist,75+,86,0.997333
+2018,Motorcyclist,8-16,377,4.372028
+2018,Other or unknown,0-7,7,1.160862
+2018,Other or unknown,17-25,115,19.07131
+2018,Other or unknown,26-39,141,23.383085
+2018,Other or unknown,40-64,218,36.15257
+2018,Other or unknown,65-74,48,7.960199
+2018,Other or unknown,75+,49,8.126036
+2018,Other or unknown,8-16,25,4.145937
+2018,Pedal cyclist,0-7,184,2.644058
+2018,Pedal cyclist,17-25,712,10.231355
+2018,Pedal cyclist,26-39,1541,22.143986
+2018,Pedal cyclist,40-64,2872,41.270297
+2018,Pedal cyclist,65-74,510,7.328639
+2018,Pedal cyclist,75+,195,2.802127
+2018,Pedal cyclist,8-16,945,13.579537
+2018,Pedestrian,0-7,130,4.885381
+2018,Pedestrian,17-25,426,16.009019
+2018,Pedestrian,26-39,500,18.789929
+2018,Pedestrian,40-64,727,27.320556
+2018,Pedestrian,65-74,265,9.958662
+2018,Pedestrian,75+,327,12.288613
+2018,Pedestrian,8-16,286,10.747839
+2018,Pick-up truck or van occupant,0-7,1,0.358423
+2018,Pick-up truck or van occupant,17-25,77,27.598566
+2018,Pick-up truck or van occupant,26-39,71,25.448029
+2018,Pick-up truck or van occupant,40-64,99,35.483871
+2018,Pick-up truck or van occupant,65-74,14,5.017921
+2018,Pick-up truck or van occupant,75+,12,4.301075
+2018,Pick-up truck or van occupant,8-16,5,1.792115
+2019,Bus occupant,0-7,3,1.176471
+2019,Bus occupant,17-25,21,8.235294
+2019,Bus occupant,26-39,33,12.941176
+2019,Bus occupant,40-64,83,32.54902
+2019,Bus occupant,65-74,50,19.607843
+2019,Bus occupant,75+,61,23.921569
+2019,Bus occupant,8-16,4,1.568627
+2019,Car driver,0-7,5,0.037086
+2019,Car driver,17-25,3063,22.719181
+2019,Car driver,26-39,3488,25.871532
+2019,Car driver,40-64,4298,31.879543
+2019,Car driver,65-74,1226,9.093606
+2019,Car driver,75+,1350,10.013351
+2019,Car driver,8-16,52,0.385699
+2019,Car passenger,0-7,316,6.333935
+2019,Car passenger,17-25,1294,25.937062
+2019,Car passenger,26-39,924,18.520746
+2019,Car passenger,40-64,979,19.623171
+2019,Car passenger,65-74,391,7.837242
+2019,Car passenger,75+,482,9.661255
+2019,Car passenger,8-16,603,12.08659
+2019,Car unknown position,0-7,5,0.627353
+2019,Car unknown position,17-25,177,22.208281
+2019,Car unknown position,26-39,243,30.489335
+2019,Car unknown position,40-64,236,29.611041
+2019,Car unknown position,65-74,63,7.904642
+2019,Car unknown position,75+,57,7.151819
+2019,Car unknown position,8-16,16,2.007528
+2019,Heavy transport driver,17-25,28,6.588235
+2019,Heavy transport driver,26-39,108,25.411765
+2019,Heavy transport driver,40-64,261,61.411765
+2019,Heavy transport driver,65-74,22,5.176471
+2019,Heavy transport driver,75+,6,1.411765
+2019,Heavy transport passenger,17-25,13,25.0
+2019,Heavy transport passenger,26-39,13,25.0
+2019,Heavy transport passenger,40-64,13,25.0
+2019,Heavy transport passenger,65-74,6,11.538462
+2019,Heavy transport passenger,75+,4,7.692308
+2019,Heavy transport passenger,8-16,3,5.769231
+2019,Heavy transport unknown position,17-25,4,8.510638
+2019,Heavy transport unknown position,26-39,12,25.531915
+2019,Heavy transport unknown position,40-64,27,57.446809
+2019,Heavy transport unknown position,65-74,4,8.510638
+2019,Heavy transport unknown position,75+,0,0.0
+2019,Motorcyclist,0-7,34,0.380995
+2019,Motorcyclist,17-25,2158,24.181981
+2019,Motorcyclist,26-39,2476,27.745406
+2019,Motorcyclist,40-64,3278,36.732407
+2019,Motorcyclist,65-74,384,4.303003
+2019,Motorcyclist,75+,132,1.479157
+2019,Motorcyclist,8-16,462,5.177051
+2019,Other or unknown,0-7,12,1.935484
+2019,Other or unknown,17-25,127,20.483871
+2019,Other or unknown,26-39,153,24.677419
+2019,Other or unknown,40-64,189,30.483871
+2019,Other or unknown,65-74,56,9.032258
+2019,Other or unknown,75+,62,10.0
+2019,Other or unknown,8-16,21,3.387097
+2019,Pedal cyclist,0-7,203,2.78006
+2019,Pedal cyclist,17-25,731,10.010956
+2019,Pedal cyclist,26-39,1589,21.761161
+2019,Pedal cyclist,40-64,2995,41.01616
+2019,Pedal cyclist,65-74,565,7.737606
+2019,Pedal cyclist,75+,178,2.437688
+2019,Pedal cyclist,8-16,1041,14.256368
+2019,Pedestrian,0-7,123,4.533727
+2019,Pedestrian,17-25,428,15.775894
+2019,Pedestrian,26-39,531,19.572429
+2019,Pedestrian,40-64,714,26.317729
+2019,Pedestrian,65-74,286,10.541836
+2019,Pedestrian,75+,346,12.75341
+2019,Pedestrian,8-16,285,10.504976
+2019,Pick-up truck or van occupant,0-7,3,1.153846
+2019,Pick-up truck or van occupant,17-25,58,22.307692
+2019,Pick-up truck or van occupant,26-39,71,27.307692
+2019,Pick-up truck or van occupant,40-64,97,37.307692
+2019,Pick-up truck or van occupant,65-74,15,5.769231
+2019,Pick-up truck or van occupant,75+,8,3.076923
+2019,Pick-up truck or van occupant,8-16,8,3.076923
+2020,Bus occupant,17-25,21,12.138728
+2020,Bus occupant,26-39,19,10.982659
+2020,Bus occupant,40-64,50,28.901734
+2020,Bus occupant,65-74,22,12.716763
+2020,Bus occupant,75+,45,26.011561
+2020,Bus occupant,8-16,16,9.248555
+2020,Car driver,0-7,6,0.049112
+2020,Car driver,17-25,3070,25.128919
+2020,Car driver,26-39,3253,26.626831
+2020,Car driver,40-64,3716,30.416633
+2020,Car driver,65-74,984,8.05435
+2020,Car driver,75+,1122,9.183924
+2020,Car driver,8-16,66,0.540231
+2020,Car passenger,0-7,292,6.721915
+2020,Car passenger,17-25,1275,29.350829
+2020,Car passenger,26-39,816,18.78453
+2020,Car passenger,40-64,794,18.278085
+2020,Car passenger,65-74,303,6.975138
+2020,Car passenger,75+,335,7.711786
+2020,Car passenger,8-16,529,12.177716
+2020,Car unknown position,0-7,10,1.367989
+2020,Car unknown position,17-25,153,20.930233
+2020,Car unknown position,26-39,211,28.864569
+2020,Car unknown position,40-64,236,32.284542
+2020,Car unknown position,65-74,57,7.797538
+2020,Car unknown position,75+,39,5.335157
+2020,Car unknown position,8-16,25,3.419973
+2020,Heavy transport driver,17-25,25,6.067961
+2020,Heavy transport driver,26-39,122,29.61165
+2020,Heavy transport driver,40-64,231,56.067961
+2020,Heavy transport driver,65-74,29,7.038835
+2020,Heavy transport driver,75+,5,1.213592
+2020,Heavy transport passenger,0-7,1,2.083333
+2020,Heavy transport passenger,17-25,5,10.416667
+2020,Heavy transport passenger,26-39,13,27.083333
+2020,Heavy transport passenger,40-64,23,47.916667
+2020,Heavy transport passenger,65-74,4,8.333333
+2020,Heavy transport passenger,8-16,2,4.166667
+2020,Heavy transport unknown position,0-7,1,2.5
+2020,Heavy transport unknown position,17-25,3,7.5
+2020,Heavy transport unknown position,26-39,13,32.5
+2020,Heavy transport unknown position,40-64,20,50.0
+2020,Heavy transport unknown position,65-74,3,7.5
+2020,Heavy transport unknown position,75+,0,0.0
+2020,Motorcyclist,0-7,32,0.368494
+2020,Motorcyclist,17-25,2102,24.205435
+2020,Motorcyclist,26-39,2501,28.800092
+2020,Motorcyclist,40-64,3062,35.260249
+2020,Motorcyclist,65-74,377,4.341317
+2020,Motorcyclist,75+,75,0.863657
+2020,Motorcyclist,8-16,535,6.160755
+2020,Other or unknown,0-7,13,2.233677
+2020,Other or unknown,17-25,131,22.508591
+2020,Other or unknown,26-39,117,20.103093
+2020,Other or unknown,40-64,198,34.020619
+2020,Other or unknown,65-74,53,9.106529
+2020,Other or unknown,75+,37,6.357388
+2020,Other or unknown,8-16,33,5.670103
+2020,Pedal cyclist,0-7,258,3.096495
+2020,Pedal cyclist,17-25,768,9.217475
+2020,Pedal cyclist,26-39,1681,20.175228
+2020,Pedal cyclist,40-64,3331,39.978397
+2020,Pedal cyclist,65-74,693,8.317331
+2020,Pedal cyclist,75+,253,3.036486
+2020,Pedal cyclist,8-16,1348,16.178589
+2020,Pedestrian,0-7,100,4.755112
+2020,Pedestrian,17-25,333,15.834522
+2020,Pedestrian,26-39,396,18.830243
+2020,Pedestrian,40-64,567,26.961484
+2020,Pedestrian,65-74,234,11.126961
+2020,Pedestrian,75+,239,11.364717
+2020,Pedestrian,8-16,234,11.126961
+2020,Pick-up truck or van occupant,0-7,1,0.333333
+2020,Pick-up truck or van occupant,17-25,85,28.333333
+2020,Pick-up truck or van occupant,26-39,60,20.0
+2020,Pick-up truck or van occupant,40-64,114,38.0
+2020,Pick-up truck or van occupant,65-74,20,6.666667
+2020,Pick-up truck or van occupant,75+,9,3.0
+2020,Pick-up truck or van occupant,8-16,11,3.666667
+2021,Bus occupant,0-7,1,0.591716
+2021,Bus occupant,17-25,10,5.91716
+2021,Bus occupant,26-39,20,11.83432
+2021,Bus occupant,40-64,58,34.319527
+2021,Bus occupant,65-74,28,16.568047
+2021,Bus occupant,75+,44,26.035503
+2021,Bus occupant,8-16,8,4.733728
+2021,Car driver,0-7,9,0.067532
+2021,Car driver,17-25,3272,24.551662
+2021,Car driver,26-39,3571,26.795228
+2021,Car driver,40-64,4036,30.284385
+2021,Car driver,65-74,1119,8.396488
+2021,Car driver,75+,1254,9.409469
+2021,Car driver,8-16,66,0.495235
+2021,Car passenger,0-7,288,6.407119
+2021,Car passenger,17-25,1203,26.76307
+2021,Car passenger,26-39,813,18.086763
+2021,Car passenger,40-64,924,20.556174
+2021,Car passenger,65-74,287,6.384872
+2021,Car passenger,75+,377,8.387097
+2021,Car passenger,8-16,603,13.414905
+2021,Car unknown position,0-7,13,1.81311
+2021,Car unknown position,17-25,179,24.965132
+2021,Car unknown position,26-39,192,26.778243
+2021,Car unknown position,40-64,214,29.846583
+2021,Car unknown position,65-74,57,7.949791
+2021,Car unknown position,75+,44,6.136681
+2021,Car unknown position,8-16,18,2.51046
+2021,Heavy transport driver,17-25,30,7.832898
+2021,Heavy transport driver,26-39,109,28.45953
+2021,Heavy transport driver,40-64,207,54.046997
+2021,Heavy transport driver,65-74,31,8.093995
+2021,Heavy transport driver,75+,6,1.56658
+2021,Heavy transport passenger,0-7,1,1.785714
+2021,Heavy transport passenger,17-25,15,26.785714
+2021,Heavy transport passenger,26-39,13,23.214286
+2021,Heavy transport passenger,40-64,15,26.785714
+2021,Heavy transport passenger,65-74,5,8.928571
+2021,Heavy transport passenger,75+,4,7.142857
+2021,Heavy transport passenger,8-16,3,5.357143
+2021,Heavy transport unknown position,17-25,2,5.555556
+2021,Heavy transport unknown position,26-39,12,33.333333
+2021,Heavy transport unknown position,40-64,18,50.0
+2021,Heavy transport unknown position,65-74,4,11.111111
+2021,Heavy transport unknown position,75+,0,0.0
+2021,Motorcyclist,0-7,36,0.405268
+2021,Motorcyclist,17-25,2020,22.740065
+2021,Motorcyclist,26-39,2479,27.907239
+2021,Motorcyclist,40-64,3259,36.688056
+2021,Motorcyclist,65-74,402,4.525498
+2021,Motorcyclist,75+,112,1.260835
+2021,Motorcyclist,8-16,575,6.473038
+2021,Other or unknown,0-7,14,2.329451
+2021,Other or unknown,17-25,105,17.470882
+2021,Other or unknown,26-39,137,22.795341
+2021,Other or unknown,40-64,194,32.279534
+2021,Other or unknown,65-74,62,10.31614
+2021,Other or unknown,75+,44,7.321131
+2021,Other or unknown,8-16,45,7.487521
+2021,Pedal cyclist,0-7,217,2.658336
+2021,Pedal cyclist,17-25,727,8.906039
+2021,Pedal cyclist,26-39,1542,18.890114
+2021,Pedal cyclist,40-64,3393,41.565601
+2021,Pedal cyclist,65-74,749,9.175548
+2021,Pedal cyclist,75+,285,3.491363
+2021,Pedal cyclist,8-16,1250,15.312998
+2021,Pedestrian,0-7,123,5.269923
+2021,Pedestrian,17-25,338,14.481577
+2021,Pedestrian,26-39,450,19.280206
+2021,Pedestrian,40-64,622,26.649529
+2021,Pedestrian,65-74,240,10.282776
+2021,Pedestrian,75+,278,11.910883
+2021,Pedestrian,8-16,283,12.125107
+2021,Pick-up truck or van occupant,0-7,5,1.466276
+2021,Pick-up truck or van occupant,17-25,109,31.964809
+2021,Pick-up truck or van occupant,26-39,85,24.926686
+2021,Pick-up truck or van occupant,40-64,86,25.219941
+2021,Pick-up truck or van occupant,65-74,34,9.970674
+2021,Pick-up truck or van occupant,75+,10,2.932551
+2021,Pick-up truck or van occupant,8-16,12,3.519062

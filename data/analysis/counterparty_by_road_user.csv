@@ -1,0 +1,997 @@
+year,road_user,counterparty,hospitalisations,within_road_user_pct
+2011,Bus occupant,"Car, pick-up truck or van",28,13.084112
+2011,Bus occupant,Fixed or stationary object,11,5.140187
+2011,Bus occupant,Heavy transport vehicle or bus,12,5.607477
+2011,Bus occupant,Non-collision transport accident,139,64.953271
+2011,Bus occupant,Other and unspecified transport accidents,20,9.345794
+2011,Bus occupant,Pedestrian or animal,4,1.869159
+2011,Car driver,2- or 3- wheeled motor vehicle,20,0.182682
+2011,Car driver,"Car, pick-up truck or van",5768,52.685422
+2011,Car driver,Fixed or stationary object,2774,25.337961
+2011,Car driver,Heavy transport vehicle or bus,523,4.777128
+2011,Car driver,Non-collision transport accident,1619,14.788089
+2011,Car driver,Other and unspecified transport accidents,132,1.2057
+2011,Car driver,Other non-motor vehicle,13,0.118743
+2011,Car driver,Pedal cycle,3,0.027402
+2011,Car driver,Pedestrian or animal,85,0.776398
+2011,Car driver,Train,11,0.100475
+2011,Car passenger,2- or 3- wheeled motor vehicle,10,0.206058
+2011,Car passenger,"Car, pick-up truck or van",2480,51.102411
+2011,Car passenger,Fixed or stationary object,1058,21.800948
+2011,Car passenger,Heavy transport vehicle or bus,175,3.606017
+2011,Car passenger,Non-collision transport accident,974,20.07006
+2011,Car passenger,Other and unspecified transport accidents,95,1.957552
+2011,Car passenger,Other non-motor vehicle,8,0.164846
+2011,Car passenger,Pedestrian or animal,41,0.844838
+2011,Car passenger,Train,12,0.24727
+2011,Car unknown position,"Car, pick-up truck or van",126,14.173228
+2011,Car unknown position,Fixed or stationary object,42,4.724409
+2011,Car unknown position,Heavy transport vehicle or bus,10,1.124859
+2011,Car unknown position,Non-collision transport accident,95,10.686164
+2011,Car unknown position,Other and unspecified transport accidents,607,68.278965
+2011,Car unknown position,Other non-motor vehicle,1,0.112486
+2011,Car unknown position,Pedestrian or animal,8,0.899888
+2011,Heavy transport driver,"Car, pick-up truck or van",43,9.450549
+2011,Heavy transport driver,Fixed or stationary object,61,13.406593
+2011,Heavy transport driver,Heavy transport vehicle or bus,63,13.846154
+2011,Heavy transport driver,Non-collision transport accident,273,60.0
+2011,Heavy transport driver,Other and unspecified transport accidents,7,1.538462
+2011,Heavy transport driver,Pedestrian or animal,3,0.659341
+2011,Heavy transport driver,Train,5,1.098901
+2011,Heavy transport passenger,"Car, pick-up truck or van",5,9.615385
+2011,Heavy transport passenger,Fixed or stationary object,5,9.615385
+2011,Heavy transport passenger,Heavy transport vehicle or bus,7,13.461538
+2011,Heavy transport passenger,Non-collision transport accident,32,61.538462
+2011,Heavy transport passenger,Other and unspecified transport accidents,1,1.923077
+2011,Heavy transport passenger,Pedestrian or animal,1,1.923077
+2011,Heavy transport passenger,Train,1,1.923077
+2011,Heavy transport unknown position,"Car, pick-up truck or van",2,3.636364
+2011,Heavy transport unknown position,Heavy transport vehicle or bus,2,3.636364
+2011,Heavy transport unknown position,Non-collision transport accident,18,32.727273
+2011,Heavy transport unknown position,Other and unspecified transport accidents,30,54.545455
+2011,Heavy transport unknown position,Pedestrian or animal,3,5.454545
+2011,Motorcyclist,2- or 3- wheeled motor vehicle,135,1.784534
+2011,Motorcyclist,"Car, pick-up truck or van",1810,23.925975
+2011,Motorcyclist,Fixed or stationary object,653,8.631857
+2011,Motorcyclist,Heavy transport vehicle or bus,88,1.163252
+2011,Motorcyclist,Non-collision transport accident,3044,40.237938
+2011,Motorcyclist,Other and unspecified transport accidents,1677,22.167878
+2011,Motorcyclist,Other non-motor vehicle,9,0.118969
+2011,Motorcyclist,Pedal cycle,8,0.10575
+2011,Motorcyclist,Pedestrian or animal,140,1.850628
+2011,Motorcyclist,Train,1,0.013219
+2011,Other or unknown,2- or 3- wheeled motor vehicle,1,0.163934
+2011,Other or unknown,"Car, pick-up truck or van",9,1.47541
+2011,Other or unknown,Fixed or stationary object,1,0.163934
+2011,Other or unknown,Non-collision transport accident,9,1.47541
+2011,Other or unknown,Other and unspecified transport accidents,588,96.393443
+2011,Other or unknown,Other non-motor vehicle,1,0.163934
+2011,Other or unknown,Pedestrian or animal,1,0.163934
+2011,Pedal cyclist,2- or 3- wheeled motor vehicle,16,0.296791
+2011,Pedal cyclist,"Car, pick-up truck or van",1239,22.982749
+2011,Pedal cyclist,Fixed or stationary object,274,5.082545
+2011,Pedal cyclist,Heavy transport vehicle or bus,53,0.98312
+2011,Pedal cyclist,Non-collision transport accident,2353,43.646819
+2011,Pedal cyclist,Other and unspecified transport accidents,1175,21.795585
+2011,Pedal cyclist,Other non-motor vehicle,3,0.055648
+2011,Pedal cyclist,Pedal cycle,235,4.359117
+2011,Pedal cyclist,Pedestrian or animal,41,0.760527
+2011,Pedal cyclist,Train,2,0.037099
+2011,Pedestrian,2- or 3- wheeled motor vehicle,64,2.323893
+2011,Pedestrian,"Car, pick-up truck or van",2437,88.48947
+2011,Pedestrian,Heavy transport vehicle or bus,112,4.066812
+2011,Pedestrian,Other and unspecified transport accidents,71,2.578068
+2011,Pedestrian,Other non-motor vehicle,11,0.399419
+2011,Pedestrian,Pedal cycle,34,1.234568
+2011,Pedestrian,Pedestrian or animal,13,0.472041
+2011,Pedestrian,Train,12,0.43573
+2011,Pick-up truck or van occupant,"Car, pick-up truck or van",67,27.125506
+2011,Pick-up truck or van occupant,Fixed or stationary object,54,21.862348
+2011,Pick-up truck or van occupant,Heavy transport vehicle or bus,24,9.716599
+2011,Pick-up truck or van occupant,Non-collision transport accident,87,35.222672
+2011,Pick-up truck or van occupant,Other and unspecified transport accidents,13,5.263158
+2011,Pick-up truck or van occupant,Pedestrian or animal,2,0.809717
+2012,Bus occupant,"Car, pick-up truck or van",31,14.285714
+2012,Bus occupant,Fixed or stationary object,13,5.990783
+2012,Bus occupant,Heavy transport vehicle or bus,16,7.373272
+2012,Bus occupant,Non-collision transport accident,124,57.142857
+2012,Bus occupant,Other and unspecified transport accidents,28,12.903226
+2012,Bus occupant,Pedestrian or animal,5,2.304147
+2012,Car driver,2- or 3- wheeled motor vehicle,21,0.194336
+2012,Car driver,"Car, pick-up truck or van",5607,51.88784
+2012,Car driver,Fixed or stationary object,2754,25.485841
+2012,Car driver,Heavy transport vehicle or bus,461,4.266148
+2012,Car driver,Non-collision transport accident,1709,15.815288
+2012,Car driver,Other and unspecified transport accidents,140,1.295577
+2012,Car driver,Other non-motor vehicle,13,0.120304
+2012,Car driver,Pedal cycle,9,0.083287
+2012,Car driver,Pedestrian or animal,79,0.731075
+2012,Car driver,Train,13,0.120304
+2012,Car passenger,2- or 3- wheeled motor vehicle,4,0.084424
+2012,Car passenger,"Car, pick-up truck or van",2341,49.409033
+2012,Car passenger,Fixed or stationary object,1017,21.464753
+2012,Car passenger,Heavy transport vehicle or bus,163,3.44027
+2012,Car passenger,Non-collision transport accident,1072,22.62558
+2012,Car passenger,Other and unspecified transport accidents,76,1.604052
+2012,Car passenger,Other non-motor vehicle,4,0.084424
+2012,Car passenger,Pedal cycle,3,0.063318
+2012,Car passenger,Pedestrian or animal,58,1.224145
+2012,Car unknown position,"Car, pick-up truck or van",143,15.977654
+2012,Car unknown position,Fixed or stationary object,40,4.469274
+2012,Car unknown position,Heavy transport vehicle or bus,8,0.893855
+2012,Car unknown position,Non-collision transport accident,101,11.284916
+2012,Car unknown position,Other and unspecified transport accidents,599,66.927374
+2012,Car unknown position,Other non-motor vehicle,1,0.111732
+2012,Car unknown position,Pedestrian or animal,3,0.335196
+2012,Heavy transport driver,2- or 3- wheeled motor vehicle,2,0.480769
+2012,Heavy transport driver,"Car, pick-up truck or van",59,14.182692
+2012,Heavy transport driver,Fixed or stationary object,53,12.740385
+2012,Heavy transport driver,Heavy transport vehicle or bus,65,15.625
+2012,Heavy transport driver,Non-collision transport accident,231,55.528846
+2012,Heavy transport driver,Other and unspecified transport accidents,4,0.961538
+2012,Heavy transport driver,Pedestrian or animal,2,0.480769
+2012,Heavy transport passenger,"Car, pick-up truck or van",5,10.638298
+2012,Heavy transport passenger,Fixed or stationary object,7,14.893617
+2012,Heavy transport passenger,Heavy transport vehicle or bus,7,14.893617
+2012,Heavy transport passenger,Non-collision transport accident,27,57.446809
+2012,Heavy transport passenger,Other and unspecified transport accidents,1,2.12766
+2012,Heavy transport unknown position,Fixed or stationary object,2,4.166667
+2012,Heavy transport unknown position,Heavy transport vehicle or bus,1,2.083333
+2012,Heavy transport unknown position,Non-collision transport accident,16,33.333333
+2012,Heavy transport unknown position,Other and unspecified transport accidents,26,54.166667
+2012,Heavy transport unknown position,Pedestrian or animal,3,6.25
+2012,Motorcyclist,2- or 3- wheeled motor vehicle,136,1.759834
+2012,Motorcyclist,"Car, pick-up truck or van",1889,24.443582
+2012,Motorcyclist,Fixed or stationary object,656,8.488613
+2012,Motorcyclist,Heavy transport vehicle or bus,79,1.022257
+2012,Motorcyclist,Non-collision transport accident,3026,39.156315
+2012,Motorcyclist,Other and unspecified transport accidents,1762,22.800207
+2012,Motorcyclist,Other non-motor vehicle,6,0.07764
+2012,Motorcyclist,Pedal cycle,3,0.03882
+2012,Motorcyclist,Pedestrian or animal,170,2.199793
+2012,Motorcyclist,Train,1,0.01294
+2012,Other or unknown,2- or 3- wheeled motor vehicle,1,0.17762
+2012,Other or unknown,"Car, pick-up truck or van",11,1.953819
+2012,Other or unknown,Fixed or stationary object,0,0.0
+2012,Other or unknown,Non-collision transport accident,3,0.53286
+2012,Other or unknown,Other and unspecified transport accidents,543,96.447602
+2012,Other or unknown,Other non-motor vehicle,2,0.35524
+2012,Other or unknown,Pedestrian or animal,3,0.53286
+2012,Pedal cyclist,2- or 3- wheeled motor vehicle,8,0.142323
+2012,Pedal cyclist,"Car, pick-up truck or van",1292,22.985234
+2012,Pedal cyclist,Fixed or stationary object,292,5.194805
+2012,Pedal cyclist,Heavy transport vehicle or bus,70,1.24533
+2012,Pedal cyclist,Non-collision transport accident,2419,43.035047
+2012,Pedal cyclist,Other and unspecified transport accidents,1237,22.00676
+2012,Pedal cyclist,Other non-motor vehicle,4,0.071162
+2012,Pedal cyclist,Pedal cycle,258,4.589931
+2012,Pedal cyclist,Pedestrian or animal,41,0.729408
+2012,Pedestrian,2- or 3- wheeled motor vehicle,45,1.684132
+2012,Pedestrian,"Car, pick-up truck or van",2341,87.612275
+2012,Pedestrian,Heavy transport vehicle or bus,121,4.528443
+2012,Pedestrian,Other and unspecified transport accidents,79,2.956587
+2012,Pedestrian,Other non-motor vehicle,12,0.449102
+2012,Pedestrian,Pedal cycle,48,1.796407
+2012,Pedestrian,Pedestrian or animal,13,0.486527
+2012,Pedestrian,Train,13,0.486527
+2012,Pick-up truck or van occupant,"Car, pick-up truck or van",67,24.542125
+2012,Pick-up truck or van occupant,Fixed or stationary object,65,23.809524
+2012,Pick-up truck or van occupant,Heavy transport vehicle or bus,30,10.989011
+2012,Pick-up truck or van occupant,Non-collision transport accident,87,31.868132
+2012,Pick-up truck or van occupant,Other and unspecified transport accidents,20,7.326007
+2012,Pick-up truck or van occupant,Other non-motor vehicle,1,0.3663
+2012,Pick-up truck or van occupant,Pedestrian or animal,3,1.098901
+2012,Pick-up truck or van occupant,Train,0,0.0
+2013,Bus occupant,"Car, pick-up truck or van",35,15.486726
+2013,Bus occupant,Fixed or stationary object,14,6.19469
+2013,Bus occupant,Heavy transport vehicle or bus,7,3.097345
+2013,Bus occupant,Non-collision transport accident,139,61.504425
+2013,Bus occupant,Other and unspecified transport accidents,25,11.061947
+2013,Bus occupant,Pedestrian or animal,6,2.654867
+2013,Car driver,2- or 3- wheeled motor vehicle,25,0.228477
+2013,Car driver,"Car, pick-up truck or van",5580,50.996162
+2013,Car driver,Fixed or stationary object,2762,25.242186
+2013,Car driver,Heavy transport vehicle or bus,548,5.008225
+2013,Car driver,Non-collision transport accident,1746,15.956863
+2013,Car driver,Other and unspecified transport accidents,151,1.380004
+2013,Car driver,Other non-motor vehicle,16,0.146226
+2013,Car driver,Pedal cycle,7,0.063974
+2013,Car driver,Pedestrian or animal,99,0.904771
+2013,Car driver,Train,8,0.073113
+2013,Car passenger,2- or 3- wheeled motor vehicle,7,0.144988
+2013,Car passenger,"Car, pick-up truck or van",2436,50.455675
+2013,Car passenger,Fixed or stationary object,1016,21.043911
+2013,Car passenger,Heavy transport vehicle or bus,167,3.458989
+2013,Car passenger,Non-collision transport accident,1046,21.665286
+2013,Car passenger,Other and unspecified transport accidents,91,1.884838
+2013,Car passenger,Other non-motor vehicle,2,0.041425
+2013,Car passenger,Pedal cycle,2,0.041425
+2013,Car passenger,Pedestrian or animal,58,1.201326
+2013,Car passenger,Train,3,0.062138
+2013,Car unknown position,2- or 3- wheeled motor vehicle,1,0.122249
+2013,Car unknown position,"Car, pick-up truck or van",109,13.325183
+2013,Car unknown position,Fixed or stationary object,27,3.300733
+2013,Car unknown position,Heavy transport vehicle or bus,5,0.611247
+2013,Car unknown position,Non-collision transport accident,78,9.535452
+2013,Car unknown position,Other and unspecified transport accidents,589,72.00489
+2013,Car unknown position,Other non-motor vehicle,1,0.122249
+2013,Car unknown position,Pedal cycle,2,0.244499
+2013,Car unknown position,Pedestrian or animal,5,0.611247
+2013,Car unknown position,Train,1,0.122249
+2013,Heavy transport driver,"Car, pick-up truck or van",47,11.325301
+2013,Heavy transport driver,Fixed or stationary object,67,16.144578
+2013,Heavy transport driver,Heavy transport vehicle or bus,71,17.108434
+2013,Heavy transport driver,Non-collision transport accident,223,53.73494
+2013,Heavy transport driver,Other and unspecified transport accidents,3,0.722892
+2013,Heavy transport driver,Pedestrian or animal,4,0.963855
+2013,Heavy transport passenger,"Car, pick-up truck or van",8,20.0
+2013,Heavy transport passenger,Fixed or stationary object,6,15.0
+2013,Heavy transport passenger,Heavy transport vehicle or bus,7,17.5
+2013,Heavy transport passenger,Non-collision transport accident,18,45.0
+2013,Heavy transport passenger,Other and unspecified transport accidents,1,2.5
+2013,Heavy transport unknown position,Heavy transport vehicle or bus,1,3.448276
+2013,Heavy transport unknown position,Non-collision transport accident,15,51.724138
+2013,Heavy transport unknown position,Other and unspecified transport accidents,13,44.827586
+2013,Motorcyclist,2- or 3- wheeled motor vehicle,134,1.67124
+2013,Motorcyclist,"Car, pick-up truck or van",1997,24.90646
+2013,Motorcyclist,Fixed or stationary object,749,9.341482
+2013,Motorcyclist,Heavy transport vehicle or bus,84,1.047643
+2013,Motorcyclist,Non-collision transport accident,3279,40.895485
+2013,Motorcyclist,Other and unspecified transport accidents,1579,19.69319
+2013,Motorcyclist,Other non-motor vehicle,12,0.149663
+2013,Motorcyclist,Pedal cycle,6,0.074832
+2013,Motorcyclist,Pedestrian or animal,178,2.220005
+2013,Other or unknown,"Car, pick-up truck or van",9,1.679104
+2013,Other or unknown,Non-collision transport accident,9,1.679104
+2013,Other or unknown,Other and unspecified transport accidents,514,95.895522
+2013,Other or unknown,Other non-motor vehicle,4,0.746269
+2013,Pedal cyclist,2- or 3- wheeled motor vehicle,14,0.223571
+2013,Pedal cyclist,"Car, pick-up truck or van",1387,22.149473
+2013,Pedal cyclist,Fixed or stationary object,294,4.694986
+2013,Pedal cyclist,Heavy transport vehicle or bus,64,1.022038
+2013,Pedal cyclist,Non-collision transport accident,2786,44.490578
+2013,Pedal cyclist,Other and unspecified transport accidents,1288,20.568508
+2013,Pedal cyclist,Other non-motor vehicle,6,0.095816
+2013,Pedal cyclist,Pedal cycle,357,5.701054
+2013,Pedal cyclist,Pedestrian or animal,64,1.022038
+2013,Pedal cyclist,Train,2,0.031939
+2013,Pedestrian,2- or 3- wheeled motor vehicle,52,1.957094
+2013,Pedestrian,"Car, pick-up truck or van",2318,87.24125
+2013,Pedestrian,Heavy transport vehicle or bus,132,4.968009
+2013,Pedestrian,Other and unspecified transport accidents,64,2.408732
+2013,Pedestrian,Other non-motor vehicle,8,0.301091
+2013,Pedestrian,Pedal cycle,57,2.145277
+2013,Pedestrian,Pedestrian or animal,16,0.602183
+2013,Pedestrian,Train,10,0.376364
+2013,Pick-up truck or van occupant,"Car, pick-up truck or van",73,31.73913
+2013,Pick-up truck or van occupant,Fixed or stationary object,43,18.695652
+2013,Pick-up truck or van occupant,Heavy transport vehicle or bus,18,7.826087
+2013,Pick-up truck or van occupant,Non-collision transport accident,78,33.913043
+2013,Pick-up truck or van occupant,Other and unspecified transport accidents,12,5.217391
+2013,Pick-up truck or van occupant,Other non-motor vehicle,1,0.434783
+2013,Pick-up truck or van occupant,Pedestrian or animal,4,1.73913
+2013,Pick-up truck or van occupant,Train,1,0.434783
+2014,Bus occupant,"Car, pick-up truck or van",54,18.685121
+2014,Bus occupant,Fixed or stationary object,20,6.920415
+2014,Bus occupant,Heavy transport vehicle or bus,18,6.228374
+2014,Bus occupant,Non-collision transport accident,167,57.785467
+2014,Bus occupant,Other and unspecified transport accidents,30,10.380623
+2014,Car driver,2- or 3- wheeled motor vehicle,28,0.251753
+2014,Car driver,"Car, pick-up truck or van",5880,52.868189
+2014,Car driver,Fixed or stationary object,2832,25.463046
+2014,Car driver,Heavy transport vehicle or bus,513,4.61248
+2014,Car driver,Non-collision transport accident,1605,14.430858
+2014,Car driver,Other and unspecified transport accidents,143,1.28574
+2014,Car driver,Other non-motor vehicle,21,0.188815
+2014,Car driver,Pedal cycle,6,0.053947
+2014,Car driver,Pedestrian or animal,83,0.746269
+2014,Car driver,Train,11,0.098903
+2014,Car passenger,2- or 3- wheeled motor vehicle,6,0.12973
+2014,Car passenger,"Car, pick-up truck or van",2352,50.854054
+2014,Car passenger,Fixed or stationary object,954,20.627027
+2014,Car passenger,Heavy transport vehicle or bus,181,3.913514
+2014,Car passenger,Non-collision transport accident,991,21.427027
+2014,Car passenger,Other and unspecified transport accidents,94,2.032432
+2014,Car passenger,Other non-motor vehicle,3,0.064865
+2014,Car passenger,Pedal cycle,4,0.086486
+2014,Car passenger,Pedestrian or animal,38,0.821622
+2014,Car passenger,Train,2,0.043243
+2014,Car unknown position,"Car, pick-up truck or van",127,17.445055
+2014,Car unknown position,Fixed or stationary object,33,4.532967
+2014,Car unknown position,Heavy transport vehicle or bus,6,0.824176
+2014,Car unknown position,Non-collision transport accident,61,8.379121
+2014,Car unknown position,Other and unspecified transport accidents,501,68.818681
+2014,Heavy transport driver,2- or 3- wheeled motor vehicle,1,0.265252
+2014,Heavy transport driver,"Car, pick-up truck or van",59,15.649867
+2014,Heavy transport driver,Fixed or stationary object,52,13.793103
+2014,Heavy transport driver,Heavy transport vehicle or bus,50,13.262599
+2014,Heavy transport driver,Non-collision transport accident,206,54.64191
+2014,Heavy transport driver,Other and unspecified transport accidents,4,1.061008
+2014,Heavy transport driver,Other non-motor vehicle,2,0.530504
+2014,Heavy transport driver,Pedal cycle,1,0.265252
+2014,Heavy transport driver,Pedestrian or animal,1,0.265252
+2014,Heavy transport driver,Train,1,0.265252
+2014,Heavy transport passenger,2- or 3- wheeled motor vehicle,1,1.818182
+2014,Heavy transport passenger,"Car, pick-up truck or van",7,12.727273
+2014,Heavy transport passenger,Fixed or stationary object,9,16.363636
+2014,Heavy transport passenger,Heavy transport vehicle or bus,9,16.363636
+2014,Heavy transport passenger,Non-collision transport accident,29,52.727273
+2014,Heavy transport unknown position,"Car, pick-up truck or van",3,6.25
+2014,Heavy transport unknown position,Fixed or stationary object,3,6.25
+2014,Heavy transport unknown position,Heavy transport vehicle or bus,4,8.333333
+2014,Heavy transport unknown position,Non-collision transport accident,19,39.583333
+2014,Heavy transport unknown position,Other and unspecified transport accidents,17,35.416667
+2014,Heavy transport unknown position,Pedal cycle,1,2.083333
+2014,Heavy transport unknown position,Pedestrian or animal,1,2.083333
+2014,Motorcyclist,2- or 3- wheeled motor vehicle,132,1.583873
+2014,Motorcyclist,"Car, pick-up truck or van",2076,24.910007
+2014,Motorcyclist,Fixed or stationary object,755,9.059275
+2014,Motorcyclist,Heavy transport vehicle or bus,80,0.959923
+2014,Motorcyclist,Non-collision transport accident,3448,41.37269
+2014,Motorcyclist,Other and unspecified transport accidents,1606,19.270458
+2014,Motorcyclist,Other non-motor vehicle,12,0.143988
+2014,Motorcyclist,Pedal cycle,10,0.11999
+2014,Motorcyclist,Pedestrian or animal,215,2.579794
+2014,Other or unknown,2- or 3- wheeled motor vehicle,0,0.0
+2014,Other or unknown,"Car, pick-up truck or van",9,1.771654
+2014,Other or unknown,Fixed or stationary object,3,0.590551
+2014,Other or unknown,Heavy transport vehicle or bus,2,0.393701
+2014,Other or unknown,Non-collision transport accident,11,2.165354
+2014,Other or unknown,Other and unspecified transport accidents,481,94.685039
+2014,Other or unknown,Other non-motor vehicle,1,0.19685
+2014,Other or unknown,Pedestrian or animal,1,0.19685
+2014,Pedal cyclist,2- or 3- wheeled motor vehicle,14,0.21097
+2014,Pedal cyclist,"Car, pick-up truck or van",1413,21.292948
+2014,Pedal cyclist,Fixed or stationary object,361,5.440024
+2014,Pedal cyclist,Heavy transport vehicle or bus,65,0.979506
+2014,Pedal cyclist,Non-collision transport accident,3008,45.328511
+2014,Pedal cyclist,Other and unspecified transport accidents,1395,21.0217
+2014,Pedal cyclist,Other non-motor vehicle,12,0.180832
+2014,Pedal cyclist,Pedal cycle,294,4.43038
+2014,Pedal cyclist,Pedestrian or animal,74,1.11513
+2014,Pedestrian,2- or 3- wheeled motor vehicle,62,2.427565
+2014,Pedestrian,"Car, pick-up truck or van",2205,86.335161
+2014,Pedestrian,Heavy transport vehicle or bus,132,5.168363
+2014,Pedestrian,Other and unspecified transport accidents,77,3.014879
+2014,Pedestrian,Other non-motor vehicle,9,0.352388
+2014,Pedestrian,Pedal cycle,50,1.957713
+2014,Pedestrian,Pedestrian or animal,9,0.352388
+2014,Pedestrian,Train,10,0.391543
+2014,Pick-up truck or van occupant,"Car, pick-up truck or van",73,30.543933
+2014,Pick-up truck or van occupant,Fixed or stationary object,40,16.736402
+2014,Pick-up truck or van occupant,Heavy transport vehicle or bus,17,7.112971
+2014,Pick-up truck or van occupant,Non-collision transport accident,94,39.330544
+2014,Pick-up truck or van occupant,Other and unspecified transport accidents,13,5.439331
+2014,Pick-up truck or van occupant,Pedestrian or animal,2,0.83682
+2015,Bus occupant,"Car, pick-up truck or van",34,13.821138
+2015,Bus occupant,Fixed or stationary object,16,6.504065
+2015,Bus occupant,Heavy transport vehicle or bus,11,4.471545
+2015,Bus occupant,Non-collision transport accident,151,61.382114
+2015,Bus occupant,Other and unspecified transport accidents,23,9.349593
+2015,Bus occupant,Pedestrian or animal,1,0.406504
+2015,Bus occupant,Train,10,4.065041
+2015,Car driver,2- or 3- wheeled motor vehicle,21,0.172655
+2015,Car driver,"Car, pick-up truck or van",6530,53.687413
+2015,Car driver,Fixed or stationary object,2996,24.632081
+2015,Car driver,Heavy transport vehicle or bus,547,4.497246
+2015,Car driver,Non-collision transport accident,1822,14.979857
+2015,Car driver,Other and unspecified transport accidents,140,1.151032
+2015,Car driver,Other non-motor vehicle,10,0.082217
+2015,Car driver,Pedal cycle,4,0.032887
+2015,Car driver,Pedestrian or animal,86,0.707062
+2015,Car driver,Train,7,0.057552
+2015,Car passenger,2- or 3- wheeled motor vehicle,6,0.121017
+2015,Car passenger,"Car, pick-up truck or van",2560,51.633723
+2015,Car passenger,Fixed or stationary object,1034,20.855184
+2015,Car passenger,Heavy transport vehicle or bus,197,3.973376
+2015,Car passenger,Non-collision transport accident,1030,20.774506
+2015,Car passenger,Other and unspecified transport accidents,80,1.613554
+2015,Car passenger,Other non-motor vehicle,3,0.060508
+2015,Car passenger,Pedestrian or animal,42,0.847116
+2015,Car passenger,Train,6,0.121017
+2015,Car unknown position,"Car, pick-up truck or van",115,14.162562
+2015,Car unknown position,Fixed or stationary object,49,6.034483
+2015,Car unknown position,Heavy transport vehicle or bus,8,0.985222
+2015,Car unknown position,Non-collision transport accident,60,7.389163
+2015,Car unknown position,Other and unspecified transport accidents,570,70.197044
+2015,Car unknown position,Pedal cycle,1,0.123153
+2015,Car unknown position,Pedestrian or animal,9,1.108374
+2015,Car unknown position,Train,0,0.0
+2015,Heavy transport driver,2- or 3- wheeled motor vehicle,1,0.225225
+2015,Heavy transport driver,"Car, pick-up truck or van",67,15.09009
+2015,Heavy transport driver,Fixed or stationary object,62,13.963964
+2015,Heavy transport driver,Heavy transport vehicle or bus,57,12.837838
+2015,Heavy transport driver,Non-collision transport accident,253,56.981982
+2015,Heavy transport driver,Other and unspecified transport accidents,0,0.0
+2015,Heavy transport driver,Other non-motor vehicle,1,0.225225
+2015,Heavy transport driver,Pedestrian or animal,2,0.45045
+2015,Heavy transport driver,Train,1,0.225225
+2015,Heavy transport passenger,"Car, pick-up truck or van",11,25.581395
+2015,Heavy transport passenger,Fixed or stationary object,4,9.302326
+2015,Heavy transport passenger,Heavy transport vehicle or bus,6,13.953488
+2015,Heavy transport passenger,Non-collision transport accident,22,51.162791
+2015,Heavy transport unknown position,"Car, pick-up truck or van",0,0.0
+2015,Heavy transport unknown position,Fixed or stationary object,0,0.0
+2015,Heavy transport unknown position,Heavy transport vehicle or bus,1,4.347826
+2015,Heavy transport unknown position,Non-collision transport accident,10,43.478261
+2015,Heavy transport unknown position,Other and unspecified transport accidents,12,52.173913
+2015,Motorcyclist,2- or 3- wheeled motor vehicle,175,2.108942
+2015,Motorcyclist,"Car, pick-up truck or van",2131,25.680887
+2015,Motorcyclist,Fixed or stationary object,751,9.050374
+2015,Motorcyclist,Heavy transport vehicle or bus,88,1.060497
+2015,Motorcyclist,Non-collision transport accident,3412,41.118342
+2015,Motorcyclist,Other and unspecified transport accidents,1535,18.498433
+2015,Motorcyclist,Other non-motor vehicle,10,0.120511
+2015,Motorcyclist,Pedal cycle,7,0.084358
+2015,Motorcyclist,Pedestrian or animal,188,2.265606
+2015,Motorcyclist,Train,1,0.012051
+2015,Other or unknown,"Car, pick-up truck or van",7,1.39165
+2015,Other or unknown,Non-collision transport accident,6,1.192843
+2015,Other or unknown,Other and unspecified transport accidents,486,96.620278
+2015,Other or unknown,Other non-motor vehicle,3,0.596421
+2015,Other or unknown,Train,1,0.198807
+2015,Pedal cyclist,2- or 3- wheeled motor vehicle,15,0.223347
+2015,Pedal cyclist,"Car, pick-up truck or van",1455,21.664681
+2015,Pedal cyclist,Fixed or stationary object,350,5.211435
+2015,Pedal cyclist,Heavy transport vehicle or bus,47,0.699821
+2015,Pedal cyclist,Non-collision transport accident,3004,44.729005
+2015,Pedal cyclist,Other and unspecified transport accidents,1415,21.069089
+2015,Pedal cyclist,Other non-motor vehicle,6,0.089339
+2015,Pedal cyclist,Pedal cycle,354,5.270995
+2015,Pedal cyclist,Pedestrian or animal,70,1.042287
+2015,Pedestrian,2- or 3- wheeled motor vehicle,49,1.865246
+2015,Pedestrian,"Car, pick-up truck or van",2330,88.694328
+2015,Pedestrian,Heavy transport vehicle or bus,94,3.578226
+2015,Pedestrian,Other and unspecified transport accidents,77,2.9311
+2015,Pedestrian,Other non-motor vehicle,12,0.456795
+2015,Pedestrian,Pedal cycle,52,1.979444
+2015,Pedestrian,Pedestrian or animal,7,0.266464
+2015,Pedestrian,Train,6,0.228397
+2015,Pick-up truck or van occupant,"Car, pick-up truck or van",78,31.325301
+2015,Pick-up truck or van occupant,Fixed or stationary object,42,16.86747
+2015,Pick-up truck or van occupant,Heavy transport vehicle or bus,18,7.228916
+2015,Pick-up truck or van occupant,Non-collision transport accident,100,40.160643
+2015,Pick-up truck or van occupant,Other and unspecified transport accidents,9,3.614458
+2015,Pick-up truck or van occupant,Other non-motor vehicle,1,0.401606
+2015,Pick-up truck or van occupant,Pedestrian or animal,1,0.401606
+2016,Bus occupant,2- or 3- wheeled motor vehicle,1,0.353357
+2016,Bus occupant,"Car, pick-up truck or van",37,13.074205
+2016,Bus occupant,Fixed or stationary object,23,8.127208
+2016,Bus occupant,Heavy transport vehicle or bus,12,4.240283
+2016,Bus occupant,Non-collision transport accident,189,66.784452
+2016,Bus occupant,Other and unspecified transport accidents,20,7.067138
+2016,Bus occupant,Pedestrian or animal,1,0.353357
+2016,Car driver,2- or 3- wheeled motor vehicle,32,0.242534
+2016,Car driver,"Car, pick-up truck or van",7366,55.828407
+2016,Car driver,Fixed or stationary object,3227,24.458087
+2016,Car driver,Heavy transport vehicle or bus,541,4.100349
+2016,Car driver,Non-collision transport accident,1750,13.263605
+2016,Car driver,Other and unspecified transport accidents,152,1.152039
+2016,Car driver,Other non-motor vehicle,19,0.144005
+2016,Car driver,Pedal cycle,4,0.030317
+2016,Car driver,Pedestrian or animal,91,0.689707
+2016,Car driver,Train,12,0.09095
+2016,Car passenger,2- or 3- wheeled motor vehicle,9,0.176367
+2016,Car passenger,"Car, pick-up truck or van",2667,52.263374
+2016,Car passenger,Fixed or stationary object,1021,20.007839
+2016,Car passenger,Heavy transport vehicle or bus,215,4.213208
+2016,Car passenger,Non-collision transport accident,1039,20.360572
+2016,Car passenger,Other and unspecified transport accidents,86,1.685283
+2016,Car passenger,Other non-motor vehicle,7,0.137174
+2016,Car passenger,Pedestrian or animal,55,1.077797
+2016,Car passenger,Train,4,0.078385
+2016,Car unknown position,2- or 3- wheeled motor vehicle,1,0.123762
+2016,Car unknown position,"Car, pick-up truck or van",117,14.480198
+2016,Car unknown position,Fixed or stationary object,35,4.331683
+2016,Car unknown position,Heavy transport vehicle or bus,7,0.866337
+2016,Car unknown position,Non-collision transport accident,59,7.30198
+2016,Car unknown position,Other and unspecified transport accidents,587,72.648515
+2016,Car unknown position,Pedestrian or animal,2,0.247525
+2016,Heavy transport driver,"Car, pick-up truck or van",64,15.880893
+2016,Heavy transport driver,Fixed or stationary object,49,12.158809
+2016,Heavy transport driver,Heavy transport vehicle or bus,53,13.151365
+2016,Heavy transport driver,Non-collision transport accident,231,57.320099
+2016,Heavy transport driver,Other and unspecified transport accidents,2,0.496278
+2016,Heavy transport driver,Pedestrian or animal,3,0.744417
+2016,Heavy transport driver,Train,1,0.248139
+2016,Heavy transport passenger,"Car, pick-up truck or van",10,23.809524
+2016,Heavy transport passenger,Heavy transport vehicle or bus,7,16.666667
+2016,Heavy transport passenger,Non-collision transport accident,24,57.142857
+2016,Heavy transport passenger,Other and unspecified transport accidents,1,2.380952
+2016,Heavy transport unknown position,"Car, pick-up truck or van",0,0.0
+2016,Heavy transport unknown position,Heavy transport vehicle or bus,4,10.25641
+2016,Heavy transport unknown position,Non-collision transport accident,20,51.282051
+2016,Heavy transport unknown position,Other and unspecified transport accidents,15,38.461538
+2016,Motorcyclist,2- or 3- wheeled motor vehicle,170,1.993901
+2016,Motorcyclist,"Car, pick-up truck or van",2302,26.999765
+2016,Motorcyclist,Fixed or stationary object,785,9.207131
+2016,Motorcyclist,Heavy transport vehicle or bus,81,0.950035
+2016,Motorcyclist,Non-collision transport accident,3442,40.370631
+2016,Motorcyclist,Other and unspecified transport accidents,1557,18.261787
+2016,Motorcyclist,Other non-motor vehicle,7,0.082102
+2016,Motorcyclist,Pedal cycle,9,0.105559
+2016,Motorcyclist,Pedestrian or animal,169,1.982172
+2016,Motorcyclist,Train,4,0.046915
+2016,Other or unknown,"Car, pick-up truck or van",6,0.967742
+2016,Other or unknown,Fixed or stationary object,1,0.16129
+2016,Other or unknown,Non-collision transport accident,5,0.806452
+2016,Other or unknown,Other and unspecified transport accidents,603,97.258065
+2016,Other or unknown,Other non-motor vehicle,3,0.483871
+2016,Other or unknown,Pedestrian or animal,2,0.322581
+2016,Pedal cyclist,2- or 3- wheeled motor vehicle,13,0.188297
+2016,Pedal cyclist,"Car, pick-up truck or van",1482,21.465817
+2016,Pedal cyclist,Fixed or stationary object,415,6.011008
+2016,Pedal cyclist,Heavy transport vehicle or bus,76,1.100811
+2016,Pedal cyclist,Non-collision transport accident,3053,44.220742
+2016,Pedal cyclist,Other and unspecified transport accidents,1432,20.741599
+2016,Pedal cyclist,Other non-motor vehicle,13,0.188297
+2016,Pedal cyclist,Pedal cycle,335,4.85226
+2016,Pedal cyclist,Pedestrian or animal,83,1.202202
+2016,Pedal cyclist,Train,2,0.028969
+2016,Pedestrian,2- or 3- wheeled motor vehicle,61,2.223843
+2016,Pedestrian,"Car, pick-up truck or van",2407,87.750638
+2016,Pedestrian,Heavy transport vehicle or bus,119,4.338316
+2016,Pedestrian,Other and unspecified transport accidents,70,2.55195
+2016,Pedestrian,Other non-motor vehicle,7,0.255195
+2016,Pedestrian,Pedal cycle,53,1.932191
+2016,Pedestrian,Pedestrian or animal,12,0.437477
+2016,Pedestrian,Train,14,0.51039
+2016,Pick-up truck or van occupant,2- or 3- wheeled motor vehicle,1,0.33557
+2016,Pick-up truck or van occupant,"Car, pick-up truck or van",93,31.208054
+2016,Pick-up truck or van occupant,Fixed or stationary object,51,17.114094
+2016,Pick-up truck or van occupant,Heavy transport vehicle or bus,23,7.718121
+2016,Pick-up truck or van occupant,Non-collision transport accident,99,33.221477
+2016,Pick-up truck or van occupant,Other and unspecified transport accidents,28,9.395973
+2016,Pick-up truck or van occupant,Pedestrian or animal,2,0.671141
+2016,Pick-up truck or van occupant,Train,1,0.33557
+2017,Bus occupant,"Car, pick-up truck or van",49,18.490566
+2017,Bus occupant,Fixed or stationary object,8,3.018868
+2017,Bus occupant,Heavy transport vehicle or bus,12,4.528302
+2017,Bus occupant,Non-collision transport accident,182,68.679245
+2017,Bus occupant,Other and unspecified transport accidents,14,5.283019
+2017,Car driver,2- or 3- wheeled motor vehicle,21,0.158287
+2017,Car driver,"Car, pick-up truck or van",7473,56.32773
+2017,Car driver,Fixed or stationary object,3061,23.072285
+2017,Car driver,Heavy transport vehicle or bus,595,4.484812
+2017,Car driver,Non-collision transport accident,1826,13.763473
+2017,Car driver,Other and unspecified transport accidents,157,1.183387
+2017,Car driver,Other non-motor vehicle,25,0.188437
+2017,Car driver,Pedal cycle,5,0.037687
+2017,Car driver,Pedestrian or animal,96,0.7236
+2017,Car driver,Train,8,0.0603
+2017,Car passenger,2- or 3- wheeled motor vehicle,5,0.098001
+2017,Car passenger,"Car, pick-up truck or van",2766,54.214034
+2017,Car passenger,Fixed or stationary object,1005,19.698158
+2017,Car passenger,Heavy transport vehicle or bus,191,3.74363
+2017,Car passenger,Non-collision transport accident,998,19.560956
+2017,Car passenger,Other and unspecified transport accidents,76,1.489612
+2017,Car passenger,Other non-motor vehicle,13,0.254802
+2017,Car passenger,Pedal cycle,1,0.0196
+2017,Car passenger,Pedestrian or animal,47,0.921207
+2017,Car unknown position,"Car, pick-up truck or van",125,16.087516
+2017,Car unknown position,Fixed or stationary object,29,3.732304
+2017,Car unknown position,Heavy transport vehicle or bus,4,0.514801
+2017,Car unknown position,Non-collision transport accident,53,6.821107
+2017,Car unknown position,Other and unspecified transport accidents,562,72.329472
+2017,Car unknown position,Pedestrian or animal,3,0.3861
+2017,Car unknown position,Train,1,0.1287
+2017,Heavy transport driver,"Car, pick-up truck or van",75,16.778523
+2017,Heavy transport driver,Fixed or stationary object,72,16.107383
+2017,Heavy transport driver,Heavy transport vehicle or bus,76,17.002237
+2017,Heavy transport driver,Non-collision transport accident,218,48.769575
+2017,Heavy transport driver,Other and unspecified transport accidents,1,0.223714
+2017,Heavy transport driver,Other non-motor vehicle,1,0.223714
+2017,Heavy transport driver,Pedestrian or animal,4,0.894855
+2017,Heavy transport passenger,"Car, pick-up truck or van",7,14.285714
+2017,Heavy transport passenger,Fixed or stationary object,2,4.081633
+2017,Heavy transport passenger,Heavy transport vehicle or bus,8,16.326531
+2017,Heavy transport passenger,Non-collision transport accident,31,63.265306
+2017,Heavy transport passenger,Other non-motor vehicle,1,2.040816
+2017,Heavy transport unknown position,Non-collision transport accident,13,40.625
+2017,Heavy transport unknown position,Other and unspecified transport accidents,19,59.375
+2017,Motorcyclist,2- or 3- wheeled motor vehicle,169,1.93386
+2017,Motorcyclist,"Car, pick-up truck or van",2371,27.131251
+2017,Motorcyclist,Fixed or stationary object,814,9.314567
+2017,Motorcyclist,Heavy transport vehicle or bus,109,1.247282
+2017,Motorcyclist,Non-collision transport accident,3579,40.954343
+2017,Motorcyclist,Other and unspecified transport accidents,1454,16.638059
+2017,Motorcyclist,Other non-motor vehicle,10,0.11443
+2017,Motorcyclist,Pedal cycle,19,0.217416
+2017,Motorcyclist,Pedestrian or animal,214,2.448793
+2017,Motorcyclist,Train,0,0.0
+2017,Other or unknown,2- or 3- wheeled motor vehicle,1,0.166667
+2017,Other or unknown,"Car, pick-up truck or van",7,1.166667
+2017,Other or unknown,Non-collision transport accident,8,1.333333
+2017,Other or unknown,Other and unspecified transport accidents,580,96.666667
+2017,Other or unknown,Other non-motor vehicle,4,0.666667
+2017,Pedal cyclist,2- or 3- wheeled motor vehicle,14,0.197852
+2017,Pedal cyclist,"Car, pick-up truck or van",1603,22.654042
+2017,Pedal cyclist,Fixed or stationary object,419,5.921425
+2017,Pedal cyclist,Heavy transport vehicle or bus,62,0.876201
+2017,Pedal cyclist,Non-collision transport accident,3094,43.725269
+2017,Pedal cyclist,Other and unspecified transport accidents,1437,20.308084
+2017,Pedal cyclist,Other non-motor vehicle,8,0.113058
+2017,Pedal cyclist,Pedal cycle,354,5.002826
+2017,Pedal cyclist,Pedestrian or animal,84,1.187111
+2017,Pedal cyclist,Train,1,0.014132
+2017,Pedestrian,2- or 3- wheeled motor vehicle,45,1.658069
+2017,Pedestrian,"Car, pick-up truck or van",2391,88.098747
+2017,Pedestrian,Heavy transport vehicle or bus,105,3.868828
+2017,Pedestrian,Other and unspecified transport accidents,83,3.058217
+2017,Pedestrian,Other non-motor vehicle,11,0.405306
+2017,Pedestrian,Pedal cycle,53,1.952837
+2017,Pedestrian,Pedestrian or animal,14,0.515844
+2017,Pedestrian,Train,12,0.442152
+2017,Pick-up truck or van occupant,"Car, pick-up truck or van",99,36.531365
+2017,Pick-up truck or van occupant,Fixed or stationary object,41,15.129151
+2017,Pick-up truck or van occupant,Heavy transport vehicle or bus,21,7.749077
+2017,Pick-up truck or van occupant,Non-collision transport accident,87,32.103321
+2017,Pick-up truck or van occupant,Other and unspecified transport accidents,12,4.428044
+2017,Pick-up truck or van occupant,Other non-motor vehicle,2,0.738007
+2017,Pick-up truck or van occupant,Pedestrian or animal,7,2.583026
+2017,Pick-up truck or van occupant,Train,2,0.738007
+2018,Bus occupant,"Car, pick-up truck or van",44,17.813765
+2018,Bus occupant,Fixed or stationary object,12,4.8583
+2018,Bus occupant,Heavy transport vehicle or bus,13,5.263158
+2018,Bus occupant,Non-collision transport accident,151,61.133603
+2018,Bus occupant,Other and unspecified transport accidents,25,10.121457
+2018,Bus occupant,Pedestrian or animal,1,0.404858
+2018,Bus occupant,Train,1,0.404858
+2018,Car driver,2- or 3- wheeled motor vehicle,19,0.139757
+2018,Car driver,"Car, pick-up truck or van",7572,55.696947
+2018,Car driver,Fixed or stationary object,3134,23.052593
+2018,Car driver,Heavy transport vehicle or bus,572,4.207429
+2018,Car driver,Non-collision transport accident,1960,14.417065
+2018,Car driver,Other and unspecified transport accidents,162,1.191615
+2018,Car driver,Other non-motor vehicle,33,0.242736
+2018,Car driver,Pedal cycle,6,0.044134
+2018,Car driver,Pedestrian or animal,124,0.9121
+2018,Car driver,Train,13,0.095623
+2018,Car passenger,2- or 3- wheeled motor vehicle,4,0.076834
+2018,Car passenger,"Car, pick-up truck or van",2733,52.497119
+2018,Car passenger,Fixed or stationary object,1032,19.823281
+2018,Car passenger,Heavy transport vehicle or bus,178,3.419132
+2018,Car passenger,Non-collision transport accident,1125,21.609681
+2018,Car passenger,Other and unspecified transport accidents,59,1.133308
+2018,Car passenger,Other non-motor vehicle,15,0.288129
+2018,Car passenger,Pedal cycle,1,0.019209
+2018,Car passenger,Pedestrian or animal,49,0.941222
+2018,Car passenger,Train,10,0.192086
+2018,Car unknown position,2- or 3- wheeled motor vehicle,0,0.0
+2018,Car unknown position,"Car, pick-up truck or van",114,13.194444
+2018,Car unknown position,Fixed or stationary object,27,3.125
+2018,Car unknown position,Heavy transport vehicle or bus,14,1.62037
+2018,Car unknown position,Non-collision transport accident,67,7.75463
+2018,Car unknown position,Other and unspecified transport accidents,639,73.958333
+2018,Car unknown position,Other non-motor vehicle,1,0.115741
+2018,Car unknown position,Pedestrian or animal,2,0.231481
+2018,Car unknown position,Train,0,0.0
+2018,Heavy transport driver,"Car, pick-up truck or van",66,15.102975
+2018,Heavy transport driver,Fixed or stationary object,63,14.416476
+2018,Heavy transport driver,Heavy transport vehicle or bus,60,13.729977
+2018,Heavy transport driver,Non-collision transport accident,242,55.377574
+2018,Heavy transport driver,Other and unspecified transport accidents,2,0.457666
+2018,Heavy transport driver,Other non-motor vehicle,2,0.457666
+2018,Heavy transport driver,Pedestrian or animal,2,0.457666
+2018,Heavy transport passenger,"Car, pick-up truck or van",13,18.84058
+2018,Heavy transport passenger,Fixed or stationary object,11,15.942029
+2018,Heavy transport passenger,Heavy transport vehicle or bus,11,15.942029
+2018,Heavy transport passenger,Non-collision transport accident,33,47.826087
+2018,Heavy transport passenger,Pedestrian or animal,1,1.449275
+2018,Heavy transport unknown position,"Car, pick-up truck or van",1,2.12766
+2018,Heavy transport unknown position,Heavy transport vehicle or bus,1,2.12766
+2018,Heavy transport unknown position,Non-collision transport accident,21,44.680851
+2018,Heavy transport unknown position,Other and unspecified transport accidents,23,48.93617
+2018,Heavy transport unknown position,Other non-motor vehicle,1,2.12766
+2018,Motorcyclist,2- or 3- wheeled motor vehicle,142,1.646759
+2018,Motorcyclist,"Car, pick-up truck or van",2322,26.927983
+2018,Motorcyclist,Fixed or stationary object,821,9.521048
+2018,Motorcyclist,Heavy transport vehicle or bus,89,1.032123
+2018,Motorcyclist,Non-collision transport accident,3586,41.586455
+2018,Motorcyclist,Other and unspecified transport accidents,1411,16.363215
+2018,Motorcyclist,Other non-motor vehicle,8,0.092775
+2018,Motorcyclist,Pedal cycle,11,0.127566
+2018,Motorcyclist,Pedestrian or animal,231,2.678882
+2018,Motorcyclist,Train,2,0.023194
+2018,Other or unknown,2- or 3- wheeled motor vehicle,1,0.165837
+2018,Other or unknown,"Car, pick-up truck or van",1,0.165837
+2018,Other or unknown,Fixed or stationary object,4,0.66335
+2018,Other or unknown,Non-collision transport accident,13,2.155887
+2018,Other or unknown,Other and unspecified transport accidents,576,95.522388
+2018,Other or unknown,Other non-motor vehicle,8,1.3267
+2018,Pedal cyclist,2- or 3- wheeled motor vehicle,13,0.186808
+2018,Pedal cyclist,"Car, pick-up truck or van",1494,21.468602
+2018,Pedal cyclist,Fixed or stationary object,402,5.776692
+2018,Pedal cyclist,Heavy transport vehicle or bus,58,0.833453
+2018,Pedal cyclist,Non-collision transport accident,3076,44.201753
+2018,Pedal cyclist,Other and unspecified transport accidents,1470,21.123725
+2018,Pedal cyclist,Other non-motor vehicle,23,0.330507
+2018,Pedal cyclist,Pedal cycle,343,4.928869
+2018,Pedal cyclist,Pedestrian or animal,75,1.077741
+2018,Pedal cyclist,Train,5,0.071849
+2018,Pedestrian,2- or 3- wheeled motor vehicle,56,2.104472
+2018,Pedestrian,"Car, pick-up truck or van",2347,88.199925
+2018,Pedestrian,Heavy transport vehicle or bus,97,3.645246
+2018,Pedestrian,Other and unspecified transport accidents,73,2.74333
+2018,Pedestrian,Other non-motor vehicle,11,0.413378
+2018,Pedestrian,Pedal cycle,55,2.066892
+2018,Pedestrian,Pedestrian or animal,13,0.488538
+2018,Pedestrian,Train,9,0.338219
+2018,Pick-up truck or van occupant,2- or 3- wheeled motor vehicle,1,0.358423
+2018,Pick-up truck or van occupant,"Car, pick-up truck or van",98,35.125448
+2018,Pick-up truck or van occupant,Fixed or stationary object,52,18.637993
+2018,Pick-up truck or van occupant,Heavy transport vehicle or bus,19,6.810036
+2018,Pick-up truck or van occupant,Non-collision transport accident,94,33.691756
+2018,Pick-up truck or van occupant,Other and unspecified transport accidents,12,4.301075
+2018,Pick-up truck or van occupant,Other non-motor vehicle,0,0.0
+2018,Pick-up truck or van occupant,Pedestrian or animal,3,1.075269
+2019,Bus occupant,"Car, pick-up truck or van",42,16.470588
+2019,Bus occupant,Fixed or stationary object,17,6.666667
+2019,Bus occupant,Heavy transport vehicle or bus,14,5.490196
+2019,Bus occupant,Non-collision transport accident,168,65.882353
+2019,Bus occupant,Other and unspecified transport accidents,12,4.705882
+2019,Bus occupant,Pedestrian or animal,2,0.784314
+2019,Car driver,2- or 3- wheeled motor vehicle,21,0.155763
+2019,Car driver,"Car, pick-up truck or van",7697,57.090936
+2019,Car driver,Fixed or stationary object,3052,22.637591
+2019,Car driver,Heavy transport vehicle or bus,527,3.908916
+2019,Car driver,Non-collision transport accident,1868,13.855511
+2019,Car driver,Other and unspecified transport accidents,169,1.253523
+2019,Car driver,Other non-motor vehicle,26,0.19285
+2019,Car driver,Pedal cycle,5,0.037086
+2019,Car driver,Pedestrian or animal,110,0.815903
+2019,Car driver,Train,7,0.051921
+2019,Car passenger,2- or 3- wheeled motor vehicle,4,0.080176
+2019,Car passenger,"Car, pick-up truck or van",2678,53.678092
+2019,Car passenger,Fixed or stationary object,1054,21.126478
+2019,Car passenger,Heavy transport vehicle or bus,195,3.908599
+2019,Car passenger,Non-collision transport accident,946,18.961716
+2019,Car passenger,Other and unspecified transport accidents,67,1.342954
+2019,Car passenger,Other non-motor vehicle,7,0.140309
+2019,Car passenger,Pedestrian or animal,38,0.761676
+2019,Car passenger,Train,0,0.0
+2019,Car unknown position,"Car, pick-up truck or van",123,15.432873
+2019,Car unknown position,Fixed or stationary object,31,3.889586
+2019,Car unknown position,Heavy transport vehicle or bus,14,1.756587
+2019,Car unknown position,Non-collision transport accident,52,6.524467
+2019,Car unknown position,Other and unspecified transport accidents,573,71.894605
+2019,Car unknown position,Pedestrian or animal,2,0.250941
+2019,Car unknown position,Train,2,0.250941
+2019,Heavy transport driver,2- or 3- wheeled motor vehicle,0,0.0
+2019,Heavy transport driver,"Car, pick-up truck or van",69,16.235294
+2019,Heavy transport driver,Fixed or stationary object,72,16.941176
+2019,Heavy transport driver,Heavy transport vehicle or bus,52,12.235294
+2019,Heavy transport driver,Non-collision transport accident,218,51.294118
+2019,Heavy transport driver,Other and unspecified transport accidents,6,1.411765
+2019,Heavy transport driver,Other non-motor vehicle,2,0.470588
+2019,Heavy transport driver,Pedestrian or animal,4,0.941176
+2019,Heavy transport driver,Train,2,0.470588
+2019,Heavy transport passenger,"Car, pick-up truck or van",4,7.692308
+2019,Heavy transport passenger,Fixed or stationary object,7,13.461538
+2019,Heavy transport passenger,Heavy transport vehicle or bus,5,9.615385
+2019,Heavy transport passenger,Non-collision transport accident,35,67.307692
+2019,Heavy transport passenger,Pedestrian or animal,1,1.923077
+2019,Heavy transport unknown position,Heavy transport vehicle or bus,2,4.255319
+2019,Heavy transport unknown position,Non-collision transport accident,21,44.680851
+2019,Heavy transport unknown position,Other and unspecified transport accidents,24,51.06383
+2019,Motorcyclist,2- or 3- wheeled motor vehicle,185,2.073061
+2019,Motorcyclist,"Car, pick-up truck or van",2462,27.588525
+2019,Motorcyclist,Fixed or stationary object,817,9.155087
+2019,Motorcyclist,Heavy transport vehicle or bus,82,0.91887
+2019,Motorcyclist,Non-collision transport accident,3577,40.082922
+2019,Motorcyclist,Other and unspecified transport accidents,1534,17.189601
+2019,Motorcyclist,Other non-motor vehicle,17,0.190498
+2019,Motorcyclist,Pedal cycle,18,0.201703
+2019,Motorcyclist,Pedestrian or animal,232,2.599731
+2019,Other or unknown,2- or 3- wheeled motor vehicle,3,0.483871
+2019,Other or unknown,"Car, pick-up truck or van",4,0.645161
+2019,Other or unknown,Fixed or stationary object,2,0.322581
+2019,Other or unknown,Non-collision transport accident,5,0.806452
+2019,Other or unknown,Other and unspecified transport accidents,603,97.258065
+2019,Other or unknown,Other non-motor vehicle,3,0.483871
+2019,Pedal cyclist,2- or 3- wheeled motor vehicle,23,0.314982
+2019,Pedal cyclist,"Car, pick-up truck or van",1585,21.706382
+2019,Pedal cyclist,Fixed or stationary object,434,5.943577
+2019,Pedal cyclist,Heavy transport vehicle or bus,40,0.547795
+2019,Pedal cyclist,Non-collision transport accident,3070,42.043276
+2019,Pedal cyclist,Other and unspecified transport accidents,1672,22.897836
+2019,Pedal cyclist,Other non-motor vehicle,8,0.109559
+2019,Pedal cyclist,Pedal cycle,384,5.258833
+2019,Pedal cyclist,Pedestrian or animal,84,1.15037
+2019,Pedal cyclist,Train,2,0.02739
+2019,Pedestrian,2- or 3- wheeled motor vehicle,62,2.285293
+2019,Pedestrian,"Car, pick-up truck or van",2365,87.172871
+2019,Pedestrian,Heavy transport vehicle or bus,112,4.128271
+2019,Pedestrian,Other and unspecified transport accidents,77,2.838187
+2019,Pedestrian,Other non-motor vehicle,16,0.589753
+2019,Pedestrian,Pedal cycle,56,2.064136
+2019,Pedestrian,Pedestrian or animal,13,0.479174
+2019,Pedestrian,Train,12,0.442315
+2019,Pick-up truck or van occupant,2- or 3- wheeled motor vehicle,1,0.384615
+2019,Pick-up truck or van occupant,"Car, pick-up truck or van",80,30.769231
+2019,Pick-up truck or van occupant,Fixed or stationary object,53,20.384615
+2019,Pick-up truck or van occupant,Heavy transport vehicle or bus,29,11.153846
+2019,Pick-up truck or van occupant,Non-collision transport accident,80,30.769231
+2019,Pick-up truck or van occupant,Other and unspecified transport accidents,13,5.0
+2019,Pick-up truck or van occupant,Pedal cycle,1,0.384615
+2019,Pick-up truck or van occupant,Pedestrian or animal,2,0.769231
+2019,Pick-up truck or van occupant,Train,1,0.384615
+2020,Bus occupant,"Car, pick-up truck or van",20,11.560694
+2020,Bus occupant,Fixed or stationary object,8,4.624277
+2020,Bus occupant,Heavy transport vehicle or bus,9,5.202312
+2020,Bus occupant,Non-collision transport accident,123,71.098266
+2020,Bus occupant,Other and unspecified transport accidents,9,5.202312
+2020,Bus occupant,Pedestrian or animal,1,0.578035
+2020,Bus occupant,Train,3,1.734104
+2020,Car driver,2- or 3- wheeled motor vehicle,23,0.188262
+2020,Car driver,"Car, pick-up truck or van",6635,54.309569
+2020,Car driver,Fixed or stationary object,3076,25.178031
+2020,Car driver,Heavy transport vehicle or bus,471,3.855284
+2020,Car driver,Non-collision transport accident,1768,14.471638
+2020,Car driver,Other and unspecified transport accidents,123,1.006794
+2020,Car driver,Other non-motor vehicle,18,0.147336
+2020,Car driver,Pedal cycle,4,0.032741
+2020,Car driver,Pedestrian or animal,91,0.744864
+2020,Car driver,Train,8,0.065483
+2020,Car passenger,2- or 3- wheeled motor vehicle,5,0.115101
+2020,Car passenger,"Car, pick-up truck or van",2222,51.151013
+2020,Car passenger,Fixed or stationary object,987,22.720994
+2020,Car passenger,Heavy transport vehicle or bus,133,3.061694
+2020,Car passenger,Non-collision transport accident,912,20.994475
+2020,Car passenger,Other and unspecified transport accidents,54,1.243094
+2020,Car passenger,Other non-motor vehicle,3,0.069061
+2020,Car passenger,Pedestrian or animal,27,0.621547
+2020,Car passenger,Train,1,0.02302
+2020,Car unknown position,2- or 3- wheeled motor vehicle,1,0.136799
+2020,Car unknown position,"Car, pick-up truck or van",129,17.647059
+2020,Car unknown position,Fixed or stationary object,14,1.915185
+2020,Car unknown position,Heavy transport vehicle or bus,6,0.820793
+2020,Car unknown position,Non-collision transport accident,60,8.207934
+2020,Car unknown position,Other and unspecified transport accidents,521,71.27223
+2020,Heavy transport driver,"Car, pick-up truck or van",64,15.533981
+2020,Heavy transport driver,Fixed or stationary object,55,13.349515
+2020,Heavy transport driver,Heavy transport vehicle or bus,60,14.563107
+2020,Heavy transport driver,Non-collision transport accident,230,55.825243
+2020,Heavy transport driver,Other and unspecified transport accidents,1,0.242718
+2020,Heavy transport driver,Pedestrian or animal,1,0.242718
+2020,Heavy transport driver,Train,1,0.242718
+2020,Heavy transport passenger,2- or 3- wheeled motor vehicle,0,0.0
+2020,Heavy transport passenger,"Car, pick-up truck or van",4,8.333333
+2020,Heavy transport passenger,Fixed or stationary object,6,12.5
+2020,Heavy transport passenger,Heavy transport vehicle or bus,1,2.083333
+2020,Heavy transport passenger,Non-collision transport accident,36,75.0
+2020,Heavy transport passenger,Other and unspecified transport accidents,1,2.083333
+2020,Heavy transport unknown position,"Car, pick-up truck or van",2,5.0
+2020,Heavy transport unknown position,Fixed or stationary object,1,2.5
+2020,Heavy transport unknown position,Heavy transport vehicle or bus,2,5.0
+2020,Heavy transport unknown position,Non-collision transport accident,15,37.5
+2020,Heavy transport unknown position,Other and unspecified transport accidents,20,50.0
+2020,Motorcyclist,2- or 3- wheeled motor vehicle,209,2.406725
+2020,Motorcyclist,"Car, pick-up truck or van",2047,23.572087
+2020,Motorcyclist,Fixed or stationary object,955,10.997236
+2020,Motorcyclist,Heavy transport vehicle or bus,73,0.840626
+2020,Motorcyclist,Non-collision transport accident,3782,43.551359
+2020,Motorcyclist,Other and unspecified transport accidents,1408,16.213726
+2020,Motorcyclist,Other non-motor vehicle,14,0.161216
+2020,Motorcyclist,Pedal cycle,16,0.184247
+2020,Motorcyclist,Pedestrian or animal,180,2.072778
+2020,Other or unknown,"Car, pick-up truck or van",5,0.859107
+2020,Other or unknown,Fixed or stationary object,1,0.171821
+2020,Other or unknown,Non-collision transport accident,4,0.687285
+2020,Other or unknown,Other and unspecified transport accidents,566,97.250859
+2020,Other or unknown,Other non-motor vehicle,4,0.687285
+2020,Other or unknown,Pedal cycle,1,0.171821
+2020,Other or unknown,Pedestrian or animal,1,0.171821
+2020,Pedal cyclist,2- or 3- wheeled motor vehicle,15,0.180029
+2020,Pedal cyclist,"Car, pick-up truck or van",1599,19.191071
+2020,Pedal cyclist,Fixed or stationary object,500,6.00096
+2020,Pedal cyclist,Heavy transport vehicle or bus,42,0.504081
+2020,Pedal cyclist,Non-collision transport accident,3853,46.243399
+2020,Pedal cyclist,Other and unspecified transport accidents,1895,22.743639
+2020,Pedal cyclist,Other non-motor vehicle,5,0.06001
+2020,Pedal cyclist,Pedal cycle,335,4.020643
+2020,Pedal cyclist,Pedestrian or animal,86,1.032165
+2020,Pedal cyclist,Train,2,0.024004
+2020,Pedestrian,2- or 3- wheeled motor vehicle,45,2.1398
+2020,Pedestrian,"Car, pick-up truck or van",1852,88.06467
+2020,Pedestrian,Heavy transport vehicle or bus,78,3.708987
+2020,Pedestrian,Other and unspecified transport accidents,68,3.233476
+2020,Pedestrian,Other non-motor vehicle,11,0.523062
+2020,Pedestrian,Pedal cycle,35,1.664289
+2020,Pedestrian,Pedestrian or animal,6,0.285307
+2020,Pedestrian,Train,8,0.380409
+2020,Pick-up truck or van occupant,"Car, pick-up truck or van",89,29.666667
+2020,Pick-up truck or van occupant,Fixed or stationary object,53,17.666667
+2020,Pick-up truck or van occupant,Heavy transport vehicle or bus,18,6.0
+2020,Pick-up truck or van occupant,Non-collision transport accident,122,40.666667
+2020,Pick-up truck or van occupant,Other and unspecified transport accidents,16,5.333333
+2020,Pick-up truck or van occupant,Pedestrian or animal,2,0.666667
+2021,Bus occupant,"Car, pick-up truck or van",42,24.852071
+2021,Bus occupant,Fixed or stationary object,8,4.733728
+2021,Bus occupant,Heavy transport vehicle or bus,7,4.142012
+2021,Bus occupant,Non-collision transport accident,97,57.39645
+2021,Bus occupant,Other and unspecified transport accidents,13,7.692308
+2021,Bus occupant,Pedestrian or animal,1,0.591716
+2021,Bus occupant,Train,1,0.591716
+2021,Car driver,2- or 3- wheeled motor vehicle,31,0.23261
+2021,Car driver,"Car, pick-up truck or van",7589,56.944549
+2021,Car driver,Fixed or stationary object,3064,22.990921
+2021,Car driver,Heavy transport vehicle or bus,544,4.081939
+2021,Car driver,Non-collision transport accident,1821,13.66399
+2021,Car driver,Other and unspecified transport accidents,143,1.07301
+2021,Car driver,Other non-motor vehicle,22,0.165078
+2021,Car driver,Pedal cycle,4,0.030014
+2021,Car driver,Pedestrian or animal,99,0.742853
+2021,Car driver,Train,10,0.075036
+2021,Car passenger,2- or 3- wheeled motor vehicle,11,0.244716
+2021,Car passenger,"Car, pick-up truck or van",2303,51.234705
+2021,Car passenger,Fixed or stationary object,970,21.579533
+2021,Car passenger,Heavy transport vehicle or bus,161,3.581758
+2021,Car passenger,Non-collision transport accident,941,20.934372
+2021,Car passenger,Other and unspecified transport accidents,58,1.290323
+2021,Car passenger,Other non-motor vehicle,8,0.177976
+2021,Car passenger,Pedal cycle,1,0.022247
+2021,Car passenger,Pedestrian or animal,35,0.778643
+2021,Car passenger,Train,7,0.155729
+2021,Car unknown position,"Car, pick-up truck or van",117,16.317992
+2021,Car unknown position,Fixed or stationary object,25,3.48675
+2021,Car unknown position,Heavy transport vehicle or bus,6,0.83682
+2021,Car unknown position,Non-collision transport accident,48,6.694561
+2021,Car unknown position,Other and unspecified transport accidents,515,71.827057
+2021,Car unknown position,Other non-motor vehicle,2,0.27894
+2021,Car unknown position,Pedestrian or animal,4,0.55788
+2021,Heavy transport driver,2- or 3- wheeled motor vehicle,1,0.261097
+2021,Heavy transport driver,"Car, pick-up truck or van",64,16.710183
+2021,Heavy transport driver,Fixed or stationary object,62,16.18799
+2021,Heavy transport driver,Heavy transport vehicle or bus,63,16.449086
+2021,Heavy transport driver,Non-collision transport accident,182,47.519582
+2021,Heavy transport driver,Other and unspecified transport accidents,6,1.56658
+2021,Heavy transport driver,Pedestrian or animal,2,0.522193
+2021,Heavy transport driver,Train,3,0.78329
+2021,Heavy transport passenger,"Car, pick-up truck or van",5,8.928571
+2021,Heavy transport passenger,Fixed or stationary object,8,14.285714
+2021,Heavy transport passenger,Heavy transport vehicle or bus,11,19.642857
+2021,Heavy transport passenger,Non-collision transport accident,32,57.142857
+2021,Heavy transport unknown position,"Car, pick-up truck or van",2,5.555556
+2021,Heavy transport unknown position,Fixed or stationary object,1,2.777778
+2021,Heavy transport unknown position,Non-collision transport accident,16,44.444444
+2021,Heavy transport unknown position,Other and unspecified transport accidents,16,44.444444
+2021,Heavy transport unknown position,Pedestrian or animal,1,2.777778
+2021,Motorcyclist,2- or 3- wheeled motor vehicle,203,2.285264
+2021,Motorcyclist,"Car, pick-up truck or van",2317,26.08353
+2021,Motorcyclist,Fixed or stationary object,920,10.356861
+2021,Motorcyclist,Heavy transport vehicle or bus,66,0.742992
+2021,Motorcyclist,Non-collision transport accident,3759,42.316785
+2021,Motorcyclist,Other and unspecified transport accidents,1387,15.614094
+2021,Motorcyclist,Other non-motor vehicle,8,0.09006
+2021,Motorcyclist,Pedal cycle,13,0.146347
+2021,Motorcyclist,Pedestrian or animal,210,2.364066
+2021,Other or unknown,"Car, pick-up truck or van",8,1.331115
+2021,Other or unknown,Fixed or stationary object,6,0.998336
+2021,Other or unknown,Heavy transport vehicle or bus,1,0.166389
+2021,Other or unknown,Non-collision transport accident,5,0.831947
+2021,Other or unknown,Other and unspecified transport accidents,574,95.507488
+2021,Other or unknown,Other non-motor vehicle,7,1.164725
+2021,Pedal cyclist,2- or 3- wheeled motor vehicle,17,0.208257
+2021,Pedal cyclist,"Car, pick-up truck or van",1575,19.294377
+2021,Pedal cyclist,Fixed or stationary object,466,5.708686
+2021,Pedal cyclist,Heavy transport vehicle or bus,49,0.60027
+2021,Pedal cyclist,Non-collision transport accident,3705,45.387725
+2021,Pedal cyclist,Other and unspecified transport accidents,1854,22.712238
+2021,Pedal cyclist,Other non-motor vehicle,9,0.110254
+2021,Pedal cyclist,Pedal cycle,390,4.777655
+2021,Pedal cyclist,Pedestrian or animal,98,1.200539
+2021,Pedestrian,2- or 3- wheeled motor vehicle,37,1.585261
+2021,Pedestrian,"Car, pick-up truck or van",2063,88.389032
+2021,Pedestrian,Heavy transport vehicle or bus,83,3.556127
+2021,Pedestrian,Other and unspecified transport accidents,66,2.827763
+2021,Pedestrian,Other non-motor vehicle,8,0.342759
+2021,Pedestrian,Pedal cycle,43,1.842331
+2021,Pedestrian,Pedestrian or animal,26,1.113967
+2021,Pedestrian,Train,8,0.342759
+2021,Pick-up truck or van occupant,"Car, pick-up truck or van",107,31.378299
+2021,Pick-up truck or van occupant,Fixed or stationary object,66,19.354839
+2021,Pick-up truck or van occupant,Heavy transport vehicle or bus,29,8.504399
+2021,Pick-up truck or van occupant,Non-collision transport accident,122,35.777126
+2021,Pick-up truck or van occupant,Other and unspecified transport accidents,12,3.519062
+2021,Pick-up truck or van occupant,Pedestrian or animal,5,1.466276

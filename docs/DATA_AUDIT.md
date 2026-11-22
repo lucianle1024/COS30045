@@ -2,6 +2,8 @@
 
 Updated: 13 November 2026
 
+Follow-up: see [EDA_AND_STORY.md](EDA_AND_STORY.md) for the extended field audit and analysis dated 21 November. The initial checkpoint below is retained for continuity.
+
 ## Sources and scope
 
 - Dataset: `data/raw/hospitalisation_injury_publication_sep2023.xlsx`

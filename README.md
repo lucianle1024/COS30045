@@ -1,6 +1,6 @@
 # Hospitalised Road Injuries in Australia
 
-My individual COS30045 project explores hospitalised road injuries in Australia from 2011 to 2021. I focus on three questions: how the counts change over time, which road users make up the total, and how age and sex vary within a selected group.
+Our COS30045 team project explores hospitalised road injuries in Australia from 2011 to 2021. The first website shows time trends, road users and demographics. We are developing a deeper story about differences hidden by the national total; the analysis and design decisions are documented below.
 
 ## Run the website
 
@@ -61,6 +61,12 @@ The D3 bundle is version 7.9.2, downloaded from [D3's official site](https://d3j
 
 ## Project status
 
-The working data pipeline and first website implementation are complete. Design Book and Stand Up slides, a documented usability evaluation, and deployment to the required course hosting remain to be completed. Detailed checkpoints are in `docs/PROJECT_PLAN.md`.
+The first data pipeline and website are available, and Stand Up 1 has taken place. On 21 November we added a reproducible field audit, deeper EDA and an evidence-led storyboard. New D3 charts, the KNIME extension and participant evaluation remain pending.
+
+- [EDA findings, data-quality limits and reproduction commands](docs/EDA_AND_STORY.md)
+- [Revised storyboard, chart alternatives and interaction plan](docs/STORYBOARD.md)
+- [Week 11 and Week 12 stand-up plan and progress](docs/STANDUP_2_3_PLAN.md)
+
+The older implementation checkpoint remains in `docs/PROJECT_PLAN.md`; use the dated documents above for the current analysis and stand-up milestones.
 
 This development ZIP is for transferring the project files. For Stand Up 1, submit the required PPTX, draft Design Book and KNIME file separately, with the GitHub Classroom link in the submission comment. The supplied Stand Up instructions do not allow ZIP submissions.

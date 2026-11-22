@@ -160,4 +160,14 @@ We will explain the work in our own words, using the code or charts as evidence.
 
 ## Next action
 
-Start with the field audit and EDA, then produce the Week 11 storyboard and sketches. The new charts and evaluation are still pending at the time this plan is committed.
+Progress on 21/11/2026:
+
+- [x] Reproducible audit of all 13 fields, missingness and source controls.
+- [x] Deeper EDA across year, month, counterparty, age and remoteness, with reference CSVs and two EDA figures.
+- [x] Evidence-led [storyboard outline](STORYBOARD.md), design alternatives and intended interactions.
+- [ ] Full design drafts, labelled wireframes/sketches and the Week 11 deck.
+- [ ] New D3 chart/interaction code, KNIME extension and actual participant evaluation.
+
+See [EDA_AND_STORY.md](EDA_AND_STORY.md) for findings and limits. Chapter 3 now uses age composition; bed-day ratios remain withheld until missing death fields and numerator scope are resolved. Multiple analysis CSVs still represent one national workbook.
+
+Next: turn the storyboard into wireframes and chart sketches, then complete the three Week 11 design drafts and coding plan. These progress ticks do not mark the presentation or student acceptance as completed.

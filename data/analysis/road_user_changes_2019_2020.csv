@@ -1,0 +1,14 @@
+road_user,hospitalisations_2019,hospitalisations_2020,absolute_change,change_pct
+All road users,39866,37966,-1900,-4.765966
+Bus occupant,255,173,-82,-32.156863
+Car driver,13482,12217,-1265,-9.382881
+Car passenger,4989,4344,-645,-12.928443
+Car unknown position,797,731,-66,-8.281054
+Heavy transport driver,425,412,-13,-3.058824
+Heavy transport passenger,52,48,-4,-7.692308
+Heavy transport unknown position,47,40,-7,-14.893617
+Motorcyclist,8924,8684,-240,-2.689377
+Other or unknown,620,582,-38,-6.129032
+Pedal cyclist,7302,8332,1030,14.105724
+Pedestrian,2713,2103,-610,-22.484335
+Pick-up truck or van occupant,260,300,40,15.384615

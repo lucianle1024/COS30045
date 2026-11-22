@@ -1,0 +1,408 @@
+{
+  "source_rows": 117919,
+  "traffic_rows": 86140,
+  "duplicate_traffic_keys": 0,
+  "raw_fields": {
+    "Calendar year": {
+      "blank_rows": 0,
+      "distinct_values": 11,
+      "type": "integer",
+      "zero_rows": 0,
+      "minimum": 2011,
+      "maximum": 2021
+    },
+    "Month": {
+      "blank_rows": 0,
+      "distinct_values": 12,
+      "type": "categorical",
+      "values": [
+        "April",
+        "August",
+        "December",
+        "February",
+        "January",
+        "July",
+        "June",
+        "March",
+        "May",
+        "November",
+        "October",
+        "September"
+      ]
+    },
+    "ABS remoteness area": {
+      "blank_rows": 0,
+      "distinct_values": 4,
+      "type": "categorical",
+      "values": [
+        "Major Cities",
+        "Missing",
+        "Regional",
+        "Remote"
+      ]
+    },
+    "Cause of injury": {
+      "blank_rows": 0,
+      "distinct_values": 6,
+      "type": "categorical",
+      "values": [
+        "All other trauma events",
+        "Medical events",
+        "Non-traffic",
+        "Other transport",
+        "Traffic",
+        "Unknown traffic"
+      ]
+    },
+    "Age group": {
+      "blank_rows": 0,
+      "distinct_values": 8,
+      "type": "categorical",
+      "values": [
+        "0-7",
+        "17-25",
+        "26-39",
+        "40-64",
+        "65-74",
+        "75+",
+        "8-16",
+        "Missing"
+      ]
+    },
+    "Sex": {
+      "blank_rows": 0,
+      "distinct_values": 3,
+      "type": "categorical",
+      "values": [
+        "Female",
+        "Male",
+        "intersex or indeterminate or missing"
+      ]
+    },
+    "Road user": {
+      "blank_rows": 0,
+      "distinct_values": 13,
+      "type": "categorical",
+      "values": [
+        "Bus occupant",
+        "Car driver",
+        "Car passenger",
+        "Car unknown position",
+        "Heavy transport driver",
+        "Heavy transport passenger",
+        "Heavy transport unknown position",
+        "Motorcyclist",
+        "Not applicable",
+        "Other or unknown",
+        "Pedal cyclist",
+        "Pedestrian",
+        "Pick-up truck or van occupant"
+      ]
+    },
+    "Counterparty": {
+      "blank_rows": 0,
+      "distinct_values": 11,
+      "type": "categorical",
+      "values": [
+        "2- or 3- wheeled motor vehicle",
+        "Car, pick-up truck or van",
+        "Fixed or stationary object",
+        "Heavy transport vehicle or bus",
+        "Non-collision transport accident",
+        "Not applicable",
+        "Other and unspecified transport accidents",
+        "Other non-motor vehicle",
+        "Pedal cycle",
+        "Pedestrian or animal",
+        "Train"
+      ]
+    },
+    "Count of cases": {
+      "blank_rows": 4937,
+      "distinct_values": 5915,
+      "type": "integer",
+      "zero_rows": 0,
+      "minimum": 1,
+      "maximum": 107434
+    },
+    "Bed days": {
+      "blank_rows": 0,
+      "distinct_values": 8080,
+      "type": "integer",
+      "zero_rows": 0,
+      "minimum": 1,
+      "maximum": 252872
+    },
+    "Died_cases": {
+      "blank_rows": 108178,
+      "distinct_values": 532,
+      "type": "integer",
+      "zero_rows": 0,
+      "minimum": 1,
+      "maximum": 996
+    },
+    "Died_bed_days": {
+      "blank_rows": 107331,
+      "distinct_values": 1572,
+      "type": "integer",
+      "zero_rows": 0,
+      "minimum": 1,
+      "maximum": 9107
+    },
+    "Hospitalisations": {
+      "blank_rows": 0,
+      "distinct_values": 5873,
+      "type": "integer",
+      "zero_rows": 5285,
+      "minimum": 0,
+      "maximum": 107434
+    }
+  },
+  "traffic_fields": {
+    "Calendar year": {
+      "blank_rows": 0,
+      "distinct_values": 11,
+      "type": "integer",
+      "zero_rows": 0,
+      "minimum": 2011,
+      "maximum": 2021
+    },
+    "Month": {
+      "blank_rows": 0,
+      "distinct_values": 12,
+      "type": "categorical",
+      "values": [
+        "April",
+        "August",
+        "December",
+        "February",
+        "January",
+        "July",
+        "June",
+        "March",
+        "May",
+        "November",
+        "October",
+        "September"
+      ]
+    },
+    "ABS remoteness area": {
+      "blank_rows": 0,
+      "distinct_values": 4,
+      "type": "categorical",
+      "values": [
+        "Major Cities",
+        "Missing",
+        "Regional",
+        "Remote"
+      ]
+    },
+    "Cause of injury": {
+      "blank_rows": 0,
+      "distinct_values": 1,
+      "type": "categorical",
+      "values": [
+        "Traffic"
+      ]
+    },
+    "Age group": {
+      "blank_rows": 0,
+      "distinct_values": 8,
+      "type": "categorical",
+      "values": [
+        "0-7",
+        "17-25",
+        "26-39",
+        "40-64",
+        "65-74",
+        "75+",
+        "8-16",
+        "Missing"
+      ]
+    },
+    "Sex": {
+      "blank_rows": 0,
+      "distinct_values": 3,
+      "type": "categorical",
+      "values": [
+        "Female",
+        "Male",
+        "intersex or indeterminate or missing"
+      ]
+    },
+    "Road user": {
+      "blank_rows": 0,
+      "distinct_values": 12,
+      "type": "categorical",
+      "values": [
+        "Bus occupant",
+        "Car driver",
+        "Car passenger",
+        "Car unknown position",
+        "Heavy transport driver",
+        "Heavy transport passenger",
+        "Heavy transport unknown position",
+        "Motorcyclist",
+        "Other or unknown",
+        "Pedal cyclist",
+        "Pedestrian",
+        "Pick-up truck or van occupant"
+      ]
+    },
+    "Counterparty": {
+      "blank_rows": 0,
+      "distinct_values": 10,
+      "type": "categorical",
+      "values": [
+        "2- or 3- wheeled motor vehicle",
+        "Car, pick-up truck or van",
+        "Fixed or stationary object",
+        "Heavy transport vehicle or bus",
+        "Non-collision transport accident",
+        "Other and unspecified transport accidents",
+        "Other non-motor vehicle",
+        "Pedal cycle",
+        "Pedestrian or animal",
+        "Train"
+      ]
+    },
+    "Count of cases": {
+      "blank_rows": 4578,
+      "distinct_values": 113,
+      "type": "integer",
+      "zero_rows": 0,
+      "minimum": 1,
+      "maximum": 121
+    },
+    "Bed days": {
+      "blank_rows": 0,
+      "distinct_values": 502,
+      "type": "integer",
+      "zero_rows": 0,
+      "minimum": 1,
+      "maximum": 1095
+    },
+    "Died_cases": {
+      "blank_rows": 84142,
+      "distinct_values": 4,
+      "type": "integer",
+      "zero_rows": 0,
+      "minimum": 1,
+      "maximum": 4
+    },
+    "Died_bed_days": {
+      "blank_rows": 83854,
+      "distinct_values": 34,
+      "type": "integer",
+      "zero_rows": 0,
+      "minimum": 1,
+      "maximum": 56
+    },
+    "Hospitalisations": {
+      "blank_rows": 0,
+      "distinct_values": 115,
+      "type": "integer",
+      "zero_rows": 4899,
+      "minimum": 0,
+      "maximum": 121
+    }
+  },
+  "traffic_quality_by_year": {
+    "2011": {
+      "rows": 7498,
+      "Died_cases_blank_rows": 7254,
+      "Died_bed_days_blank_rows": 7228,
+      "Count of cases_blank_rows": 326
+    },
+    "2012": {
+      "rows": 7546,
+      "Died_cases_blank_rows": 7312,
+      "Died_bed_days_blank_rows": 7280,
+      "Count of cases_blank_rows": 325
+    },
+    "2013": {
+      "rows": 7618,
+      "Died_cases_blank_rows": 7423,
+      "Died_bed_days_blank_rows": 7395,
+      "Count of cases_blank_rows": 339
+    },
+    "2014": {
+      "rows": 7739,
+      "Died_cases_blank_rows": 7529,
+      "Died_bed_days_blank_rows": 7500,
+      "Count of cases_blank_rows": 351
+    },
+    "2015": {
+      "rows": 7816,
+      "Died_cases_blank_rows": 7585,
+      "Died_bed_days_blank_rows": 7558,
+      "Count of cases_blank_rows": 432
+    },
+    "2016": {
+      "rows": 8072,
+      "Died_cases_blank_rows": 7823,
+      "Died_bed_days_blank_rows": 7786,
+      "Count of cases_blank_rows": 526
+    },
+    "2017": {
+      "rows": 8091,
+      "Died_cases_blank_rows": 7904,
+      "Died_bed_days_blank_rows": 7866,
+      "Count of cases_blank_rows": 516
+    },
+    "2018": {
+      "rows": 8156,
+      "Died_cases_blank_rows": 7976,
+      "Died_bed_days_blank_rows": 7945,
+      "Count of cases_blank_rows": 490
+    },
+    "2019": {
+      "rows": 8094,
+      "Died_cases_blank_rows": 7909,
+      "Died_bed_days_blank_rows": 7888,
+      "Count of cases_blank_rows": 413
+    },
+    "2020": {
+      "rows": 7699,
+      "Died_cases_blank_rows": 7616,
+      "Died_bed_days_blank_rows": 7597,
+      "Count of cases_blank_rows": 423
+    },
+    "2021": {
+      "rows": 7811,
+      "Died_cases_blank_rows": 7811,
+      "Died_bed_days_blank_rows": 7811,
+      "Count of cases_blank_rows": 437
+    }
+  },
+  "annual_hospitalisations": {
+    "2011": 34033,
+    "2012": 34024,
+    "2013": 35001,
+    "2014": 35515,
+    "2015": 37082,
+    "2016": 38963,
+    "2017": 39339,
+    "2018": 39590,
+    "2019": 39866,
+    "2020": 37966,
+    "2021": 39505
+  },
+  "hospitalisation_identity_mismatches": 0,
+  "zero_hospitalisations_positive_bed_days_rows_retained": 4899,
+  "bed_day_ratio_status": "WITHHELD: missing death fields, transfer attribution and numerator scope need resolution",
+  "status": "PASS",
+  "source_sha256": "28de6080801cb77b6867a5db2011cfc382abcbd6ffc467a2f96487b27b99c19e",
+  "matched_controls": {
+    "T1_years": 11,
+    "T2_road_user_years": 132,
+    "T4_remoteness_years": 44
+  },
+  "export_rows": {
+    "monthly": 1580,
+    "counterparty": 996,
+    "age": 875,
+    "remoteness": 44,
+    "changes": 13
+  }
+}

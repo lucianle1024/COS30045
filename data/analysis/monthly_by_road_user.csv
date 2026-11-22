@@ -1,0 +1,1581 @@
+year,month,road_user,hospitalisations
+2011,1,Bus occupant,13
+2011,1,Car driver,776
+2011,1,Car passenger,398
+2011,1,Car unknown position,58
+2011,1,Heavy transport driver,36
+2011,1,Heavy transport passenger,5
+2011,1,Heavy transport unknown position,6
+2011,1,Motorcyclist,543
+2011,1,Other or unknown,53
+2011,1,Pedal cyclist,556
+2011,1,Pedestrian,196
+2011,1,Pick-up truck or van occupant,17
+2011,2,Bus occupant,10
+2011,2,Car driver,786
+2011,2,Car passenger,354
+2011,2,Car unknown position,88
+2011,2,Heavy transport driver,42
+2011,2,Heavy transport passenger,2
+2011,2,Heavy transport unknown position,4
+2011,2,Motorcyclist,616
+2011,2,Other or unknown,43
+2011,2,Pedal cyclist,440
+2011,2,Pedestrian,194
+2011,2,Pick-up truck or van occupant,18
+2011,3,Bus occupant,28
+2011,3,Car driver,975
+2011,3,Car passenger,407
+2011,3,Car unknown position,79
+2011,3,Heavy transport driver,33
+2011,3,Heavy transport passenger,3
+2011,3,Heavy transport unknown position,6
+2011,3,Motorcyclist,631
+2011,3,Other or unknown,44
+2011,3,Pedal cyclist,479
+2011,3,Pedestrian,253
+2011,3,Pick-up truck or van occupant,24
+2011,4,Bus occupant,12
+2011,4,Car driver,953
+2011,4,Car passenger,396
+2011,4,Car unknown position,71
+2011,4,Heavy transport driver,27
+2011,4,Heavy transport passenger,5
+2011,4,Heavy transport unknown position,6
+2011,4,Motorcyclist,726
+2011,4,Other or unknown,47
+2011,4,Pedal cyclist,454
+2011,4,Pedestrian,244
+2011,4,Pick-up truck or van occupant,19
+2011,5,Bus occupant,28
+2011,5,Car driver,899
+2011,5,Car passenger,395
+2011,5,Car unknown position,74
+2011,5,Heavy transport driver,32
+2011,5,Heavy transport passenger,3
+2011,5,Heavy transport unknown position,2
+2011,5,Motorcyclist,654
+2011,5,Other or unknown,30
+2011,5,Pedal cyclist,456
+2011,5,Pedestrian,263
+2011,5,Pick-up truck or van occupant,14
+2011,6,Bus occupant,30
+2011,6,Car driver,899
+2011,6,Car passenger,382
+2011,6,Car unknown position,65
+2011,6,Heavy transport driver,30
+2011,6,Heavy transport passenger,5
+2011,6,Heavy transport unknown position,4
+2011,6,Motorcyclist,550
+2011,6,Other or unknown,51
+2011,6,Pedal cyclist,358
+2011,6,Pedestrian,267
+2011,6,Pick-up truck or van occupant,16
+2011,7,Bus occupant,19
+2011,7,Car driver,918
+2011,7,Car passenger,421
+2011,7,Car unknown position,85
+2011,7,Heavy transport driver,33
+2011,7,Heavy transport passenger,5
+2011,7,Heavy transport unknown position,4
+2011,7,Motorcyclist,581
+2011,7,Other or unknown,48
+2011,7,Pedal cyclist,319
+2011,7,Pedestrian,235
+2011,7,Pick-up truck or van occupant,21
+2011,8,Bus occupant,14
+2011,8,Car driver,906
+2011,8,Car passenger,402
+2011,8,Car unknown position,65
+2011,8,Heavy transport driver,39
+2011,8,Heavy transport passenger,6
+2011,8,Heavy transport unknown position,1
+2011,8,Motorcyclist,567
+2011,8,Other or unknown,66
+2011,8,Pedal cyclist,401
+2011,8,Pedestrian,245
+2011,8,Pick-up truck or van occupant,23
+2011,9,Bus occupant,15
+2011,9,Car driver,965
+2011,9,Car passenger,350
+2011,9,Car unknown position,74
+2011,9,Heavy transport driver,41
+2011,9,Heavy transport passenger,10
+2011,9,Heavy transport unknown position,5
+2011,9,Motorcyclist,677
+2011,9,Other or unknown,86
+2011,9,Pedal cyclist,445
+2011,9,Pedestrian,199
+2011,9,Pick-up truck or van occupant,29
+2011,10,Bus occupant,12
+2011,10,Car driver,909
+2011,10,Car passenger,433
+2011,10,Car unknown position,65
+2011,10,Heavy transport driver,49
+2011,10,Heavy transport passenger,1
+2011,10,Heavy transport unknown position,5
+2011,10,Motorcyclist,635
+2011,10,Other or unknown,40
+2011,10,Pedal cyclist,523
+2011,10,Pedestrian,203
+2011,10,Pick-up truck or van occupant,22
+2011,11,Bus occupant,20
+2011,11,Car driver,986
+2011,11,Car passenger,454
+2011,11,Car unknown position,82
+2011,11,Heavy transport driver,53
+2011,11,Heavy transport passenger,5
+2011,11,Heavy transport unknown position,8
+2011,11,Motorcyclist,708
+2011,11,Other or unknown,56
+2011,11,Pedal cyclist,467
+2011,11,Pedestrian,225
+2011,11,Pick-up truck or van occupant,22
+2011,12,Bus occupant,13
+2011,12,Car driver,976
+2011,12,Car passenger,461
+2011,12,Car unknown position,83
+2011,12,Heavy transport driver,40
+2011,12,Heavy transport passenger,2
+2011,12,Heavy transport unknown position,4
+2011,12,Motorcyclist,677
+2011,12,Other or unknown,46
+2011,12,Pedal cyclist,493
+2011,12,Pedestrian,230
+2011,12,Pick-up truck or van occupant,22
+2012,1,Bus occupant,14
+2012,1,Car driver,845
+2012,1,Car passenger,446
+2012,1,Car unknown position,86
+2012,1,Heavy transport driver,29
+2012,1,Heavy transport passenger,4
+2012,1,Heavy transport unknown position,3
+2012,1,Motorcyclist,570
+2012,1,Other or unknown,28
+2012,1,Pedal cyclist,492
+2012,1,Pedestrian,171
+2012,1,Pick-up truck or van occupant,28
+2012,2,Bus occupant,10
+2012,2,Car driver,899
+2012,2,Car passenger,361
+2012,2,Car unknown position,56
+2012,2,Heavy transport driver,35
+2012,2,Heavy transport passenger,3
+2012,2,Heavy transport unknown position,7
+2012,2,Motorcyclist,590
+2012,2,Other or unknown,36
+2012,2,Pedal cyclist,510
+2012,2,Pedestrian,216
+2012,2,Pick-up truck or van occupant,18
+2012,3,Bus occupant,20
+2012,3,Car driver,912
+2012,3,Car passenger,391
+2012,3,Car unknown position,92
+2012,3,Heavy transport driver,28
+2012,3,Heavy transport passenger,2
+2012,3,Heavy transport unknown position,5
+2012,3,Motorcyclist,654
+2012,3,Other or unknown,46
+2012,3,Pedal cyclist,546
+2012,3,Pedestrian,209
+2012,3,Pick-up truck or van occupant,21
+2012,4,Bus occupant,17
+2012,4,Car driver,923
+2012,4,Car passenger,430
+2012,4,Car unknown position,73
+2012,4,Heavy transport driver,43
+2012,4,Heavy transport passenger,8
+2012,4,Heavy transport unknown position,1
+2012,4,Motorcyclist,727
+2012,4,Other or unknown,42
+2012,4,Pedal cyclist,537
+2012,4,Pedestrian,224
+2012,4,Pick-up truck or van occupant,24
+2012,5,Bus occupant,22
+2012,5,Car driver,1027
+2012,5,Car passenger,386
+2012,5,Car unknown position,77
+2012,5,Heavy transport driver,42
+2012,5,Heavy transport passenger,2
+2012,5,Heavy transport unknown position,7
+2012,5,Motorcyclist,683
+2012,5,Other or unknown,51
+2012,5,Pedal cyclist,470
+2012,5,Pedestrian,250
+2012,5,Pick-up truck or van occupant,22
+2012,6,Bus occupant,13
+2012,6,Car driver,914
+2012,6,Car passenger,358
+2012,6,Car unknown position,88
+2012,6,Heavy transport driver,20
+2012,6,Heavy transport passenger,4
+2012,6,Heavy transport unknown position,2
+2012,6,Motorcyclist,603
+2012,6,Other or unknown,52
+2012,6,Pedal cyclist,322
+2012,6,Pedestrian,284
+2012,6,Pick-up truck or van occupant,15
+2012,7,Bus occupant,26
+2012,7,Car driver,884
+2012,7,Car passenger,419
+2012,7,Car unknown position,82
+2012,7,Heavy transport driver,38
+2012,7,Heavy transport passenger,2
+2012,7,Heavy transport unknown position,6
+2012,7,Motorcyclist,576
+2012,7,Other or unknown,49
+2012,7,Pedal cyclist,332
+2012,7,Pedestrian,230
+2012,7,Pick-up truck or van occupant,14
+2012,8,Bus occupant,13
+2012,8,Car driver,839
+2012,8,Car passenger,343
+2012,8,Car unknown position,65
+2012,8,Heavy transport driver,30
+2012,8,Heavy transport passenger,2
+2012,8,Heavy transport unknown position,1
+2012,8,Motorcyclist,644
+2012,8,Other or unknown,41
+2012,8,Pedal cyclist,380
+2012,8,Pedestrian,252
+2012,8,Pick-up truck or van occupant,19
+2012,9,Bus occupant,25
+2012,9,Car driver,850
+2012,9,Car passenger,366
+2012,9,Car unknown position,62
+2012,9,Heavy transport driver,28
+2012,9,Heavy transport passenger,3
+2012,9,Heavy transport unknown position,7
+2012,9,Motorcyclist,610
+2012,9,Other or unknown,51
+2012,9,Pedal cyclist,429
+2012,9,Pedestrian,190
+2012,9,Pick-up truck or van occupant,26
+2012,10,Bus occupant,16
+2012,10,Car driver,942
+2012,10,Car passenger,432
+2012,10,Car unknown position,73
+2012,10,Heavy transport driver,53
+2012,10,Heavy transport passenger,6
+2012,10,Heavy transport unknown position,1
+2012,10,Motorcyclist,719
+2012,10,Other or unknown,57
+2012,10,Pedal cyclist,555
+2012,10,Pedestrian,234
+2012,10,Pick-up truck or van occupant,32
+2012,11,Bus occupant,10
+2012,11,Car driver,899
+2012,11,Car passenger,414
+2012,11,Car unknown position,66
+2012,11,Heavy transport driver,33
+2012,11,Heavy transport passenger,6
+2012,11,Heavy transport unknown position,4
+2012,11,Motorcyclist,703
+2012,11,Other or unknown,70
+2012,11,Pedal cyclist,524
+2012,11,Pedestrian,207
+2012,11,Pick-up truck or van occupant,27
+2012,12,Bus occupant,31
+2012,12,Car driver,872
+2012,12,Car passenger,392
+2012,12,Car unknown position,75
+2012,12,Heavy transport driver,37
+2012,12,Heavy transport passenger,5
+2012,12,Heavy transport unknown position,4
+2012,12,Motorcyclist,649
+2012,12,Other or unknown,40
+2012,12,Pedal cyclist,524
+2012,12,Pedestrian,205
+2012,12,Pick-up truck or van occupant,27
+2013,1,Bus occupant,29
+2013,1,Car driver,767
+2013,1,Car passenger,433
+2013,1,Car unknown position,81
+2013,1,Heavy transport driver,33
+2013,1,Heavy transport passenger,4
+2013,1,Heavy transport unknown position,3
+2013,1,Motorcyclist,620
+2013,1,Other or unknown,44
+2013,1,Pedal cyclist,567
+2013,1,Pedestrian,178
+2013,1,Pick-up truck or van occupant,17
+2013,2,Bus occupant,11
+2013,2,Car driver,796
+2013,2,Car passenger,324
+2013,2,Car unknown position,49
+2013,2,Heavy transport driver,21
+2013,2,Heavy transport passenger,2
+2013,2,Heavy transport unknown position,3
+2013,2,Motorcyclist,547
+2013,2,Other or unknown,36
+2013,2,Pedal cyclist,553
+2013,2,Pedestrian,194
+2013,2,Pick-up truck or van occupant,17
+2013,3,Bus occupant,24
+2013,3,Car driver,956
+2013,3,Car passenger,391
+2013,3,Car unknown position,76
+2013,3,Heavy transport driver,34
+2013,3,Heavy transport passenger,1
+2013,3,Heavy transport unknown position,3
+2013,3,Motorcyclist,673
+2013,3,Other or unknown,46
+2013,3,Pedal cyclist,598
+2013,3,Pedestrian,242
+2013,3,Pick-up truck or van occupant,33
+2013,4,Bus occupant,12
+2013,4,Car driver,910
+2013,4,Car passenger,421
+2013,4,Car unknown position,77
+2013,4,Heavy transport driver,28
+2013,4,Heavy transport passenger,2
+2013,4,Heavy transport unknown position,2
+2013,4,Motorcyclist,715
+2013,4,Other or unknown,38
+2013,4,Pedal cyclist,520
+2013,4,Pedestrian,201
+2013,4,Pick-up truck or van occupant,15
+2013,5,Bus occupant,26
+2013,5,Car driver,961
+2013,5,Car passenger,381
+2013,5,Car unknown position,69
+2013,5,Heavy transport driver,34
+2013,5,Heavy transport passenger,5
+2013,5,Heavy transport unknown position,2
+2013,5,Motorcyclist,723
+2013,5,Other or unknown,53
+2013,5,Pedal cyclist,511
+2013,5,Pedestrian,254
+2013,5,Pick-up truck or van occupant,19
+2013,6,Bus occupant,19
+2013,6,Car driver,923
+2013,6,Car passenger,360
+2013,6,Car unknown position,65
+2013,6,Heavy transport driver,32
+2013,6,Heavy transport passenger,3
+2013,6,Heavy transport unknown position,3
+2013,6,Motorcyclist,579
+2013,6,Other or unknown,36
+2013,6,Pedal cyclist,417
+2013,6,Pedestrian,238
+2013,6,Pick-up truck or van occupant,19
+2013,7,Bus occupant,18
+2013,7,Car driver,979
+2013,7,Car passenger,434
+2013,7,Car unknown position,69
+2013,7,Heavy transport driver,35
+2013,7,Heavy transport passenger,7
+2013,7,Heavy transport unknown position,3
+2013,7,Motorcyclist,579
+2013,7,Other or unknown,35
+2013,7,Pedal cyclist,406
+2013,7,Pedestrian,261
+2013,7,Pick-up truck or van occupant,22
+2013,8,Bus occupant,16
+2013,8,Car driver,876
+2013,8,Car passenger,388
+2013,8,Car unknown position,66
+2013,8,Heavy transport driver,41
+2013,8,Heavy transport passenger,1
+2013,8,Heavy transport unknown position,0
+2013,8,Motorcyclist,671
+2013,8,Other or unknown,52
+2013,8,Pedal cyclist,433
+2013,8,Pedestrian,229
+2013,8,Pick-up truck or van occupant,17
+2013,9,Bus occupant,24
+2013,9,Car driver,890
+2013,9,Car passenger,401
+2013,9,Car unknown position,73
+2013,9,Heavy transport driver,36
+2013,9,Heavy transport passenger,0
+2013,9,Heavy transport unknown position,2
+2013,9,Motorcyclist,671
+2013,9,Other or unknown,49
+2013,9,Pedal cyclist,493
+2013,9,Pedestrian,250
+2013,9,Pick-up truck or van occupant,15
+2013,10,Bus occupant,16
+2013,10,Car driver,963
+2013,10,Car passenger,443
+2013,10,Car unknown position,65
+2013,10,Heavy transport driver,41
+2013,10,Heavy transport passenger,3
+2013,10,Heavy transport unknown position,1
+2013,10,Motorcyclist,786
+2013,10,Other or unknown,55
+2013,10,Pedal cyclist,619
+2013,10,Pedestrian,232
+2013,10,Pick-up truck or van occupant,14
+2013,11,Bus occupant,16
+2013,11,Car driver,1004
+2013,11,Car passenger,400
+2013,11,Car unknown position,64
+2013,11,Heavy transport driver,39
+2013,11,Heavy transport passenger,4
+2013,11,Heavy transport unknown position,1
+2013,11,Motorcyclist,709
+2013,11,Other or unknown,43
+2013,11,Pedal cyclist,559
+2013,11,Pedestrian,190
+2013,11,Pick-up truck or van occupant,19
+2013,12,Bus occupant,15
+2013,12,Car driver,917
+2013,12,Car passenger,452
+2013,12,Car unknown position,64
+2013,12,Heavy transport driver,41
+2013,12,Heavy transport passenger,8
+2013,12,Heavy transport unknown position,6
+2013,12,Motorcyclist,745
+2013,12,Other or unknown,49
+2013,12,Pedal cyclist,586
+2013,12,Pedestrian,188
+2013,12,Pick-up truck or van occupant,23
+2014,1,Bus occupant,19
+2014,1,Car driver,845
+2014,1,Car passenger,422
+2014,1,Car unknown position,70
+2014,1,Heavy transport driver,37
+2014,1,Heavy transport passenger,6
+2014,1,Heavy transport unknown position,7
+2014,1,Motorcyclist,733
+2014,1,Other or unknown,37
+2014,1,Pedal cyclist,610
+2014,1,Pedestrian,197
+2014,1,Pick-up truck or van occupant,24
+2014,2,Bus occupant,18
+2014,2,Car driver,812
+2014,2,Car passenger,343
+2014,2,Car unknown position,52
+2014,2,Heavy transport driver,27
+2014,2,Heavy transport passenger,7
+2014,2,Heavy transport unknown position,6
+2014,2,Motorcyclist,673
+2014,2,Other or unknown,40
+2014,2,Pedal cyclist,667
+2014,2,Pedestrian,183
+2014,2,Pick-up truck or van occupant,22
+2014,3,Bus occupant,19
+2014,3,Car driver,952
+2014,3,Car passenger,381
+2014,3,Car unknown position,77
+2014,3,Heavy transport driver,23
+2014,3,Heavy transport passenger,7
+2014,3,Heavy transport unknown position,6
+2014,3,Motorcyclist,717
+2014,3,Other or unknown,44
+2014,3,Pedal cyclist,635
+2014,3,Pedestrian,213
+2014,3,Pick-up truck or van occupant,20
+2014,4,Bus occupant,28
+2014,4,Car driver,920
+2014,4,Car passenger,392
+2014,4,Car unknown position,42
+2014,4,Heavy transport driver,33
+2014,4,Heavy transport passenger,6
+2014,4,Heavy transport unknown position,3
+2014,4,Motorcyclist,703
+2014,4,Other or unknown,43
+2014,4,Pedal cyclist,544
+2014,4,Pedestrian,169
+2014,4,Pick-up truck or van occupant,19
+2014,5,Bus occupant,42
+2014,5,Car driver,929
+2014,5,Car passenger,360
+2014,5,Car unknown position,64
+2014,5,Heavy transport driver,30
+2014,5,Heavy transport passenger,1
+2014,5,Heavy transport unknown position,3
+2014,5,Motorcyclist,724
+2014,5,Other or unknown,47
+2014,5,Pedal cyclist,505
+2014,5,Pedestrian,257
+2014,5,Pick-up truck or van occupant,25
+2014,6,Bus occupant,24
+2014,6,Car driver,962
+2014,6,Car passenger,400
+2014,6,Car unknown position,54
+2014,6,Heavy transport driver,22
+2014,6,Heavy transport passenger,5
+2014,6,Heavy transport unknown position,2
+2014,6,Motorcyclist,624
+2014,6,Other or unknown,39
+2014,6,Pedal cyclist,459
+2014,6,Pedestrian,228
+2014,6,Pick-up truck or van occupant,14
+2014,7,Bus occupant,24
+2014,7,Car driver,931
+2014,7,Car passenger,379
+2014,7,Car unknown position,59
+2014,7,Heavy transport driver,38
+2014,7,Heavy transport passenger,3
+2014,7,Heavy transport unknown position,5
+2014,7,Motorcyclist,654
+2014,7,Other or unknown,44
+2014,7,Pedal cyclist,442
+2014,7,Pedestrian,246
+2014,7,Pick-up truck or van occupant,18
+2014,8,Bus occupant,18
+2014,8,Car driver,911
+2014,8,Car passenger,375
+2014,8,Car unknown position,72
+2014,8,Heavy transport driver,22
+2014,8,Heavy transport passenger,3
+2014,8,Heavy transport unknown position,3
+2014,8,Motorcyclist,658
+2014,8,Other or unknown,40
+2014,8,Pedal cyclist,432
+2014,8,Pedestrian,253
+2014,8,Pick-up truck or van occupant,25
+2014,9,Bus occupant,31
+2014,9,Car driver,871
+2014,9,Car passenger,363
+2014,9,Car unknown position,57
+2014,9,Heavy transport driver,41
+2014,9,Heavy transport passenger,2
+2014,9,Heavy transport unknown position,4
+2014,9,Motorcyclist,667
+2014,9,Other or unknown,42
+2014,9,Pedal cyclist,506
+2014,9,Pedestrian,197
+2014,9,Pick-up truck or van occupant,15
+2014,10,Bus occupant,20
+2014,10,Car driver,975
+2014,10,Car passenger,365
+2014,10,Car unknown position,55
+2014,10,Heavy transport driver,33
+2014,10,Heavy transport passenger,5
+2014,10,Heavy transport unknown position,3
+2014,10,Motorcyclist,778
+2014,10,Other or unknown,51
+2014,10,Pedal cyclist,678
+2014,10,Pedestrian,218
+2014,10,Pick-up truck or van occupant,21
+2014,11,Bus occupant,25
+2014,11,Car driver,990
+2014,11,Car passenger,404
+2014,11,Car unknown position,62
+2014,11,Heavy transport driver,34
+2014,11,Heavy transport passenger,2
+2014,11,Heavy transport unknown position,2
+2014,11,Motorcyclist,736
+2014,11,Other or unknown,53
+2014,11,Pedal cyclist,582
+2014,11,Pedestrian,199
+2014,11,Pick-up truck or van occupant,23
+2014,12,Bus occupant,21
+2014,12,Car driver,1024
+2014,12,Car passenger,441
+2014,12,Car unknown position,64
+2014,12,Heavy transport driver,37
+2014,12,Heavy transport passenger,8
+2014,12,Heavy transport unknown position,4
+2014,12,Motorcyclist,667
+2014,12,Other or unknown,28
+2014,12,Pedal cyclist,576
+2014,12,Pedestrian,194
+2014,12,Pick-up truck or van occupant,13
+2015,1,Bus occupant,9
+2015,1,Car driver,954
+2015,1,Car passenger,451
+2015,1,Car unknown position,80
+2015,1,Heavy transport driver,32
+2015,1,Heavy transport passenger,1
+2015,1,Heavy transport unknown position,1
+2015,1,Motorcyclist,679
+2015,1,Other or unknown,42
+2015,1,Pedal cyclist,614
+2015,1,Pedestrian,173
+2015,1,Pick-up truck or van occupant,23
+2015,2,Bus occupant,17
+2015,2,Car driver,894
+2015,2,Car passenger,370
+2015,2,Car unknown position,42
+2015,2,Heavy transport driver,28
+2015,2,Heavy transport passenger,8
+2015,2,Heavy transport unknown position,1
+2015,2,Motorcyclist,673
+2015,2,Other or unknown,32
+2015,2,Pedal cyclist,581
+2015,2,Pedestrian,184
+2015,2,Pick-up truck or van occupant,17
+2015,3,Bus occupant,20
+2015,3,Car driver,1035
+2015,3,Car passenger,430
+2015,3,Car unknown position,61
+2015,3,Heavy transport driver,44
+2015,3,Heavy transport passenger,5
+2015,3,Heavy transport unknown position,3
+2015,3,Motorcyclist,771
+2015,3,Other or unknown,37
+2015,3,Pedal cyclist,726
+2015,3,Pedestrian,225
+2015,3,Pick-up truck or van occupant,20
+2015,4,Bus occupant,25
+2015,4,Car driver,999
+2015,4,Car passenger,430
+2015,4,Car unknown position,68
+2015,4,Heavy transport driver,35
+2015,4,Heavy transport passenger,6
+2015,4,Heavy transport unknown position,2
+2015,4,Motorcyclist,741
+2015,4,Other or unknown,45
+2015,4,Pedal cyclist,563
+2015,4,Pedestrian,227
+2015,4,Pick-up truck or van occupant,25
+2015,5,Bus occupant,11
+2015,5,Car driver,1049
+2015,5,Car passenger,381
+2015,5,Car unknown position,62
+2015,5,Heavy transport driver,38
+2015,5,Heavy transport passenger,1
+2015,5,Heavy transport unknown position,1
+2015,5,Motorcyclist,618
+2015,5,Other or unknown,35
+2015,5,Pedal cyclist,529
+2015,5,Pedestrian,268
+2015,5,Pick-up truck or van occupant,26
+2015,6,Bus occupant,24
+2015,6,Car driver,987
+2015,6,Car passenger,417
+2015,6,Car unknown position,56
+2015,6,Heavy transport driver,28
+2015,6,Heavy transport passenger,4
+2015,6,Heavy transport unknown position,2
+2015,6,Motorcyclist,677
+2015,6,Other or unknown,30
+2015,6,Pedal cyclist,479
+2015,6,Pedestrian,211
+2015,6,Pick-up truck or van occupant,25
+2015,7,Bus occupant,20
+2015,7,Car driver,1028
+2015,7,Car passenger,401
+2015,7,Car unknown position,68
+2015,7,Heavy transport driver,46
+2015,7,Heavy transport passenger,3
+2015,7,Heavy transport unknown position,5
+2015,7,Motorcyclist,605
+2015,7,Other or unknown,54
+2015,7,Pedal cyclist,391
+2015,7,Pedestrian,227
+2015,7,Pick-up truck or van occupant,14
+2015,8,Bus occupant,20
+2015,8,Car driver,1002
+2015,8,Car passenger,401
+2015,8,Car unknown position,72
+2015,8,Heavy transport driver,35
+2015,8,Heavy transport passenger,4
+2015,8,Heavy transport unknown position,3
+2015,8,Motorcyclist,729
+2015,8,Other or unknown,48
+2015,8,Pedal cyclist,417
+2015,8,Pedestrian,231
+2015,8,Pick-up truck or van occupant,14
+2015,9,Bus occupant,16
+2015,9,Car driver,933
+2015,9,Car passenger,344
+2015,9,Car unknown position,70
+2015,9,Heavy transport driver,33
+2015,9,Heavy transport passenger,2
+2015,9,Heavy transport unknown position,1
+2015,9,Motorcyclist,653
+2015,9,Other or unknown,48
+2015,9,Pedal cyclist,533
+2015,9,Pedestrian,205
+2015,9,Pick-up truck or van occupant,26
+2015,10,Bus occupant,30
+2015,10,Car driver,1074
+2015,10,Car passenger,478
+2015,10,Car unknown position,86
+2015,10,Heavy transport driver,48
+2015,10,Heavy transport passenger,1
+2015,10,Heavy transport unknown position,2
+2015,10,Motorcyclist,717
+2015,10,Other or unknown,41
+2015,10,Pedal cyclist,645
+2015,10,Pedestrian,230
+2015,10,Pick-up truck or van occupant,21
+2015,11,Bus occupant,28
+2015,11,Car driver,1026
+2015,11,Car passenger,364
+2015,11,Car unknown position,71
+2015,11,Heavy transport driver,33
+2015,11,Heavy transport passenger,2
+2015,11,Heavy transport unknown position,1
+2015,11,Motorcyclist,684
+2015,11,Other or unknown,42
+2015,11,Pedal cyclist,607
+2015,11,Pedestrian,212
+2015,11,Pick-up truck or van occupant,21
+2015,12,Bus occupant,26
+2015,12,Car driver,1182
+2015,12,Car passenger,491
+2015,12,Car unknown position,76
+2015,12,Heavy transport driver,44
+2015,12,Heavy transport passenger,6
+2015,12,Heavy transport unknown position,1
+2015,12,Motorcyclist,751
+2015,12,Other or unknown,49
+2015,12,Pedal cyclist,631
+2015,12,Pedestrian,234
+2015,12,Pick-up truck or van occupant,17
+2016,1,Bus occupant,23
+2016,1,Car driver,1023
+2016,1,Car passenger,451
+2016,1,Car unknown position,64
+2016,1,Heavy transport driver,22
+2016,1,Heavy transport unknown position,2
+2016,1,Motorcyclist,636
+2016,1,Other or unknown,40
+2016,1,Pedal cyclist,650
+2016,1,Pedestrian,177
+2016,1,Pick-up truck or van occupant,29
+2016,2,Bus occupant,33
+2016,2,Car driver,982
+2016,2,Car passenger,351
+2016,2,Car unknown position,69
+2016,2,Heavy transport driver,29
+2016,2,Heavy transport passenger,6
+2016,2,Heavy transport unknown position,4
+2016,2,Motorcyclist,697
+2016,2,Other or unknown,47
+2016,2,Pedal cyclist,655
+2016,2,Pedestrian,220
+2016,2,Pick-up truck or van occupant,28
+2016,3,Bus occupant,29
+2016,3,Car driver,1138
+2016,3,Car passenger,449
+2016,3,Car unknown position,69
+2016,3,Heavy transport driver,35
+2016,3,Heavy transport passenger,4
+2016,3,Heavy transport unknown position,3
+2016,3,Motorcyclist,795
+2016,3,Other or unknown,56
+2016,3,Pedal cyclist,764
+2016,3,Pedestrian,193
+2016,3,Pick-up truck or van occupant,23
+2016,4,Bus occupant,23
+2016,4,Car driver,1023
+2016,4,Car passenger,420
+2016,4,Car unknown position,61
+2016,4,Heavy transport driver,22
+2016,4,Heavy transport passenger,5
+2016,4,Heavy transport unknown position,4
+2016,4,Motorcyclist,825
+2016,4,Other or unknown,45
+2016,4,Pedal cyclist,634
+2016,4,Pedestrian,219
+2016,4,Pick-up truck or van occupant,21
+2016,5,Bus occupant,20
+2016,5,Car driver,1155
+2016,5,Car passenger,409
+2016,5,Car unknown position,61
+2016,5,Heavy transport driver,41
+2016,5,Heavy transport passenger,2
+2016,5,Motorcyclist,763
+2016,5,Other or unknown,60
+2016,5,Pedal cyclist,573
+2016,5,Pedestrian,270
+2016,5,Pick-up truck or van occupant,20
+2016,6,Bus occupant,14
+2016,6,Car driver,1087
+2016,6,Car passenger,398
+2016,6,Car unknown position,78
+2016,6,Heavy transport driver,36
+2016,6,Heavy transport passenger,1
+2016,6,Heavy transport unknown position,6
+2016,6,Motorcyclist,642
+2016,6,Other or unknown,54
+2016,6,Pedal cyclist,427
+2016,6,Pedestrian,253
+2016,6,Pick-up truck or van occupant,17
+2016,7,Bus occupant,19
+2016,7,Car driver,1135
+2016,7,Car passenger,420
+2016,7,Car unknown position,75
+2016,7,Heavy transport driver,27
+2016,7,Heavy transport passenger,7
+2016,7,Heavy transport unknown position,2
+2016,7,Motorcyclist,597
+2016,7,Other or unknown,64
+2016,7,Pedal cyclist,435
+2016,7,Pedestrian,307
+2016,7,Pick-up truck or van occupant,29
+2016,8,Bus occupant,25
+2016,8,Car driver,1123
+2016,8,Car passenger,403
+2016,8,Car unknown position,73
+2016,8,Heavy transport driver,39
+2016,8,Heavy transport passenger,4
+2016,8,Heavy transport unknown position,2
+2016,8,Motorcyclist,693
+2016,8,Other or unknown,54
+2016,8,Pedal cyclist,504
+2016,8,Pedestrian,243
+2016,8,Pick-up truck or van occupant,21
+2016,9,Bus occupant,27
+2016,9,Car driver,1042
+2016,9,Car passenger,397
+2016,9,Car unknown position,56
+2016,9,Heavy transport driver,22
+2016,9,Heavy transport passenger,2
+2016,9,Heavy transport unknown position,2
+2016,9,Motorcyclist,635
+2016,9,Other or unknown,55
+2016,9,Pedal cyclist,470
+2016,9,Pedestrian,211
+2016,9,Pick-up truck or van occupant,27
+2016,10,Bus occupant,30
+2016,10,Car driver,1128
+2016,10,Car passenger,493
+2016,10,Car unknown position,69
+2016,10,Heavy transport driver,41
+2016,10,Heavy transport passenger,4
+2016,10,Heavy transport unknown position,2
+2016,10,Motorcyclist,720
+2016,10,Other or unknown,54
+2016,10,Pedal cyclist,568
+2016,10,Pedestrian,229
+2016,10,Pick-up truck or van occupant,26
+2016,11,Bus occupant,26
+2016,11,Car driver,1134
+2016,11,Car passenger,421
+2016,11,Car unknown position,60
+2016,11,Heavy transport driver,46
+2016,11,Heavy transport passenger,4
+2016,11,Heavy transport unknown position,7
+2016,11,Motorcyclist,760
+2016,11,Other or unknown,44
+2016,11,Pedal cyclist,585
+2016,11,Pedestrian,209
+2016,11,Pick-up truck or van occupant,28
+2016,12,Bus occupant,14
+2016,12,Car driver,1224
+2016,12,Car passenger,491
+2016,12,Car unknown position,73
+2016,12,Heavy transport driver,43
+2016,12,Heavy transport passenger,3
+2016,12,Heavy transport unknown position,5
+2016,12,Motorcyclist,763
+2016,12,Other or unknown,47
+2016,12,Pedal cyclist,639
+2016,12,Pedestrian,212
+2016,12,Pick-up truck or van occupant,29
+2017,1,Bus occupant,22
+2017,1,Car driver,955
+2017,1,Car passenger,399
+2017,1,Car unknown position,71
+2017,1,Heavy transport driver,25
+2017,1,Heavy transport passenger,3
+2017,1,Heavy transport unknown position,2
+2017,1,Motorcyclist,747
+2017,1,Other or unknown,47
+2017,1,Pedal cyclist,636
+2017,1,Pedestrian,166
+2017,1,Pick-up truck or van occupant,22
+2017,2,Bus occupant,22
+2017,2,Car driver,1082
+2017,2,Car passenger,377
+2017,2,Car unknown position,55
+2017,2,Heavy transport driver,26
+2017,2,Heavy transport passenger,6
+2017,2,Heavy transport unknown position,3
+2017,2,Motorcyclist,721
+2017,2,Other or unknown,46
+2017,2,Pedal cyclist,617
+2017,2,Pedestrian,181
+2017,2,Pick-up truck or van occupant,27
+2017,3,Bus occupant,20
+2017,3,Car driver,1214
+2017,3,Car passenger,467
+2017,3,Car unknown position,80
+2017,3,Heavy transport driver,42
+2017,3,Heavy transport passenger,4
+2017,3,Heavy transport unknown position,3
+2017,3,Motorcyclist,767
+2017,3,Other or unknown,51
+2017,3,Pedal cyclist,709
+2017,3,Pedestrian,252
+2017,3,Pick-up truck or van occupant,20
+2017,4,Bus occupant,17
+2017,4,Car driver,1046
+2017,4,Car passenger,517
+2017,4,Car unknown position,52
+2017,4,Heavy transport driver,34
+2017,4,Heavy transport passenger,4
+2017,4,Heavy transport unknown position,2
+2017,4,Motorcyclist,778
+2017,4,Other or unknown,48
+2017,4,Pedal cyclist,619
+2017,4,Pedestrian,227
+2017,4,Pick-up truck or van occupant,20
+2017,5,Bus occupant,22
+2017,5,Car driver,1127
+2017,5,Car passenger,407
+2017,5,Car unknown position,73
+2017,5,Heavy transport driver,47
+2017,5,Heavy transport passenger,8
+2017,5,Heavy transport unknown position,6
+2017,5,Motorcyclist,775
+2017,5,Other or unknown,63
+2017,5,Pedal cyclist,569
+2017,5,Pedestrian,254
+2017,5,Pick-up truck or van occupant,22
+2017,6,Bus occupant,30
+2017,6,Car driver,1051
+2017,6,Car passenger,363
+2017,6,Car unknown position,63
+2017,6,Heavy transport driver,45
+2017,6,Heavy transport passenger,4
+2017,6,Heavy transport unknown position,4
+2017,6,Motorcyclist,727
+2017,6,Other or unknown,48
+2017,6,Pedal cyclist,510
+2017,6,Pedestrian,269
+2017,6,Pick-up truck or van occupant,22
+2017,7,Bus occupant,22
+2017,7,Car driver,1109
+2017,7,Car passenger,413
+2017,7,Car unknown position,65
+2017,7,Heavy transport driver,32
+2017,7,Heavy transport passenger,1
+2017,7,Heavy transport unknown position,4
+2017,7,Motorcyclist,702
+2017,7,Other or unknown,51
+2017,7,Pedal cyclist,517
+2017,7,Pedestrian,269
+2017,7,Pick-up truck or van occupant,19
+2017,8,Bus occupant,12
+2017,8,Car driver,1071
+2017,8,Car passenger,367
+2017,8,Car unknown position,64
+2017,8,Heavy transport driver,40
+2017,8,Heavy transport passenger,3
+2017,8,Heavy transport unknown position,1
+2017,8,Motorcyclist,689
+2017,8,Other or unknown,54
+2017,8,Pedal cyclist,497
+2017,8,Pedestrian,231
+2017,8,Pick-up truck or van occupant,19
+2017,9,Bus occupant,15
+2017,9,Car driver,1093
+2017,9,Car passenger,423
+2017,9,Car unknown position,66
+2017,9,Heavy transport driver,45
+2017,9,Heavy transport passenger,5
+2017,9,Heavy transport unknown position,3
+2017,9,Motorcyclist,697
+2017,9,Other or unknown,36
+2017,9,Pedal cyclist,521
+2017,9,Pedestrian,218
+2017,9,Pick-up truck or van occupant,26
+2017,10,Bus occupant,33
+2017,10,Car driver,1141
+2017,10,Car passenger,423
+2017,10,Car unknown position,69
+2017,10,Heavy transport driver,30
+2017,10,Heavy transport passenger,1
+2017,10,Motorcyclist,727
+2017,10,Other or unknown,54
+2017,10,Pedal cyclist,643
+2017,10,Pedestrian,222
+2017,10,Pick-up truck or van occupant,27
+2017,11,Bus occupant,25
+2017,11,Car driver,1204
+2017,11,Car passenger,419
+2017,11,Car unknown position,62
+2017,11,Heavy transport driver,48
+2017,11,Heavy transport passenger,6
+2017,11,Heavy transport unknown position,2
+2017,11,Motorcyclist,701
+2017,11,Other or unknown,50
+2017,11,Pedal cyclist,639
+2017,11,Pedestrian,217
+2017,11,Pick-up truck or van occupant,21
+2017,12,Bus occupant,25
+2017,12,Car driver,1174
+2017,12,Car passenger,527
+2017,12,Car unknown position,57
+2017,12,Heavy transport driver,33
+2017,12,Heavy transport passenger,4
+2017,12,Heavy transport unknown position,2
+2017,12,Motorcyclist,708
+2017,12,Other or unknown,52
+2017,12,Pedal cyclist,599
+2017,12,Pedestrian,208
+2017,12,Pick-up truck or van occupant,26
+2018,1,Bus occupant,12
+2018,1,Car driver,1004
+2018,1,Car passenger,450
+2018,1,Car unknown position,70
+2018,1,Heavy transport driver,43
+2018,1,Heavy transport passenger,5
+2018,1,Heavy transport unknown position,6
+2018,1,Motorcyclist,637
+2018,1,Other or unknown,37
+2018,1,Pedal cyclist,623
+2018,1,Pedestrian,165
+2018,1,Pick-up truck or van occupant,17
+2018,2,Bus occupant,13
+2018,2,Car driver,1075
+2018,2,Car passenger,370
+2018,2,Car unknown position,75
+2018,2,Heavy transport driver,25
+2018,2,Heavy transport passenger,7
+2018,2,Heavy transport unknown position,0
+2018,2,Motorcyclist,697
+2018,2,Other or unknown,46
+2018,2,Pedal cyclist,617
+2018,2,Pedestrian,195
+2018,2,Pick-up truck or van occupant,23
+2018,3,Bus occupant,20
+2018,3,Car driver,1191
+2018,3,Car passenger,421
+2018,3,Car unknown position,63
+2018,3,Heavy transport driver,43
+2018,3,Heavy transport passenger,6
+2018,3,Heavy transport unknown position,6
+2018,3,Motorcyclist,760
+2018,3,Other or unknown,57
+2018,3,Pedal cyclist,712
+2018,3,Pedestrian,237
+2018,3,Pick-up truck or van occupant,32
+2018,4,Bus occupant,16
+2018,4,Car driver,1040
+2018,4,Car passenger,466
+2018,4,Car unknown position,84
+2018,4,Heavy transport driver,37
+2018,4,Heavy transport passenger,4
+2018,4,Heavy transport unknown position,4
+2018,4,Motorcyclist,843
+2018,4,Other or unknown,49
+2018,4,Pedal cyclist,668
+2018,4,Pedestrian,228
+2018,4,Pick-up truck or van occupant,26
+2018,5,Bus occupant,25
+2018,5,Car driver,1157
+2018,5,Car passenger,403
+2018,5,Car unknown position,72
+2018,5,Heavy transport driver,34
+2018,5,Heavy transport passenger,5
+2018,5,Heavy transport unknown position,3
+2018,5,Motorcyclist,759
+2018,5,Other or unknown,62
+2018,5,Pedal cyclist,578
+2018,5,Pedestrian,256
+2018,5,Pick-up truck or van occupant,29
+2018,6,Bus occupant,25
+2018,6,Car driver,1180
+2018,6,Car passenger,409
+2018,6,Car unknown position,66
+2018,6,Heavy transport driver,39
+2018,6,Heavy transport passenger,6
+2018,6,Heavy transport unknown position,4
+2018,6,Motorcyclist,651
+2018,6,Other or unknown,55
+2018,6,Pedal cyclist,469
+2018,6,Pedestrian,273
+2018,6,Pick-up truck or van occupant,29
+2018,7,Bus occupant,30
+2018,7,Car driver,1195
+2018,7,Car passenger,463
+2018,7,Car unknown position,65
+2018,7,Heavy transport driver,29
+2018,7,Heavy transport passenger,6
+2018,7,Heavy transport unknown position,4
+2018,7,Motorcyclist,605
+2018,7,Other or unknown,41
+2018,7,Pedal cyclist,456
+2018,7,Pedestrian,217
+2018,7,Pick-up truck or van occupant,20
+2018,8,Bus occupant,28
+2018,8,Car driver,1123
+2018,8,Car passenger,398
+2018,8,Car unknown position,83
+2018,8,Heavy transport driver,39
+2018,8,Heavy transport passenger,7
+2018,8,Heavy transport unknown position,4
+2018,8,Motorcyclist,751
+2018,8,Other or unknown,56
+2018,8,Pedal cyclist,487
+2018,8,Pedestrian,261
+2018,8,Pick-up truck or van occupant,19
+2018,9,Bus occupant,9
+2018,9,Car driver,1100
+2018,9,Car passenger,459
+2018,9,Car unknown position,82
+2018,9,Heavy transport driver,39
+2018,9,Heavy transport passenger,5
+2018,9,Heavy transport unknown position,2
+2018,9,Motorcyclist,710
+2018,9,Other or unknown,46
+2018,9,Pedal cyclist,530
+2018,9,Pedestrian,214
+2018,9,Pick-up truck or van occupant,14
+2018,10,Bus occupant,33
+2018,10,Car driver,1186
+2018,10,Car passenger,483
+2018,10,Car unknown position,58
+2018,10,Heavy transport driver,33
+2018,10,Heavy transport passenger,6
+2018,10,Heavy transport unknown position,5
+2018,10,Motorcyclist,711
+2018,10,Other or unknown,49
+2018,10,Pedal cyclist,615
+2018,10,Pedestrian,198
+2018,10,Pick-up truck or van occupant,22
+2018,11,Bus occupant,15
+2018,11,Car driver,1153
+2018,11,Car passenger,406
+2018,11,Car unknown position,79
+2018,11,Heavy transport driver,46
+2018,11,Heavy transport passenger,4
+2018,11,Heavy transport unknown position,1
+2018,11,Motorcyclist,774
+2018,11,Other or unknown,49
+2018,11,Pedal cyclist,629
+2018,11,Pedestrian,214
+2018,11,Pick-up truck or van occupant,23
+2018,12,Bus occupant,21
+2018,12,Car driver,1191
+2018,12,Car passenger,478
+2018,12,Car unknown position,67
+2018,12,Heavy transport driver,30
+2018,12,Heavy transport passenger,8
+2018,12,Heavy transport unknown position,8
+2018,12,Motorcyclist,725
+2018,12,Other or unknown,56
+2018,12,Pedal cyclist,575
+2018,12,Pedestrian,203
+2018,12,Pick-up truck or van occupant,25
+2019,1,Bus occupant,18
+2019,1,Car driver,1008
+2019,1,Car passenger,404
+2019,1,Car unknown position,76
+2019,1,Heavy transport driver,35
+2019,1,Heavy transport passenger,8
+2019,1,Heavy transport unknown position,7
+2019,1,Motorcyclist,752
+2019,1,Other or unknown,48
+2019,1,Pedal cyclist,696
+2019,1,Pedestrian,169
+2019,1,Pick-up truck or van occupant,15
+2019,2,Bus occupant,16
+2019,2,Car driver,1072
+2019,2,Car passenger,397
+2019,2,Car unknown position,55
+2019,2,Heavy transport driver,28
+2019,2,Heavy transport passenger,4
+2019,2,Heavy transport unknown position,3
+2019,2,Motorcyclist,691
+2019,2,Other or unknown,36
+2019,2,Pedal cyclist,699
+2019,2,Pedestrian,187
+2019,2,Pick-up truck or van occupant,20
+2019,3,Bus occupant,22
+2019,3,Car driver,1191
+2019,3,Car passenger,457
+2019,3,Car unknown position,57
+2019,3,Heavy transport driver,33
+2019,3,Heavy transport passenger,6
+2019,3,Heavy transport unknown position,1
+2019,3,Motorcyclist,765
+2019,3,Other or unknown,59
+2019,3,Pedal cyclist,720
+2019,3,Pedestrian,243
+2019,3,Pick-up truck or van occupant,22
+2019,4,Bus occupant,21
+2019,4,Car driver,1117
+2019,4,Car passenger,431
+2019,4,Car unknown position,76
+2019,4,Heavy transport driver,37
+2019,4,Heavy transport passenger,3
+2019,4,Heavy transport unknown position,3
+2019,4,Motorcyclist,805
+2019,4,Other or unknown,44
+2019,4,Pedal cyclist,667
+2019,4,Pedestrian,264
+2019,4,Pick-up truck or van occupant,20
+2019,5,Bus occupant,24
+2019,5,Car driver,1179
+2019,5,Car passenger,369
+2019,5,Car unknown position,57
+2019,5,Heavy transport driver,56
+2019,5,Heavy transport passenger,3
+2019,5,Heavy transport unknown position,4
+2019,5,Motorcyclist,765
+2019,5,Other or unknown,48
+2019,5,Pedal cyclist,592
+2019,5,Pedestrian,236
+2019,5,Pick-up truck or van occupant,22
+2019,6,Bus occupant,17
+2019,6,Car driver,1106
+2019,6,Car passenger,385
+2019,6,Car unknown position,78
+2019,6,Heavy transport driver,27
+2019,6,Heavy transport passenger,5
+2019,6,Heavy transport unknown position,2
+2019,6,Motorcyclist,690
+2019,6,Other or unknown,53
+2019,6,Pedal cyclist,453
+2019,6,Pedestrian,281
+2019,6,Pick-up truck or van occupant,19
+2019,7,Bus occupant,24
+2019,7,Car driver,1145
+2019,7,Car passenger,463
+2019,7,Car unknown position,63
+2019,7,Heavy transport driver,32
+2019,7,Heavy transport passenger,4
+2019,7,Heavy transport unknown position,2
+2019,7,Motorcyclist,699
+2019,7,Other or unknown,58
+2019,7,Pedal cyclist,484
+2019,7,Pedestrian,269
+2019,7,Pick-up truck or van occupant,24
+2019,8,Bus occupant,18
+2019,8,Car driver,1131
+2019,8,Car passenger,400
+2019,8,Car unknown position,60
+2019,8,Heavy transport driver,26
+2019,8,Heavy transport passenger,5
+2019,8,Heavy transport unknown position,4
+2019,8,Motorcyclist,707
+2019,8,Other or unknown,55
+2019,8,Pedal cyclist,476
+2019,8,Pedestrian,246
+2019,8,Pick-up truck or van occupant,23
+2019,9,Bus occupant,23
+2019,9,Car driver,1082
+2019,9,Car passenger,394
+2019,9,Car unknown position,69
+2019,9,Heavy transport driver,33
+2019,9,Heavy transport passenger,3
+2019,9,Heavy transport unknown position,3
+2019,9,Motorcyclist,763
+2019,9,Other or unknown,58
+2019,9,Pedal cyclist,549
+2019,9,Pedestrian,202
+2019,9,Pick-up truck or van occupant,20
+2019,10,Bus occupant,28
+2019,10,Car driver,1174
+2019,10,Car passenger,500
+2019,10,Car unknown position,71
+2019,10,Heavy transport driver,31
+2019,10,Heavy transport passenger,1
+2019,10,Heavy transport unknown position,4
+2019,10,Motorcyclist,752
+2019,10,Other or unknown,54
+2019,10,Pedal cyclist,675
+2019,10,Pedestrian,228
+2019,10,Pick-up truck or van occupant,20
+2019,11,Bus occupant,28
+2019,11,Car driver,1098
+2019,11,Car passenger,379
+2019,11,Car unknown position,78
+2019,11,Heavy transport driver,46
+2019,11,Heavy transport passenger,5
+2019,11,Heavy transport unknown position,7
+2019,11,Motorcyclist,771
+2019,11,Other or unknown,53
+2019,11,Pedal cyclist,692
+2019,11,Pedestrian,199
+2019,11,Pick-up truck or van occupant,32
+2019,12,Bus occupant,16
+2019,12,Car driver,1179
+2019,12,Car passenger,410
+2019,12,Car unknown position,57
+2019,12,Heavy transport driver,41
+2019,12,Heavy transport passenger,5
+2019,12,Heavy transport unknown position,7
+2019,12,Motorcyclist,764
+2019,12,Other or unknown,54
+2019,12,Pedal cyclist,599
+2019,12,Pedestrian,189
+2019,12,Pick-up truck or van occupant,23
+2020,1,Bus occupant,23
+2020,1,Car driver,988
+2020,1,Car passenger,398
+2020,1,Car unknown position,67
+2020,1,Heavy transport driver,28
+2020,1,Heavy transport passenger,8
+2020,1,Heavy transport unknown position,4
+2020,1,Motorcyclist,684
+2020,1,Other or unknown,56
+2020,1,Pedal cyclist,598
+2020,1,Pedestrian,153
+2020,1,Pick-up truck or van occupant,29
+2020,2,Bus occupant,13
+2020,2,Car driver,1100
+2020,2,Car passenger,382
+2020,2,Car unknown position,72
+2020,2,Heavy transport driver,31
+2020,2,Heavy transport passenger,4
+2020,2,Heavy transport unknown position,2
+2020,2,Motorcyclist,661
+2020,2,Other or unknown,50
+2020,2,Pedal cyclist,655
+2020,2,Pedestrian,198
+2020,2,Pick-up truck or van occupant,26
+2020,3,Bus occupant,22
+2020,3,Car driver,1018
+2020,3,Car passenger,350
+2020,3,Car unknown position,78
+2020,3,Heavy transport driver,36
+2020,3,Heavy transport passenger,2
+2020,3,Heavy transport unknown position,2
+2020,3,Motorcyclist,757
+2020,3,Other or unknown,55
+2020,3,Pedal cyclist,654
+2020,3,Pedestrian,205
+2020,3,Pick-up truck or van occupant,26
+2020,4,Bus occupant,8
+2020,4,Car driver,638
+2020,4,Car passenger,204
+2020,4,Car unknown position,37
+2020,4,Heavy transport driver,34
+2020,4,Heavy transport passenger,4
+2020,4,Heavy transport unknown position,2
+2020,4,Motorcyclist,503
+2020,4,Other or unknown,30
+2020,4,Pedal cyclist,773
+2020,4,Pedestrian,106
+2020,4,Pick-up truck or van occupant,18
+2020,5,Bus occupant,10
+2020,5,Car driver,827
+2020,5,Car passenger,283
+2020,5,Car unknown position,58
+2020,5,Heavy transport driver,43
+2020,5,Heavy transport passenger,5
+2020,5,Heavy transport unknown position,4
+2020,5,Motorcyclist,719
+2020,5,Other or unknown,41
+2020,5,Pedal cyclist,740
+2020,5,Pedestrian,149
+2020,5,Pick-up truck or van occupant,21
+2020,6,Bus occupant,9
+2020,6,Car driver,967
+2020,6,Car passenger,345
+2020,6,Car unknown position,61
+2020,6,Heavy transport driver,15
+2020,6,Heavy transport passenger,4
+2020,6,Heavy transport unknown position,3
+2020,6,Motorcyclist,679
+2020,6,Other or unknown,60
+2020,6,Pedal cyclist,682
+2020,6,Pedestrian,177
+2020,6,Pick-up truck or van occupant,22
+2020,7,Bus occupant,13
+2020,7,Car driver,1132
+2020,7,Car passenger,386
+2020,7,Car unknown position,66
+2020,7,Heavy transport driver,41
+2020,7,Heavy transport passenger,3
+2020,7,Heavy transport unknown position,4
+2020,7,Motorcyclist,711
+2020,7,Other or unknown,62
+2020,7,Pedal cyclist,591
+2020,7,Pedestrian,199
+2020,7,Pick-up truck or van occupant,31
+2020,8,Bus occupant,11
+2020,8,Car driver,1014
+2020,8,Car passenger,380
+2020,8,Car unknown position,61
+2020,8,Heavy transport driver,26
+2020,8,Heavy transport passenger,3
+2020,8,Heavy transport unknown position,2
+2020,8,Motorcyclist,720
+2020,8,Other or unknown,41
+2020,8,Pedal cyclist,596
+2020,8,Pedestrian,170
+2020,8,Pick-up truck or van occupant,24
+2020,9,Bus occupant,16
+2020,9,Car driver,1034
+2020,9,Car passenger,372
+2020,9,Car unknown position,60
+2020,9,Heavy transport driver,32
+2020,9,Heavy transport passenger,3
+2020,9,Heavy transport unknown position,3
+2020,9,Motorcyclist,799
+2020,9,Other or unknown,36
+2020,9,Pedal cyclist,750
+2020,9,Pedestrian,166
+2020,9,Pick-up truck or van occupant,25
+2020,10,Bus occupant,18
+2020,10,Car driver,1113
+2020,10,Car passenger,369
+2020,10,Car unknown position,50
+2020,10,Heavy transport driver,36
+2020,10,Heavy transport passenger,5
+2020,10,Heavy transport unknown position,8
+2020,10,Motorcyclist,812
+2020,10,Other or unknown,54
+2020,10,Pedal cyclist,830
+2020,10,Pedestrian,162
+2020,10,Pick-up truck or van occupant,29
+2020,11,Bus occupant,12
+2020,11,Car driver,1127
+2020,11,Car passenger,415
+2020,11,Car unknown position,64
+2020,11,Heavy transport driver,53
+2020,11,Heavy transport passenger,4
+2020,11,Heavy transport unknown position,2
+2020,11,Motorcyclist,861
+2020,11,Other or unknown,47
+2020,11,Pedal cyclist,746
+2020,11,Pedestrian,217
+2020,11,Pick-up truck or van occupant,24
+2020,12,Bus occupant,18
+2020,12,Car driver,1259
+2020,12,Car passenger,460
+2020,12,Car unknown position,57
+2020,12,Heavy transport driver,37
+2020,12,Heavy transport passenger,3
+2020,12,Heavy transport unknown position,4
+2020,12,Motorcyclist,778
+2020,12,Other or unknown,50
+2020,12,Pedal cyclist,717
+2020,12,Pedestrian,201
+2020,12,Pick-up truck or van occupant,25
+2021,1,Bus occupant,12
+2021,1,Car driver,1074
+2021,1,Car passenger,484
+2021,1,Car unknown position,51
+2021,1,Heavy transport driver,23
+2021,1,Heavy transport passenger,5
+2021,1,Heavy transport unknown position,2
+2021,1,Motorcyclist,800
+2021,1,Other or unknown,40
+2021,1,Pedal cyclist,778
+2021,1,Pedestrian,142
+2021,1,Pick-up truck or van occupant,31
+2021,2,Bus occupant,6
+2021,2,Car driver,1054
+2021,2,Car passenger,355
+2021,2,Car unknown position,57
+2021,2,Heavy transport driver,41
+2021,2,Heavy transport passenger,6
+2021,2,Heavy transport unknown position,2
+2021,2,Motorcyclist,743
+2021,2,Other or unknown,52
+2021,2,Pedal cyclist,691
+2021,2,Pedestrian,170
+2021,2,Pick-up truck or van occupant,22
+2021,3,Bus occupant,28
+2021,3,Car driver,1314
+2021,3,Car passenger,429
+2021,3,Car unknown position,79
+2021,3,Heavy transport driver,28
+2021,3,Heavy transport passenger,5
+2021,3,Motorcyclist,836
+2021,3,Other or unknown,54
+2021,3,Pedal cyclist,793
+2021,3,Pedestrian,251
+2021,3,Pick-up truck or van occupant,44
+2021,4,Bus occupant,9
+2021,4,Car driver,1173
+2021,4,Car passenger,401
+2021,4,Car unknown position,65
+2021,4,Heavy transport driver,23
+2021,4,Heavy transport passenger,6
+2021,4,Heavy transport unknown position,1
+2021,4,Motorcyclist,779
+2021,4,Other or unknown,59
+2021,4,Pedal cyclist,700
+2021,4,Pedestrian,200
+2021,4,Pick-up truck or van occupant,36
+2021,5,Bus occupant,15
+2021,5,Car driver,1216
+2021,5,Car passenger,396
+2021,5,Car unknown position,66
+2021,5,Heavy transport driver,36
+2021,5,Heavy transport passenger,3
+2021,5,Heavy transport unknown position,3
+2021,5,Motorcyclist,837
+2021,5,Other or unknown,66
+2021,5,Pedal cyclist,635
+2021,5,Pedestrian,234
+2021,5,Pick-up truck or van occupant,25
+2021,6,Bus occupant,23
+2021,6,Car driver,1141
+2021,6,Car passenger,357
+2021,6,Car unknown position,60
+2021,6,Heavy transport driver,40
+2021,6,Heavy transport passenger,3
+2021,6,Heavy transport unknown position,6
+2021,6,Motorcyclist,718
+2021,6,Other or unknown,57
+2021,6,Pedal cyclist,521
+2021,6,Pedestrian,224
+2021,6,Pick-up truck or van occupant,26
+2021,7,Bus occupant,14
+2021,7,Car driver,1036
+2021,7,Car passenger,381
+2021,7,Car unknown position,86
+2021,7,Heavy transport driver,30
+2021,7,Heavy transport passenger,4
+2021,7,Heavy transport unknown position,7
+2021,7,Motorcyclist,672
+2021,7,Other or unknown,35
+2021,7,Pedal cyclist,530
+2021,7,Pedestrian,176
+2021,7,Pick-up truck or van occupant,31
+2021,8,Bus occupant,15
+2021,8,Car driver,959
+2021,8,Car passenger,293
+2021,8,Car unknown position,49
+2021,8,Heavy transport driver,32
+2021,8,Heavy transport passenger,4
+2021,8,Heavy transport unknown position,5
+2021,8,Motorcyclist,657
+2021,8,Other or unknown,44
+2021,8,Pedal cyclist,670
+2021,8,Pedestrian,180
+2021,8,Pick-up truck or van occupant,20
+2021,9,Bus occupant,11
+2021,9,Car driver,945
+2021,9,Car passenger,288
+2021,9,Car unknown position,38
+2021,9,Heavy transport driver,37
+2021,9,Heavy transport passenger,5
+2021,9,Heavy transport unknown position,1
+2021,9,Motorcyclist,685
+2021,9,Other or unknown,51
+2021,9,Pedal cyclist,735
+2021,9,Pedestrian,187
+2021,9,Pick-up truck or van occupant,20
+2021,10,Bus occupant,14
+2021,10,Car driver,1040
+2021,10,Car passenger,319
+2021,10,Car unknown position,42
+2021,10,Heavy transport driver,38
+2021,10,Heavy transport passenger,3
+2021,10,Heavy transport unknown position,4
+2021,10,Motorcyclist,678
+2021,10,Other or unknown,52
+2021,10,Pedal cyclist,763
+2021,10,Pedestrian,175
+2021,10,Pick-up truck or van occupant,23
+2021,11,Bus occupant,9
+2021,11,Car driver,1135
+2021,11,Car passenger,364
+2021,11,Car unknown position,69
+2021,11,Heavy transport driver,24
+2021,11,Heavy transport passenger,7
+2021,11,Heavy transport unknown position,3
+2021,11,Motorcyclist,705
+2021,11,Other or unknown,40
+2021,11,Pedal cyclist,640
+2021,11,Pedestrian,206
+2021,11,Pick-up truck or van occupant,23
+2021,12,Bus occupant,13
+2021,12,Car driver,1240
+2021,12,Car passenger,428
+2021,12,Car unknown position,55
+2021,12,Heavy transport driver,31
+2021,12,Heavy transport passenger,5
+2021,12,Heavy transport unknown position,2
+2021,12,Motorcyclist,773
+2021,12,Other or unknown,51
+2021,12,Pedal cyclist,707
+2021,12,Pedestrian,189
+2021,12,Pick-up truck or van occupant,40
