@@ -66,6 +66,7 @@ The first data pipeline and website are available, and Stand Up 1 has taken plac
 - [EDA findings, data-quality limits and reproduction commands](docs/EDA_AND_STORY.md)
 - [Revised storyboard, chart alternatives and interaction plan](docs/STORYBOARD.md)
 - [Stand Up 2 design preview](docs/design/preview.html) - open directly for the embedded sketches
+- [Stand Up 2 materials for Huy on 23 November](docs/StandUp_02/README.md)
 - [What to prepare and where to review it](docs/STANDUP_2_REVIEW.md)
 - [Design Book Sections 3.1-3.3](docs/design_book/03_design_draft.md)
 - [Coding plan: inputs, shared state, modules and acceptance](docs/CODING_PLAN.md)

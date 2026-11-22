@@ -2,7 +2,7 @@
 
 Updated: 22 November 2026. Team: Gr_01, Nguyen Huyen Minh Nhat and Le Tuan Huy.
 
-Stand Up 2 explains our proposed design and coding plan. Stand Up 3 demonstrates the new chart code, interactions and validation. The talk must be under three minutes, with any web demonstration included. The extended time used for Stand Up 1 is not assumed for these presentations.
+Stand Up 2 explains our proposed design and coding plan. Stand Up 3 demonstrates the new chart code, interactions and validation. On 22 November, the team confirmed the lecturer's clarification: both talks should run longer than three minutes. Our proposed rehearsal target is 4:30, generally 4-5 minutes before Q&A. This replaces the original PDF's shorter timing; it is not a new official maximum.
 
 ## What is ready, and where to inspect it
 
@@ -27,19 +27,19 @@ py -m http.server 8000
 
 This differs from the website-only README command using `--directory web`: that server cannot show `docs/design`.
 
-## Presentation route: three slides, target 2:40
+## Presentation route: Huy, 23 November, target 4:30
 
-This is a speaking outline with pointer cues, not a completed slide deck. The eventual slides should use these exact sketches and verified figures.
+The [preparation pack](StandUp_02/README.md) contains the editable five-slide deck, [Markdown script and pointer cues](StandUp_02/Gr_01_StandUp2_Huy_Notes.md), merged Design Book source and the KNIME packaging/check command. The [download and CMD guide](StandUp_02/Gr_01_StandUp2_Guide.md) explains the raw files and local commit steps.
 
-| Time | What to say | Point to / show |
+| Slide | Time target | Focus |
 | --- | --- | --- |
-| 0:00-0:40 / Slide 1 | "After the first stand-up, we explored differences hidden by the national total. In 2019-2020 the national count fell 4.8%, but cyclist hospitalisations rose 14.1%. Our revised story asks whether one total can represent every road-user group." | Point to the national figure first, then the cyclist figure. End on the revised question. |
-| 0:40-1:15 / Slide 2 | "The dumbbell compares two years on the same count axis. Circle and diamond identify the years. The selected row gets an outline so colour keeps its meaning. We retain all 12 groups and exact values; small changes are harder to read on this scale." | Point to the year legend, the two cyclist endpoints and its change label. Briefly indicate the grouped-bar alternative. |
-| 1:15-1:45 / Slide 2 | "For the 2021 profile, the event view separates non-collision from unspecified records. The age heatmap compares percentages within each road-user total. These are composition views, not risk estimates, and they do not explain the earlier increase." | Point to 3,705 / 8,163 on the Sankey, then the 41.6% cyclist/40-64 heatmap cell and legend. Show the 2021 label. |
-| 1:45-2:10 / Slide 3 | "The layout separates comparison years from the profile year. Selecting a road user links the profiles, while count and percentage modes update the legend and table. Mobile uses selected-group bars with exact tables." | Point to the desktop detail-control band, then the mobile chart block. |
-| 2:10-2:40 / Slide 3 | "Next we will reconcile the new KNIME counterparty export, build the comparison and age views, then test the event design. Our main design question is whether a Sankey helps more than a matrix. We will use task observations to choose and document changes for Week 12." | Point to the implementation sequence and the Sankey/matrix decision. Finish with the Week 12 evidence to collect. |
+| 1 | 0:00-0:45 | Huy's actual web/chart and KNIME practice, feedback and the national/cyclist contrast |
+| 2 | 0:45-1:30 | Data exploration and checks against published control totals |
+| 3 | 1:30-2:45 | Dumbbell and age heatmap sketches, encodings, denominator and alternatives |
+| 4 | 2:45-3:30 | Recorded event classifications and the Sankey/matrix decision |
+| 5 | 3:30-4:30 | Website reading order, separate year state, coding sequence and Week 12 scope |
 
-An optional 10-15 second opening of the design review page must replace equivalent slide time, not extend the talk. Keep screenshots ready in case switching windows fails. Rehearse with a timer and trim rather than speed up. The presenter must explain the choices in their own words.
+The main script contains 470 English words. All five slides belong to the talk. Pauses, pointing and slide changes determine the actual duration; Huy still needs to rehearse aloud. Detailed Q&A stays in the Markdown notes. The full matrix alternative remains in the Design Book. Selected rows keep slide figures legible; the full design retains all 12 road users. An optional 20-30 second existing-web demonstration after slide 5 brings the target to about five minutes. It should show one selection and its result, not every control.
 
 ## Q&A rehearsal
 
@@ -56,11 +56,13 @@ An optional 10-15 second opening of the design review page must replace equivale
 
 ## Before the actual submission
 
-- [ ] Agree which member presents Week 11, which presents Week 12 and the tutorial dates.
+- [x] Huy presents Week 11 on 23 November. Confirm the Week 12 date for the other member.
 - [ ] Review the design in both members' own words and record actual individual contributions.
-- [ ] Prepare the three-slide PPT using the reviewed sketches and a timed script.
-- [ ] Merge the design drafts, updated story/purpose and EDA into the current Design Book PDF. The older PDF does not yet include this pack.
-- [ ] Prepare and inspect the latest `Gr_01` KNIME export with bundled raw data and required outputs. Re-import it and check workflow-relative paths. The design pack does not itself update KNIME.
+- [x] Prepare five main slides, a 470-word Huy script and pointer/Q&A notes in Markdown.
+- [ ] Export/open the PPTX and measure the rehearsal on the presentation laptop.
+- [x] Merge the story, processing/EDA and three design sections into a current Stand Up 2 Design Book source/PDF. The Stand Up 1 PDF remains as earlier evidence.
+- [x] Prepare the team-labelled `Gr_01_StandUp2.knwf` copy and verify the bundled data, saved state, relative settings and unchanged node configuration.
+- [ ] Re-import the renamed KNIME package on the presentation laptop and check execution there.
 - [ ] Include the agreed repository link, following the tutor's confirmed submission arrangement; GitHub Classroom and Mercury are not required for this team.
 - [ ] Submit PPT, draft Design Book and KNIME separately on the night before the actual presentation. Do not submit a ZIP.
 
@@ -75,6 +77,8 @@ Verification on 22 November 2026:
 - Existing checks passed: 9 Python EDA tests, 6 JavaScript data tests and raw/processed/served-file reconciliation. The raw workbook and production website files were not changed.
 - Chromium could not launch in this execution environment. Live browser reflow, navigation and keyboard behaviour have not been verified here. Inspect the review page on the presentation laptop before rehearsing.
 
-New D3 interaction behaviour, live mobile layouts, KNIME re-execution and participant evaluation are outside this static design checkpoint.
+The longer-format revision reorders the five native slides, updates all speaker notes and replaces the old PDF-note handoff with Markdown and actual repository files. The changed slides are rendered and visually checked. The packaging command now preserves Markdown notes rather than generating a notes PDF.
+
+New D3 interaction behaviour, live mobile layouts, KNIME re-execution and participant evaluation are outside this static design checkpoint. The renamed workflow passes archive/data checks; desktop import remains a presentation-laptop check. No commit or push is made for this revision: Nhat will review and commit the downloaded files through CMD.
 
 AI use: AI assisted with this review guide and speaking outline. Presenter allocation, rehearsal duration and submission readiness must be confirmed from actual team work.

@@ -10,7 +10,7 @@ We have completed Stand Up 1. Our tutor's feedback was that the project needs de
 
 Source: Project Stand-up 2/3 (Week 11/12), supplied on 19/11/2026, pages 1-4.
 
-- Each presentation must be less than three minutes, followed by Q&A.
+- Timing clarification confirmed by the team on 22 November: the lecturer now expects Stand Ups 2 and 3 to run longer than three minutes. This supersedes the original PDF's shorter format. We propose about 4:30 for each talk, generally 4-5 minutes before Q&A; this is a rehearsal target, not a new lecturer-imposed limit.
 - Both team members attend. One presents in Week 11 and the other in Week 12.
 - Each responsible member prepares and delivers their presentation and answers questions about their own understanding. Both members need to understand the whole project.
 - Submit the PowerPoint, current draft Design Book, latest KNIME workflow with data and team name, and the repository link under our tutor's confirmed arrangement. The supplied PDF says GitHub Classroom, but the team has confirmed Classroom and Mercury are not required. Do not submit a ZIP.
@@ -18,7 +18,7 @@ Source: Project Stand-up 2/3 (Week 11/12), supplied on 19/11/2026, pages 1-4.
 - This is an individual assessment. We will record actual contributions separately from the proposed speaking order.
 - We will explain the revised direction to the tutor in Week 11 and discuss substantial later changes before the final submission.
 
-Proposed speaking order: Nhat in Week 11; Huy in Week 12. We still need to agree this split and our exact presentation dates.
+Confirmed on 22 November: Huy presents Stand Up 2 on 23 November 2026. Nhat will be the other presenter for Stand Up 3 under the alternating-member requirement; confirm the Week 12 tutorial date. Both members attend each presentation.
 
 ## Current baseline
 
@@ -64,7 +64,7 @@ Required milestones: draft Visualisation Design, Interaction Design and Website 
 | 4 | Specify default selections, year comparison, highlighting, tooltips, Reset and a table fallback. | An interaction table with trigger, changed views and expected result |
 | 5 | Draft the Website Design section around the reader's route through the three chapters. | Desktop and narrow-screen wireframes with headings, source notes and chart positions |
 | 6 | Draft the Visualisation Design and Interaction Design sections, including tradeoffs. | Updated Design Book draft; no claim that the proposed chart code is already complete |
-| 7 | Write the coding and data plan, then prepare and rehearse the presentation. | Data schemas, module responsibilities, shared constants and a presentation under three minutes |
+| 7 | Write the coding and data plan, then prepare and rehearse the presentation. | Data schemas, module responsibilities, shared constants and a focused talk targeting about 4:30 |
 
 Planned data and code:
 
@@ -76,19 +76,21 @@ Planned data and code:
 - Give each chart a rendering function and a selection callback. Extend data validation and the accessible table for new views.
 - Keep exports used by the website reconciled with the processed files and raw source.
 
-Suggested Week 11 presentation, target 2 minutes 40 seconds:
+Week 11 presentation for Huy, target 4 minutes 30 seconds:
 
 | Slide | Time | Focus |
 | --- | --- | --- |
-| 1 | 40 seconds | Tutor feedback, the revised question and one verified surprising finding |
-| 2 | 80 seconds | Show the sketches; explain the chart and interaction choices and one tradeoff |
-| 3 | 40 seconds | Coding plan, unresolved issue and next steps for Week 12 |
+| 1 | 0:00-0:45 | Huy's contribution, tutor feedback and the national/cyclist contrast |
+| 2 | 0:45-1:30 | Field exploration and published control checks |
+| 3 | 1:30-2:45 | Dumbbell and age heatmap: question, encoding, denominator and alternative |
+| 4 | 2:45-3:30 | Event classifications and the Sankey/matrix decision |
+| 5 | 3:30-4:30 | Website layout, interactions, coding sequence and Week 12 scope |
 
-Use sketches as the main evidence. If showing the existing website, include it within this time as a brief before/after reference. Do not reuse the longer Stand Up 1 demo.
+All five slides belong to the main talk. The [Markdown notes](StandUp_02/Gr_01_StandUp2_Huy_Notes.md) contain 470 English words, Vietnamese pointer cues and separate Q&A preparation. If useful, add only 20-30 seconds of the current website after slide 5, taking the rehearsal target to about five minutes. Show one selection and its result. Measure the duration on the actual laptop; avoid reading audit details or every chart category aloud.
 
 Week 11 readiness:
 
-- [ ] We have agreed the presenter and tutorial date.
+- [x] Huy is the Week 11 presenter on 23 November, as confirmed by the user.
 - [x] All three required design sections have drafts.
 - [x] The proposed charts have labelled sketches or prototypes.
 - [x] The data schemas, interactions and shared constants are specified.
@@ -108,7 +110,7 @@ Required milestones: draft Iteration and Validation section; updated earlier sec
 | 5 | Run a small usability evaluation, ideally with 3-5 people outside the team. | Actual participant/task records and findings; this is our target, not a stated assessment minimum |
 | 6 | Make and document improvements based on the evaluation. | At least one evidenced before/after example if findings require a change |
 | 7 | Draft Iteration and Validation and update the design, processing and implementation sections to match the actual work. | Current Design Book with completed, in-progress and pending work clearly separated |
-| 8 | Prepare a short demo and rehearse the presentation plus questions. | A presentation under three minutes, with the demonstration included |
+| 8 | Prepare a short demo and rehearse the presentation plus questions. | A focused talk of about 4:30 including the demonstration, followed by Q&A |
 
 If user testing is not complete, document the test plan and mark results as pending. Do not describe planned participants, findings or improvements as completed. Aim to arrive with actual observations so the iteration section has useful evidence.
 
@@ -121,14 +123,16 @@ Suggested evaluation tasks:
 
 Record task success, approximate time, misunderstandings and comments. Do not collect unnecessary personal information.
 
-Suggested Week 12 presentation, target 2 minutes 45 seconds:
+Suggested Week 12 presentation, target 4 minutes 30 seconds:
 
 | Part | Time | Focus |
 | --- | --- | --- |
-| Slide 1 | 30 seconds | What changed since Week 11 and the responsible member's actual contribution |
-| Live website | 65 seconds | Demonstrate a new chart, one meaningful selection and the resulting linked view or table |
-| Slide 2 | 45 seconds | Validation evidence and one genuine usability finding with its improvement, or the remaining evaluation plan |
-| Slide 3 | 25 seconds | Blockers, unfinished work and next steps for the final submission |
+| Slide 1 | 0:00-0:45 | What changed since Week 11 and the responsible member's actual contribution |
+| Live website | 0:45-2:30 | Demonstrate the implemented comparison and one linked profile/table through one clear task |
+| Slide 2 | 2:30-3:45 | Validation evidence and one genuine usability finding with its improvement, or the remaining evaluation plan |
+| Slide 3 | 3:45-4:30 | Open decisions, unfinished work and next steps for the final submission |
+
+Use actual implementation and evaluation evidence. Keep the demo task focused; a tour of every control belongs in rehearsal or Q&A. This pacing proposal follows the lecturer's longer format without expanding into a full final-project demonstration.
 
 Week 12 readiness:
 
@@ -166,9 +170,11 @@ Progress on 22/11/2026:
 - [x] Deeper EDA across year, month, counterparty, age and remoteness, with reference CSVs and two EDA figures.
 - [x] Evidence-led [storyboard outline](STORYBOARD.md), design alternatives and intended interactions.
 - [x] Three design section drafts, labelled desktop/mobile wireframes, chart sketches/alternatives and coding plan.
-- [ ] Week 11 deck, merged Design Book PDF, timed rehearsal and refreshed Gr_01 KNIME submission.
+- [x] Week 11 deck with five main slides, a 470-word Huy script with pointer cues/Q&A in Markdown, merged Design Book source/PDF and renamed KNIME package with static integrity/data checks.
+- [x] Raw-file download pack and Windows CMD copy/commit instructions for Nhat to commit locally.
+- [ ] Export/open the PPTX on the presentation laptop, re-import KNIME, rehearse and submit the individual files.
 - [ ] New D3 chart/interaction code, KNIME extension and actual participant evaluation.
 
 See [EDA_AND_STORY.md](EDA_AND_STORY.md) for findings and limits. Chapter 3 now uses age composition; bed-day ratios remain withheld until missing death fields and numerator scope are resolved. Multiple analysis CSVs still represent one national workbook.
 
-Inspect the [design preview](design/preview.html), [design sections](design_book/03_design_draft.md), [coding plan](CODING_PLAN.md) and [review guide](STANDUP_2_REVIEW.md). Next: turn the reviewed evidence into the Week 11 presentation and merged Design Book, then execute the implementation plan for Week 12. These progress ticks do not mark the presentation or student acceptance as completed.
+Inspect the [design preview](design/preview.html), [design sections](design_book/03_design_draft.md), [coding plan](CODING_PLAN.md) and [review guide](STANDUP_2_REVIEW.md). The [Stand Up 2 pack](StandUp_02/README.md) now packages the presentation for Huy on 23 November. Finish the laptop/rehearsal/submission checks, then execute the implementation plan for Week 12. These progress ticks do not mark the presentation or student acceptance as completed.
