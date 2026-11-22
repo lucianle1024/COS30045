@@ -1,7 +1,7 @@
 # Road Crash Hospitalisations in Australia: Trends Across Road User Groups, 2011-2021
 
 Design Book draft - Sections 1.1, 1.2 and 2.1  
-Updated: 13 November 2026
+Updated: 22 November 2026; source overview retained, purpose aligned with the revised storyboard.
 
 ## 1 Introduction
 
@@ -26,11 +26,11 @@ The purpose of this project is to tell a focused, evidence-based story about the
 
 The project will address three research questions:
 
-1. How did the national annual count of road-crash hospitalisations change between 2011 and 2021?
-2. Which road user groups accounted for the most recorded hospitalisations, and how did their totals compare?
-3. How did hospitalisation counts change over time for different road user groups?
+1. Did all road-user groups follow the national decline in hospitalisations in 2019-2020?
+2. Which counterparties and event classifications make up each road-user total in the selected detail year?
+3. How does age composition differ between road-user groups in that year?
 
-A time-series chart can answer the first question; a comparison of road user categories can address the second; and a group-specific time series can help users explore the third. The final chart designs and story conclusions will depend on the KNIME exploration rather than assumptions about the results.
+A two-year dumbbell, a counterparty composition view and an age heatmap are the current design candidates, with a short national time series for context. The [storyboard](../STORYBOARD.md), [EDA evidence](../EDA_AND_STORY.md) and [design draft](03_design_draft.md) explain these choices and their alternatives. They extend the initial line/ranking/demographic website; the revised D3 implementation and additional KNIME output are still pending.
 
 The expected benefit is clearer public understanding of patterns in recorded hospitalisations and the differences between road user categories. We are **not** using raw counts to rank the danger of road user types: the dataset does not provide exposure measures, such as kilometres travelled, and the counts are not adjusted for differences in group size. The visualisations are intended to support informed discussion, not causal or individual-risk claims.
 
@@ -63,7 +63,7 @@ The worksheet includes six categories of cause of hospital admission. For our pr
 
 **Privacy and ethical use.** The dataset available for this project consists of grouped administrative counts without direct patient identifiers. We will not attempt to infer individual identities or treat small categories as evidence of individual behaviour. The website will identify the source and release date, avoid unsupported causal conclusions and make uncertainty or missing categories visible where relevant.
 
-The data supports our research questions through the `Calendar year`, `Road user` and `Hospitalisations` fields. KNIME will prepare annual and annual-by-road-user summaries from the `raw` worksheet. This work belongs in Section 2.2 once the workflow has actually been built and checked.
+The revised questions use `Calendar year`, `Road user`, `Counterparty`, `Age group` and `Hospitalisations`. The existing KNIME workflow produces the annual, road-user and age/sex summaries. The [EDA report](../EDA_AND_STORY.md) documents the deeper audit and findings. The new Counterparty branch still needs execution and reconciliation in KNIME; the processing and exploration write-up will go into Sections 2.2-2.3.
 
 ## References - working entries
 

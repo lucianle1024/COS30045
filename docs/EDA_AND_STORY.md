@@ -118,7 +118,7 @@ The final assessment PDF in `docs/design_book` assigns 5 points to Data Processi
 
 The Excellent complexity descriptor also discusses meaningful integration of multiple datasets. Our CSVs are transformations of one national source workbook; we will not describe them as independent sources. Additional integration needs a justified analytical purpose.
 
-The [storyboard](STORYBOARD.md) links the first three findings into a narrative. Full wireframes, chart sketches, the three Week 11 design drafts and the deck remain to be prepared. New D3 code, KNIME desktop execution and participant testing are not claimed here.
+The [storyboard](STORYBOARD.md) links the first three findings into a narrative. On 22 November we added [wireframes and chart sketches](design/preview.html), the three [Week 11 design drafts](design_book/03_design_draft.md) and a [coding plan](CODING_PLAN.md). The deck and merged Design Book remain to be prepared. New D3 code, KNIME desktop execution and participant testing are not claimed here.
 
 ## References
 

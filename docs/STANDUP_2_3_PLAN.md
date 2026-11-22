@@ -1,6 +1,6 @@
 # Stand Up 2 and 3 plan
 
-Updated: 19/11/2026
+Updated: 22/11/2026
 
 Team: Nguyen Huyen Minh Nhat and Le Tuan Huy.
 
@@ -13,7 +13,7 @@ Source: Project Stand-up 2/3 (Week 11/12), supplied on 19/11/2026, pages 1-4.
 - Each presentation must be less than three minutes, followed by Q&A.
 - Both team members attend. One presents in Week 11 and the other in Week 12.
 - Each responsible member prepares and delivers their presentation and answers questions about their own understanding. Both members need to understand the whole project.
-- Submit the PowerPoint, current draft Design Book, latest KNIME workflow with data and team name, and the team GitHub Classroom link. Do not submit a ZIP.
+- Submit the PowerPoint, current draft Design Book, latest KNIME workflow with data and team name, and the repository link under our tutor's confirmed arrangement. The supplied PDF says GitHub Classroom, but the team has confirmed Classroom and Mercury are not required. Do not submit a ZIP.
 - Submit on the night before the actual presentation. The PDF header displays 4 December at 23:59; we will confirm our tutorial dates and the Canvas submission arrangement rather than use that header as permission to submit after a presentation.
 - This is an individual assessment. We will record actual contributions separately from the proposed speaking order.
 - We will explain the revised direction to the tutor in Week 11 and discuss substantial later changes before the final submission.
@@ -25,7 +25,7 @@ Proposed speaking order: Nhat in Week 11; Huy in Week 12. We still need to agree
 - The existing website has a national trend, a road-user ranking and an age/sex view, with linked selection and a data table.
 - The current KNIME pipeline filters Traffic and exports three hospitalisation datasets.
 - Stand Up 1 and its draft Design Book are available. The student has confirmed that the presentation took place.
-- The new chart designs, additional KNIME exports, revised story and user evaluation below are planned, not completed.
+- The audit, revised storyboard and design drafts are now available. Additional KNIME exports, new D3 implementation and user evaluation below are planned, not completed.
 
 ## Revised story to investigate
 
@@ -89,9 +89,9 @@ Use sketches as the main evidence. If showing the existing website, include it w
 Week 11 readiness:
 
 - [ ] We have agreed the presenter and tutorial date.
-- [ ] All three required design sections have drafts.
-- [ ] The proposed charts have labelled sketches or prototypes.
-- [ ] The data schemas, interactions and shared constants are specified.
+- [x] All three required design sections have drafts.
+- [x] The proposed charts have labelled sketches or prototypes.
+- [x] The data schemas, interactions and shared constants are specified.
 - [ ] We can explain one chart alternative and why we did not choose it.
 - [ ] The submission files are ready on the night before the presentation.
 
@@ -141,9 +141,9 @@ Week 12 readiness:
 
 ## Shared submission and Q&A checklist
 
-For each week, submit the PowerPoint, draft Design Book and latest KNIME file separately, plus the team GitHub Classroom link. Our current repository is https://github.com/lucianle1024/COS30045; confirm the tutor accepts it or use the assigned Classroom repository. Do not assume that a normal repository is automatically a Classroom submission.
+For each week, submit the PowerPoint, draft Design Book and latest KNIME file separately, plus the team repository link: https://github.com/lucianle1024/COS30045. The team has confirmed that GitHub Classroom and Mercury are not required. Follow the tutor's agreed submission arrangement.
 
-Use one team identifier consistently across the deck, Design Book, workflow filename and annotations. Earlier documents use Gr_01, while one uploaded KNIME filename used Gr02; confirm the official identifier before preparing the final submission set.
+Use the team's chosen identifier Gr_01 consistently across the deck, Design Book, workflow filename and annotations. One earlier uploaded KNIME filename used Gr02; correct that when exporting the refreshed submission workflow.
 
 Both members should be able to explain:
 
@@ -160,14 +160,15 @@ We will explain the work in our own words, using the code or charts as evidence.
 
 ## Next action
 
-Progress on 21/11/2026:
+Progress on 22/11/2026:
 
 - [x] Reproducible audit of all 13 fields, missingness and source controls.
 - [x] Deeper EDA across year, month, counterparty, age and remoteness, with reference CSVs and two EDA figures.
 - [x] Evidence-led [storyboard outline](STORYBOARD.md), design alternatives and intended interactions.
-- [ ] Full design drafts, labelled wireframes/sketches and the Week 11 deck.
+- [x] Three design section drafts, labelled desktop/mobile wireframes, chart sketches/alternatives and coding plan.
+- [ ] Week 11 deck, merged Design Book PDF, timed rehearsal and refreshed Gr_01 KNIME submission.
 - [ ] New D3 chart/interaction code, KNIME extension and actual participant evaluation.
 
 See [EDA_AND_STORY.md](EDA_AND_STORY.md) for findings and limits. Chapter 3 now uses age composition; bed-day ratios remain withheld until missing death fields and numerator scope are resolved. Multiple analysis CSVs still represent one national workbook.
 
-Next: turn the storyboard into wireframes and chart sketches, then complete the three Week 11 design drafts and coding plan. These progress ticks do not mark the presentation or student acceptance as completed.
+Inspect the [design preview](design/preview.html), [design sections](design_book/03_design_draft.md), [coding plan](CODING_PLAN.md) and [review guide](STANDUP_2_REVIEW.md). Next: turn the reviewed evidence into the Week 11 presentation and merged Design Book, then execute the implementation plan for Week 12. These progress ticks do not mark the presentation or student acceptance as completed.

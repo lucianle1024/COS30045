@@ -16,7 +16,7 @@ D3 is included locally, so the website does not need a CDN. Open the page throug
 
 ## Use the KNIME workflow
 
-1. Import `knime/COS30045_Individual_Nhat.knwf` into KNIME Analytics Platform 5.12.0 LTS.
+1. Import `knime/COS30045_Project.knwf` into KNIME Analytics Platform 5.12.0 LTS. For the next submission, export the refreshed workflow under a name containing Gr_01.
 2. Open the workflow. The workbook, processed CSVs and executed node data are included.
 3. To reproduce the processing, choose Reset all and Execute all. The CSV Writer nodes overwrite only their configured files inside the workflow's data folder.
 4. Copy the three regenerated CSVs from the workflow's `data/processed` folder to this project's `data/processed` and `web/data` folders.
@@ -61,11 +61,17 @@ The D3 bundle is version 7.9.2, downloaded from [D3's official site](https://d3j
 
 ## Project status
 
-The first data pipeline and website are available, and Stand Up 1 has taken place. On 21 November we added a reproducible field audit, deeper EDA and an evidence-led storyboard. New D3 charts, the KNIME extension and participant evaluation remain pending.
+The first data pipeline and website are available, and Stand Up 1 has taken place. The 21 November audit and EDA now support a Week 11 design pack added on 22 November: desktop/mobile wireframes, labelled chart alternatives, three Design Book section drafts and a coding handoff. New D3 charts, the KNIME extension and participant evaluation remain pending.
 
 - [EDA findings, data-quality limits and reproduction commands](docs/EDA_AND_STORY.md)
 - [Revised storyboard, chart alternatives and interaction plan](docs/STORYBOARD.md)
+- [Stand Up 2 design preview](docs/design/preview.html) - open directly for the embedded sketches
+- [What to prepare and where to review it](docs/STANDUP_2_REVIEW.md)
+- [Design Book Sections 3.1-3.3](docs/design_book/03_design_draft.md)
+- [Coding plan: inputs, shared state, modules and acceptance](docs/CODING_PLAN.md)
 - [Week 11 and Week 12 stand-up plan and progress](docs/STANDUP_2_3_PLAN.md)
+
+To view both the design preview and website through one server, run `py -m http.server 8000` from the repository root. Open http://localhost:8000/docs/design/preview.html for design evidence, or http://localhost:8000/web/ for the current website. The design figures are static and do not implement the proposed filters. Rebuild them with `py tools/build_design_pack.py` when Matplotlib and NumPy are available.
 
 The older implementation checkpoint remains in `docs/PROJECT_PLAN.md`; use the dated documents above for the current analysis and stand-up milestones.
 
