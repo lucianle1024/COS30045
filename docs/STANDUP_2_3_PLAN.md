@@ -1,6 +1,6 @@
 # Stand Up 2 and 3 plan
 
-Updated: 22/11/2026
+Updated: 23/11/2026
 
 Team: Nguyen Huyen Minh Nhat and Le Tuan Huy.
 
@@ -10,7 +10,7 @@ We have completed Stand Up 1. Our tutor's feedback was that the project needs de
 
 Source: Project Stand-up 2/3 (Week 11/12), supplied on 19/11/2026, pages 1-4.
 
-- Timing clarification confirmed by the team on 22 November: the lecturer now expects Stand Ups 2 and 3 to run longer than three minutes. This supersedes the original PDF's shorter format. We propose about 4:30 for each talk, generally 4-5 minutes before Q&A; this is a rehearsal target, not a new lecturer-imposed limit.
+- Timing clarification confirmed by the team on 22 November: the lecturer now expects Stand Ups 2 and 3 to run longer than three minutes. This supersedes the original PDF's shorter format. We propose 4-5 minutes before Q&A. The current Stand Up 2 script targets 4:45; the Stand Up 3 outline targets 4:30. These are rehearsal targets, not new lecturer-imposed limits.
 - Both team members attend. One presents in Week 11 and the other in Week 12.
 - Each responsible member prepares and delivers their presentation and answers questions about their own understanding. Both members need to understand the whole project.
 - Submit the PowerPoint, current draft Design Book, latest KNIME workflow with data and team name, and the repository link under our tutor's confirmed arrangement. The supplied PDF says GitHub Classroom, but the team has confirmed Classroom and Mercury are not required. Do not submit a ZIP.
@@ -64,7 +64,7 @@ Required milestones: draft Visualisation Design, Interaction Design and Website 
 | 4 | Specify default selections, year comparison, highlighting, tooltips, Reset and a table fallback. | An interaction table with trigger, changed views and expected result |
 | 5 | Draft the Website Design section around the reader's route through the three chapters. | Desktop and narrow-screen wireframes with headings, source notes and chart positions |
 | 6 | Draft the Visualisation Design and Interaction Design sections, including tradeoffs. | Updated Design Book draft; no claim that the proposed chart code is already complete |
-| 7 | Write the coding and data plan, then prepare and rehearse the presentation. | Data schemas, module responsibilities, shared constants and a focused talk targeting about 4:30 |
+| 7 | Write the coding and data plan, then prepare and rehearse the presentation. | Data schemas, module responsibilities, shared constants and a focused talk targeting about 4:45 |
 
 Planned data and code:
 
@@ -76,17 +76,21 @@ Planned data and code:
 - Give each chart a rendering function and a selection callback. Extend data validation and the accessible table for new views.
 - Keep exports used by the website reconciled with the processed files and raw source.
 
-Week 11 presentation for Huy, target 4 minutes 30 seconds:
+Week 11 presentation for Huy, target 4 minutes 45 seconds:
 
-| Slide | Time | Focus |
+| Slide | Time target | Focus |
 | --- | --- | --- |
-| 1 | 0:00-0:45 | Huy's contribution, tutor feedback and the national/cyclist contrast |
-| 2 | 0:45-1:30 | Field exploration and published control checks |
-| 3 | 1:30-2:45 | Dumbbell and age heatmap: question, encoding, denominator and alternative |
-| 4 | 2:45-3:30 | Event classifications and the Sankey/matrix decision |
-| 5 | 3:30-4:30 | Website layout, interactions, coding sequence and Week 12 scope |
+| 1 | 0:00-0:45 | Our decisions after Stand Up 1 |
+| 2 | 0:45-1:30 | Our story questions and scope |
+| 3 | 1:30-2:10 | Evidence behind our comparison |
+| 4 | 2:10-3:05 | Chart choices for comparison and age composition |
+| 5 | 3:05-3:45 | Event categories and an open design decision |
+| 6 | 3:45-4:45 | Implementation decisions and the next checkpoint |
+| 7 | Q&A only | Data exploration and checks |
 
-All five slides belong to the main talk. The [Markdown notes](StandUp_02/Gr_01_StandUp2_Huy_Notes.md) contain 470 English words, Vietnamese pointer cues and separate Q&A preparation. If useful, add only 20-30 seconds of the current website after slide 5, taking the rehearsal target to about five minutes. Show one selection and its result. Measure the duration on the actual laptop; avoid reading audit details or every chart category aloud.
+The six main slides explain feedback, decisions, the selected questions and scope, then their evidence and design consequences. The [decision log](StandUp_02/DECISIONS_AFTER_STANDUP1.md) records why we retained Compare/Events/Ages and deferred ratios. The [Markdown notes](StandUp_02/Gr_01_StandUp2_Huy_Notes.md) contain 441 English words, Vietnamese pointer cues and separate Q&A preparation. Slide 7 is Q&A only.
+
+An optional 20-second current-web example after slide 6 brings the target to about five minutes. Show one selection and its result. Measure the duration aloud rather than adding audit details or a tour of every control.
 
 Week 11 readiness:
 
@@ -164,13 +168,13 @@ We will explain the work in our own words, using the code or charts as evidence.
 
 ## Next action
 
-Progress on 22/11/2026:
+Progress on 23/11/2026:
 
 - [x] Reproducible audit of all 13 fields, missingness and source controls.
 - [x] Deeper EDA across year, month, counterparty, age and remoteness, with reference CSVs and two EDA figures.
 - [x] Evidence-led [storyboard outline](STORYBOARD.md), design alternatives and intended interactions.
 - [x] Three design section drafts, labelled desktop/mobile wireframes, chart sketches/alternatives and coding plan.
-- [x] Week 11 deck with five main slides, a 470-word Huy script with pointer cues/Q&A in Markdown, merged Design Book source/PDF and renamed KNIME package with static integrity/data checks.
+- [x] Week 11 deck with six main slides and one audit backup, a 441-word Huy script with pointer cues and decision/Q&A preparation in Markdown, merged Design Book source/PDF and renamed KNIME package with static integrity/data checks.
 - [x] Raw-file download pack and Windows CMD copy/commit instructions for Nhat to commit locally.
 - [ ] Export/open the PPTX on the presentation laptop, re-import KNIME, rehearse and submit the individual files.
 - [ ] New D3 chart/interaction code, KNIME extension and actual participant evaluation.

@@ -1,8 +1,8 @@
 # Stand Up 2: preparation and review guide
 
-Updated: 22 November 2026. Team: Gr_01, Nguyen Huyen Minh Nhat and Le Tuan Huy.
+Updated: 23 November 2026. Team: Gr_01, Nguyen Huyen Minh Nhat and Le Tuan Huy.
 
-Stand Up 2 explains our proposed design and coding plan. Stand Up 3 demonstrates the new chart code, interactions and validation. On 22 November, the team confirmed the lecturer's clarification: both talks should run longer than three minutes. Our proposed rehearsal target is 4:30, generally 4-5 minutes before Q&A. This replaces the original PDF's shorter timing; it is not a new official maximum.
+Stand Up 2 explains our proposed design and coding plan. Stand Up 3 demonstrates the new chart code, interactions and validation. On 22 November, the team confirmed the lecturer's clarification: both talks should run longer than three minutes. Our proposed rehearsal target is 4:45, generally 4-5 minutes before Q&A. This replaces the original PDF's shorter timing; it is not a new official maximum.
 
 ## What is ready, and where to inspect it
 
@@ -27,19 +27,23 @@ py -m http.server 8000
 
 This differs from the website-only README command using `--directory web`: that server cannot show `docs/design`.
 
-## Presentation route: Huy, 23 November, target 4:30
+## Presentation route: Huy, 23 November, target 4:45
 
-The [preparation pack](StandUp_02/README.md) contains the editable five-slide deck, [Markdown script and pointer cues](StandUp_02/Gr_01_StandUp2_Huy_Notes.md), merged Design Book source and the KNIME packaging/check command. The [download and CMD guide](StandUp_02/Gr_01_StandUp2_Guide.md) explains the raw files and local commit steps.
+The [decision log](StandUp_02/DECISIONS_AFTER_STANDUP1.md) connects the feedback to our choices and their evidence. The [Markdown notes](StandUp_02/Gr_01_StandUp2_Huy_Notes.md) give Huy simple wording and pointer cues. The deck has six main slides and one Q&A audit backup.
 
 | Slide | Time target | Focus |
 | --- | --- | --- |
-| 1 | 0:00-0:45 | Huy's actual web/chart and KNIME practice, feedback and the national/cyclist contrast |
-| 2 | 0:45-1:30 | Data exploration and checks against published control totals |
-| 3 | 1:30-2:45 | Dumbbell and age heatmap sketches, encodings, denominator and alternatives |
-| 4 | 2:45-3:30 | Recorded event classifications and the Sankey/matrix decision |
-| 5 | 3:30-4:30 | Website reading order, separate year state, coding sequence and Week 12 scope |
+| 1 | 0:00-0:45 | Our decisions after Stand Up 1 |
+| 2 | 0:45-1:30 | Our story questions and scope |
+| 3 | 1:30-2:10 | Evidence behind our comparison |
+| 4 | 2:10-3:05 | Chart choices for comparison and age composition |
+| 5 | 3:05-3:45 | Event categories and an open design decision |
+| 6 | 3:45-4:45 | Implementation decisions and the next checkpoint |
+| 7 | Q&A only | Data exploration and checks |
 
-The main script contains 470 English words. All five slides belong to the talk. Pauses, pointing and slide changes determine the actual duration; Huy still needs to rehearse aloud. Detailed Q&A stays in the Markdown notes. The full matrix alternative remains in the Design Book. Selected rows keep slide figures legible; the full design retains all 12 road users. An optional 20-30 second existing-web demonstration after slide 5 brings the target to about five minutes. It should show one selection and its result, not every control.
+The main script contains 441 English words. Present slides 1-6, then stop for Q&A. Slide 7 holds audit detail. The first two slides explain feedback, decisions and the selected story questions. Findings and chart sketches support those decisions. The notes contain short answers about why we kept some fields, deferred ratios and left Sankey/matrix open.
+
+Rehearse with pointing and slide changes. An optional 20-second current-web example after slide 6 brings the target to about five minutes. Exact duration remains a laptop rehearsal check. The complete chart alternatives remain in the Design Book.
 
 ## Q&A rehearsal
 
@@ -58,7 +62,7 @@ The main script contains 470 English words. All five slides belong to the talk. 
 
 - [x] Huy presents Week 11 on 23 November. Confirm the Week 12 date for the other member.
 - [ ] Review the design in both members' own words and record actual individual contributions.
-- [x] Prepare five main slides, a 470-word Huy script and pointer/Q&A notes in Markdown.
+- [x] Prepare six main slides, one audit backup, a 441-word Huy script and decision/Q&A notes in Markdown.
 - [ ] Export/open the PPTX and measure the rehearsal on the presentation laptop.
 - [x] Merge the story, processing/EDA and three design sections into a current Stand Up 2 Design Book source/PDF. The Stand Up 1 PDF remains as earlier evidence.
 - [x] Prepare the team-labelled `Gr_01_StandUp2.knwf` copy and verify the bundled data, saved state, relative settings and unchanged node configuration.
@@ -77,8 +81,10 @@ Verification on 22 November 2026:
 - Existing checks passed: 9 Python EDA tests, 6 JavaScript data tests and raw/processed/served-file reconciliation. The raw workbook and production website files were not changed.
 - Chromium could not launch in this execution environment. Live browser reflow, navigation and keyboard behaviour have not been verified here. Inspect the review page on the presentation laptop before rehearsing.
 
-The longer-format revision reorders the five native slides, updates all speaker notes and replaces the old PDF-note handoff with Markdown and actual repository files. The changed slides are rendered and visually checked. The packaging command now preserves Markdown notes rather than generating a notes PDF.
+The 23 November revision puts the response to feedback first: decisions, selected questions and scope, research evidence, chart choices and implementation. All seven native slides are rendered and reviewed. Speaker notes match the Markdown script. The generator keeps notes in Markdown and counts only the six main-slide scripts.
 
-New D3 interaction behaviour, live mobile layouts, KNIME re-execution and participant evaluation are outside this static design checkpoint. The renamed workflow passes archive/data checks; desktop import remains a presentation-laptop check. No commit or push is made for this revision: Nhat will review and commit the downloaded files through CMD.
+The previous pack was committed and pushed as a608322 by Nhat. This revision will be copied and committed through the same CMD workflow. The unchanged Design Book PDF and KNIME package remain the assessment files from that commit.
+
+New D3 interaction behaviour, live mobile layouts, KNIME re-execution and participant evaluation are outside this static design checkpoint. The renamed workflow passes archive/data checks; desktop import remains a presentation-laptop check. The revised PPTX needs a fresh native export before the next local commit.
 
 AI use: AI assisted with this review guide and speaking outline. Presenter allocation, rehearsal duration and submission readiness must be confirmed from actual team work.

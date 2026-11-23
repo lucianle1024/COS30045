@@ -1,6 +1,6 @@
 # Storyboard: Beyond the Total
 
-Updated: 22 November 2026
+Updated: 23 November 2026
 
 Working title: Beyond the Total: Different Stories Behind Australia's Road Injuries.
 
@@ -74,4 +74,4 @@ Record success, time and misunderstandings. Test exact-value alternatives and ke
 
 ## Next checkpoint
 
-The [design preview](design/preview.html) now contains labelled desktop/narrow-screen wireframes, chart sketches and alternatives. The three [design sections](design_book/03_design_draft.md) and [coding plan](CODING_PLAN.md) are drafted. Use the [Stand Up 2 review guide](STANDUP_2_REVIEW.md) to inspect them, then prepare the slide deck and merged Design Book draft. New D3 code and KNIME extension remain pending. See [EDA_AND_STORY.md](EDA_AND_STORY.md) for calculations and limitations.
+The [design preview](design/preview.html) now contains labelled desktop/narrow-screen wireframes, chart sketches and alternatives. The three [design sections](design_book/03_design_draft.md) and [coding plan](CODING_PLAN.md) are drafted. The deck and merged Design Book are prepared. The [decision log](StandUp_02/DECISIONS_AFTER_STANDUP1.md) connects the feedback with our question, scope and chart choices. The 23 November presentation uses six main slides and an audit backup, following feedback, decisions, evidence and next steps. Use the [Stand Up 2 review guide](STANDUP_2_REVIEW.md) and [speaking notes](StandUp_02/Gr_01_StandUp2_Huy_Notes.md) to prepare. New D3 code and KNIME extension remain pending. See [EDA_AND_STORY.md](EDA_AND_STORY.md) for calculations and limitations.

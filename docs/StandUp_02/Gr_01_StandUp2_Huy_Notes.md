@@ -1,88 +1,129 @@
 # Stand Up 2 - Huy's speaking notes
 
-Gr_01 - 23 November 2026. Presenter: Le Tuan Huy. Both members attend.
+Gr_01 - 23 November 2026. Presenter: Le Tuan Huy. Both members attend. Revised on 23 November to explain decisions after Stand Up 1.
 
 ## Thời lượng và cách dùng
 
-Giảng viên đã thông báo Stand Up 2 và 3 cần/nên trình bày hơn 3 phút, theo xác nhận của nhóm ngày 22/11. Hướng dẫn mới này thay cho mốc dưới 3 phút trong PDF ban đầu. Mục tiêu đề xuất cho bài này là khoảng 4:30, trong khoảng 4-5 phút, chưa tính Q&A. Đây là thời lượng để tập, không phải một giới hạn mới do giảng viên ấn định.
+Bài chính gồm 6 slide, khoảng 4:45 trước Q&A. Slide 7 là audit dự phòng, chỉ mở khi được hỏi. Script có 441 từ tiếng Anh để Huy có thời gian trỏ, dừng và chuyển slide. Đây là mục tiêu tập, không phải giới hạn mới của giảng viên. Giảng viên đã xác nhận Stand Up 2 và 3 cần/nên hơn 3 phút.
 
-Cả 5 slide đều thuộc bài nói chính. Nói phần tiếng Anh trong bảng. Cột bên phải là hướng dẫn thao tác bằng tiếng Việt. Nếu cần rút gọn, giữ finding, lý do chọn chart và bước tiếp theo. Chi tiết kiểm tra, công thức và code nằm ở phần Q&A sau script.
+Mạch nói: nhận xét của thầy, quyết định của nhóm, câu hỏi được chọn, bằng chứng và phương án thiết kế, rồi bước tiếp theo. Mỗi slide chỉ nói phần Say in English. Không đọc hết bảng hoặc từng nhãn trên chart. Phần Q&A là tài liệu chuẩn bị, không đọc nối vào bài nói. Kết bài tại slide 6, không tự chuyển sang slide 7.
 
-| Slide | Mốc tập | Ý chính |
+| Slide | Mốc tập | Vai trò trong bài nói |
 | --- | --- | --- |
-| 1 | 0:00-0:45 | Đóng góp của Huy, feedback và finding nổi bật |
-| 2 | 0:45-1:30 | Nhóm đã đào sâu và kiểm tra dữ liệu như thế nào |
-| 3 | 1:30-2:45 | Dumbbell và heatmap trả lời câu hỏi gì, vì sao chọn |
-| 4 | 2:45-3:30 | Counterparty và quyết định Sankey/matrix |
-| 5 | 3:30-4:30 | Layout, tương tác, coding plan và mốc Stand Up 3 |
+| 1 | 0:00-0:45 | Our decisions after Stand Up 1 |
+| 2 | 0:45-1:30 | Our story questions and scope |
+| 3 | 1:30-2:10 | Evidence behind our comparison |
+| 4 | 2:10-3:05 | Chart choices for comparison and age composition |
+| 5 | 3:05-3:45 | Event categories and an open design decision |
+| 6 | 3:45-4:45 | Implementation decisions and the next checkpoint |
+| 7 | Chỉ khi hỏi | Data exploration and checks |
 
-## Slide 1 - Beyond the Total
+## Slide 1 - Our decisions after Stand Up 1
 
 Time: 0:00-0:45.
 
 | Say in English | Point to / action |
 | --- | --- |
-| Hi, I am Huy. I helped build our website and charts using the course tutorials, and practised running the basic KNIME workflow. | Giới thiệu phần Huy trực tiếp tham gia. Không nói Huy làm toàn bộ audit hay tự dựng workflow mới. |
-| After Stand Up 1, our team moved beyond describing totals and rankings. We explored whether the national trend represented every road user. | Chỉ hai dòng Stand Up 1 / Stand Up 2 phía trên. |
-| Between 2019 and 2020, total hospitalisations fell by 4.8%, while cyclist hospitalisations rose by 14.1%. | Chỉ -4.8% bên trái rồi +14.1% bên phải. Chỉ hai cặp số đếm bên dưới để nhấn mạnh cùng giai đoạn. |
-| That contrast gives our story a specific question: which differences disappear in a national total? Counts alone cannot establish individual risk. | Chỉ câu hỏi và dòng exposure data phía dưới. Chuyển sang bằng chứng kiểm tra ở slide 2. |
+| Hi, I am Huy. I helped build our website and tutorial-based charts, and practised running the basic KNIME workflow. | Chỉ dòng tên/đóng góp phía dưới. Nêu đúng phần Huy trực tiếp tham gia. |
+| After Stand Up 1, the feedback was that we mainly applied what we had learned and needed deeper exploration and a stronger story. | Chỉ cột Feedback ở bên trái. Đây là nhóm tóm tắt nhận xét, không phải trích nguyên văn của thầy. |
+| We decided to organise the website around questions, audit more of the dataset, and choose charts by the comparisons readers need to make. | Chỉ từng hàng Our decision bên phải. Nhấn decided để thể hiện phản hồi dẫn đến quyết định cụ thể. |
+| The following slides show those choices and the evidence behind them. | Chuyển slide 2. Không đọc lại toàn bộ bảng. |
 
-## Slide 2 - Data exploration and checks
+## Slide 2 - Our story questions and scope
 
 Time: 0:45-1:30.
 
 | Say in English | Point to / action |
 | --- | --- |
-| We expanded the exploration to all 13 source fields, including counterparty and bed-day measures. We checked categories, missing values and zero counts before choosing the story. | Chỉ số 13. Giải thích audit gồm kiểu dữ liệu, nhóm giá trị, giá trị trống và số 0. Không đọc tên cả 13 cột. |
-| The analysis matches 187 published control totals: 11 annual totals, 132 road-user and year totals, and 44 remoteness and year totals. | Chỉ 187 rồi lần lượt ba hàng T1, T2, T4. Control total là tổng đối chiếu từ bảng do nguồn công bố. |
-| The monthly, counterparty and age summaries also reconcile to the road-user totals. These checks support the finding, while the existing technical tests give further validation. | Chỉ hai dòng dưới bảng. Không đọc chi tiết từng test. |
-| The revised charts still need browser checks and participant evaluation. | Chỉ dòng cuối. Đây là giới hạn của bằng chứng hiện tại. |
+| Our main question is: what differences disappear when road injuries become one national total? | Chỉ câu hỏi lớn phía trên bảng. |
+| We chose three supporting questions: did every road user follow the national change, which event categories appear within a group, and how does age composition differ? | Chỉ ba hàng Compare, Events và Ages theo thứ tự. Chỉ nói câu hỏi, không đọc hết cột reason. |
+| These move readers from a comparison into two group profiles. We explored month and remoteness too, but kept the main story focused. | Chỉ cột Why we kept it, rồi dòng Supporting exploration bên dưới. |
+| We postponed bed-day and death ratios because definitions and missing values still need resolving. | Chỉ dòng Deferred. Giải thích đây là một quyết định sau audit, không phải quên xử lý dữ liệu. |
 
-## Slide 3 - Chart choices for comparison and age composition
+## Slide 3 - Evidence behind our comparison
 
-Time: 1:30-2:45.
-
-| Say in English | Point to / action |
-| --- | --- |
-| The dumbbell connects two counts on one scale, making direction and magnitude easier to compare. Circles and diamonds identify the years. | Chỉ tiêu đề Dumbbell, hai ký hiệu 2019/2020 và một đường nối. |
-| The cyclist row shows an increase of 1,030 hospitalisations. A selected row will receive an outline, keeping the year colours consistent. Grouped bars are familiar, but use more space. | Chỉ hàng Pedal cyclist, nhãn +1,030 và khung hàng. Dùng will vì đây là đặc tả tương tác, chưa phải chart D3 mới đã chạy. |
-| The heatmap answers a different question: how does age composition vary across groups with different totals? In 2021, ages 40-64 account for 41.6% of cyclist hospitalisations. | Di chuyển sang heatmap. Chỉ nhãn 2021, hàng Pedal cyclist và ô 41.6 ở cột 40-64. |
-| Each percentage uses the full road-user total, including Unknown and all source sex categories. A count mode will answer a different question about group size. | Chỉ dòng Within each road-user total (%) và Unk. ở cột cuối. |
-| Bars give more precise comparisons for one group and suit mobile screens. Exact tables support both designs. These 2021 profiles do not explain the earlier increase. | Chỉ dòng alternative bên dưới. Nhắc lại nhãn 2021 trước khi chuyển slide. |
-
-## Slide 4 - Recorded event classifications
-
-Time: 2:45-3:30.
+Time: 1:30-2:10.
 
 | Say in English | Point to / action |
 | --- | --- |
-| We also asked whether cyclist hospitalisations always record another vehicle. In 2021, 3,705 of 8,163 were classified as non-collision transport accidents, or 45.4%. | Chỉ tổng 8,163 bên trái, rồi nhóm Non-collision và nhãn 45.4% ở trên cùng bên phải. |
-| We keep unspecified events separate instead of assigning them to collisions or non-collisions. | Chỉ Other and unspecified transport accidents, 1,854 / 8,163. |
-| The Sankey is a design candidate for following one total into categories. A matrix may support comparisons across road users more clearly. We will evaluate that choice. | Chỉ các dải nối rồi dòng Alternative: a matrix phía dưới. Không mô tả Sankey như code D3 đã hoàn thành. |
-| Link widths represent hospitalisations. The categories do not establish fault. | Chỉ độ dày dải nối và dòng giới hạn cuối slide. |
+| The national total fell by 4.8% between 2019 and 2020, while cyclist hospitalisations rose by 14.1%. | Chỉ -4.8%, +14.1%, rồi hai cặp số cùng giai đoạn. |
+| We chose that pair because it shows the contrast and avoids the known 2012 and 2017 recording breaks. | Chỉ dòng Why 2019-2020 phía trên các con số. |
+| We focus on cyclists because the increase is 1,030 hospitalisations. They are not the only group that increased. | Chỉ nhãn cyclist và hai số 7,302 / 8,332. Nếu bị hỏi nhóm khác, dùng Q&A pick-up/van 260 / 300. |
+| Our audit matches 187 published control totals. This supports the counts, while the cause of the change remains unproven. | Chỉ dòng 187 controls phía dưới. Không giải thích toàn bộ T1/T2/T4 ở đây. |
 
-## Slide 5 - Website design and coding plan
+## Slide 4 - Chart choices for comparison and age composition
 
-Time: 3:30-4:30.
+Time: 2:10-3:05.
 
 | Say in English | Point to / action |
 | --- | --- |
-| The layout guides readers from the opening contrast to comparison and then detail profiles. Comparison years stay separate from the detail year, while road-user selection links the profiles. | Chỉ bốn khối bên trái từ trên xuống. Dừng ở Detail year: 2021 để phân biệt với Compare years: 2019 and 2020. |
-| Our design drafts and sketches are ready. Next, we will reconcile the new KNIME counterparty export, then build the dumbbell and age view in D3. | Chỉ bước 1 và 2 bên phải. Các CSV annual, road-user và age/sex hiện có sẽ được tái sử dụng. |
-| We will keep the existing data, charts and app modules. Shared state, age ordering and colour meanings will keep the charts and their tables consistent. | Chỉ hai dòng Shared state / Shared constants. Đây là coding plan cụ thể để giải thích cách nối các view. |
-| Our open decision is whether the Sankey helps readers more than a matrix. Stand Up 3 will demonstrate working charts, interactions and validation evidence. Final refinements will follow the evaluation. | Chỉ bước 3, Open decision và dòng Week 12. Kết thúc, chuyển sang Q&A. |
+| For the two-year question, we propose a dumbbell because connected positions show direction and size on one scale. Grouped bars are the simpler alternative. | Chỉ dumbbell, hai ký hiệu năm và hàng cyclist. Nói propose vì chart D3 mới chưa được triển khai. |
+| For age composition, we propose a heatmap to compare several profiles in one grid. Within-group percentages help when totals differ. | Chỉ heatmap và nhãn Within each road-user total (%). |
+| In 2021, ages 40-64 account for 41.6% of cyclist hospitalisations, including Unknown in the denominator. | Chỉ ô 41.6 hàng cyclist và cột Unk. ở cuối. Đây là profile năm 2021, không giải thích nguyên nhân thay đổi 2020. |
+| We keep exact tables and selected-group bars for precise reading and mobile use. | Chỉ dòng alternative phía dưới. Giữ lời giải thích ngắn, không đọc từng ô. |
+
+## Slide 5 - Event categories and an open design decision
+
+Time: 3:05-3:45.
+
+| Say in English | Point to / action |
+| --- | --- |
+| For the event question, 3,705 of 8,163 cyclist hospitalisations in 2021 were classified as non-collision, or 45.4%. | Chỉ tổng 8,163, dải Non-collision và 45.4%. |
+| We keep unspecified events separate. The Sankey follows one total into categories, while a matrix supports comparison across groups. | Chỉ Other and unspecified, rồi dòng matrix alternative. |
+| We will evaluate which view helps readers more before finalising that choice. These categories do not establish fault. | Chỉ dòng Open decision/alternative và giới hạn cuối slide. Không nói nhóm đã chốt Sankey hay đã test người dùng. |
+
+## Slide 6 - Implementation decisions and the next checkpoint
+
+Time: 3:45-4:45.
+
+| Say in English | Point to / action |
+| --- | --- |
+| For the website, we decided on a guided reading order: comparison, events, then ages. Readers can follow one selected road user through the profiles. | Chỉ khối Reading order từ trên xuống. Đây là quyết định layout, không phải list thêm chart. |
+| Comparison years and the detail year stay separate, so a profile change cannot silently change the earlier comparison. | Chỉ Compare years: 2019 and 2020, rồi Detail year: 2021. |
+| Next, we will validate the new KNIME export and implement the comparison and age views in D3. We will evaluate the event view against its alternative. | Chỉ ba bước coding bên phải. Pipeline hiện tại vẫn có ba output; Counterparty export là bước tiếp theo. |
+| Stand Up 2 presents these decisions and sketches. Stand Up 3 will show working interactions and validation evidence. Final refinements will follow the feedback. | Chỉ dòng cuối Week 12. Kết thúc hoặc chuyển demo hiện tại 20 giây nếu đã tập đủ thời gian. |
 
 ## Demo web ngắn nếu cần
 
-Bài chính có thể dùng đủ 5 slide. Nếu giảng viên muốn xem web và thời gian cho phép, thêm khoảng 20-30 giây sau slide 5, đưa tổng bài nói về khoảng 4:50-5:00. Đây là ví dụ từ website hiện tại.
+Sau slide 6, thêm khoảng 20 giây nếu đã tập trước. Tổng bài sẽ khoảng 5 phút. Website vẫn là bản đang chạy trước khi triển khai các chart mới.
 
 1. Mở `http://localhost:8000/web/` bằng server ở repo root.
-2. Chọn năm 2020 và Pedal cyclist. Chỉ tổng 8,332 cùng trend và demographic view được cập nhật.
-3. Bấm Reset để về 2021/all road users. Quay lại slide hoặc chờ câu hỏi.
+2. Chọn 2020 và Pedal cyclist. Chỉ tổng 8,332 cùng các view liên kết.
+3. Bấm Reset để về 2021/all road users. Kết thúc demo và chuyển Q&A.
 
-Say: "This is the current website I helped build. Selecting 2020 and Pedal cyclist updates the linked views and shows 8,332 hospitalisations. The new comparison and composition designs are the next implementation step."
+Say: "This is our current website. Selecting 2020 and Pedal cyclist updates the linked views and shows 8,332 hospitalisations. The new designs are our next implementation step."
 
-Nếu chuyển cửa sổ hoặc tải trang mất thời gian, dùng slide. Không mở thêm nhiều bộ lọc trong bài nói chính.
+## Slide 7 - Q&A backup: Data exploration and checks
+
+Chỉ mở khi thầy hỏi nhóm đã kiểm tra finding như thế nào. Chỉ 13 fields, rồi 187 controls và ba hàng 11 / 132 / 44. Không đưa phần này vào bài chính.
+
+Say: "We checked all 13 source fields. Our sums match 187 published controls: 11 annual, 132 road-user/year and 44 remoteness/year totals. The new summaries also conserve the road-user totals. Reader evaluation for the revised charts is still pending."
+
+## Q&A - decisions after the feedback
+
+### What did the feedback change?
+
+Short answer: "We kept the working website as a foundation, but changed the way we planned the story. We chose one main question, checked more fields, and specified charts and interactions for the reader's tasks."
+
+Chỉ bảng slide 1. Đóng góp cá nhân của Huy vẫn là web/chart theo tutorial và thực hành workflow. Phần phân tích/thiết kế chung dùng "our team".
+
+### Why these three questions?
+
+Short answer: "The year comparison reveals a difference hidden by the total. Event categories describe what is recorded within a group. Age shares compare the composition of groups with different sizes. Each question has source fields, a checked calculation and a specific reader task."
+
+Website giữ thứ tự Compare, Events, Ages. Slide 4 đặt dumbbell và heatmap cạnh nhau để giải thích hai lựa chọn encoding. Profile 2021 không giải thích nguyên nhân tăng năm 2020.
+
+### Why leave other variables out of the main story?
+
+Short answer: "We explored month and remoteness, but adding every field as a filter would make the story harder to follow. We kept them as supporting analysis. We postponed bed-day and death ratios until the definitions and missing values are resolved."
+
+Đây là quyết định về phạm vi nội dung. Nhóm vẫn giữ dữ liệu/EDA để trả lời thêm. Không nói dữ liệu không có giá trị chỉ vì không đưa vào bài nói chính.
+
+### Which decisions are settled, and which remain open?
+
+Short answer: "The main question, three chapters and separate comparison/detail years are our current design decisions. Dumbbell and heatmap are proposed for implementation. Sankey versus matrix remains open until we evaluate the task. None of the revised interactions has been presented as completed code."
+
+Xem [decision log](DECISIONS_AFTER_STANDUP1.md) để đối chiếu quyết định với evidence và trạng thái. Không nói thầy đã duyệt các quyết định mới nếu chưa nhận được phản hồi.
 
 ## What Huy should be ready to show
 
@@ -116,7 +157,7 @@ Do not say cyclists had the largest percentage increase or that COVID caused the
 
 Short answer: "It is 3,393 cyclist hospitalisations aged 40-64 divided by all 8,163 cyclist hospitalisations in 2021. The denominator includes Unknown and every source sex category."
 
-Slide 3 displays three selected road users. The full design has all 12. Unk. means Unknown. The age bands have unequal widths, so this is composition across categories rather than an age-specific risk measure.
+Slide 4 displays three selected road users. The full design has all 12. Unk. means Unknown. The age bands have unequal widths, so this is composition across categories rather than an age-specific risk measure.
 
 ### How did the team check the findings?
 
@@ -174,13 +215,13 @@ Short answer: "The existing website and basic pipeline work. The revised charts 
 
 The new analysis CSVs are exploratory Python outputs, not yet final KNIME exports or production website inputs. Do not describe a static sketch as a working chart. Do not claim that every chart is outside the course material before checking the full teaching coverage.
 
-## Tonight and tomorrow
+## Before presenting
 
-- Export the five-slide deck as `Gr_01_StandUp2.pptx` and check all slides and notes on the presentation laptop.
+- Export the seven-slide deck (six main slides and one Q&A backup) as `Gr_01_StandUp2.pptx` and check all slides and notes on the presentation laptop.
 - Import `Gr_01_StandUp2.knwf`. Confirm the bundled workbook, the three executed export branches and workflow-relative paths. Desktop re-import of this renamed package remains a local check.
-- Rehearse the script aloud with pointing and a timer. Aim around 4:30, with the lecturer-confirmed longer format. If it runs long, shorten the wording before increasing speed.
-- Have the design review and existing website ready for Q&A. The main talk uses all five slides. A short demonstration should keep the total around 5 minutes.
-- Submit the PPTX, Design Book draft PDF and KNIME file separately, plus the agreed GitHub link, on 22 November, the night before the user-confirmed 23 November presentation. Do not submit a ZIP.
+- Rehearse the script aloud with pointing and a timer. Aim around 4:45, with the lecturer-confirmed longer format. If it runs long, shorten the wording before increasing speed.
+- Have the design review and existing website ready for Q&A. The main talk uses slides 1-6. Slide 7 is Q&A only. A short demonstration should keep the total around 5 minutes.
+- Use the revised PPTX and current Design Book/KNIME for the 23 November presentation. Submit files separately under the tutor's arrangement. The original night-before submission date was 22 November. The download ZIP is for transferring files.
 - Both Huy and Nhat attend. Huy presents Stand Up 2. Confirm the Week 12 date with the tutorial schedule.
 
 AI use: AI assisted with these notes and the presentation. Huy should rehearse the reasoning and use his own words. The script reflects the personal work the user confirmed. It does not assign Huy the deeper audit or claim completed participant testing.
